@@ -16,7 +16,7 @@
     FormCount: 64,
     AyahAyah: 99,
     AyahSurah: 26,
-    AyahTranslation: "It was naught but the sinners that led us astray;",
+    AyahTranslation: "And none but the guilty led us astray;",
     Word: "أَضَلَّ",
     Meaning: "misguided us",
     WordNum: 51,
@@ -29,7 +29,7 @@
         Phonetic_En: "taḍlīlin",
         FullWord: "تَضْلِيلٍ",
         AyahText: "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِي تَضْلِيلٍ",
-        AyahTrans: "Did He not make their guile to go astray?",
+        AyahTrans: "Did He not make their plot go astray?",
         FormCount: 1,
         Form: "تَضْلِيل",
         
@@ -42,7 +42,7 @@
         Phonetic_En: "ḍāllan",
         FullWord: "ضَالًّا",
         AyahText: "وَوَجَدَكَ ضَالًّا فَهَدَىٰ",
-        AyahTrans: "Did He not find thee erring, and guide thee?",
+        AyahTrans: "Did He not find you unaware of the Right Way, and then directed you to it?",
         FormCount: 14,
         Form: "ضَالّ",
         
@@ -55,7 +55,7 @@
         Phonetic_En: "ḍalālin",
         FullWord: "ضَلَالٍ",
         AyahText: "إِنِّي إِذًا لَّفِي ضَلَالٍ مُّبِينٍ",
-        AyahTrans: "Surely in that case I should be in manifest error.",
+        AyahTrans: "Undoubtedly, I am then in open error.",
         FormCount: 38,
         Form: "ضَلَال",
         
@@ -68,7 +68,7 @@
         Phonetic_En: "ḍalla",
         FullWord: "ضَلَّ",
         AyahText: "مَا ضَلَّ صَاحِبُكُمْ وَمَا غَوَىٰ",
-        AyahTrans: "your comrade is not astray, neither errs,",
+        AyahTrans: "your companion has neither strayed nor is he misguided,",
         FormCount: 53,
         Form: "ضَلَّ",
         
@@ -81,7 +81,7 @@
         Phonetic_En: "wa-aḍallu",
         FullWord: "وَأَضَلُّ",
         AyahText: "وَمَن كَانَ فِي هَٰذِهِ أَعْمَىٰ فَهُوَ فِي الْآخِرَةِ أَعْمَىٰ وَأَضَلُّ سَبِيلًا",
-        AyahTrans: "And whosoever is blind in this world shall be blind in the world to come, and he shall be even further astray from the way.",
+        AyahTrans: "Whoso is blind here will be blind in the Hereafter, and yet further from the road.",
         FormCount: 9,
         Form: "أَضَلّ",
         
@@ -93,8 +93,8 @@
         Meaning_En: "misleader",
         Phonetic_En: "muḍillin",
         FullWord: "مُضِلٍّ",
-        AyahText: "وَمَن يَهْدِ اللَّهُ فَمَا لَهُ مِن مُّضِلٍّ أَلَيْسَ اللَّهُ بِعَزِيزٍ ذِي انتِقَامٍ",
-        AyahTrans: "But whomso God guides, none shall lead him astray; is not God All-mighty, All-vengeful?",
+        AyahText: "وَمَن يَهْدِ اللَّهُ فَمَا لَهُ مِن مُّضِلٍّ...",
+        AyahTrans: "And whomsoever Allah guides, for him there will be no misleader... ",
         FormCount: 3,
         Form: "مُضِلّ",
         
@@ -107,7 +107,7 @@
         Phonetic_En: "ḍalālatun",
         FullWord: "ضَلَالَةٌ",
         AyahText: "قَالَ يَا قَوْمِ لَيْسَ بِي ضَلَالَةٌ وَلَٰكِنِّي رَسُولٌ مِّن رَّبِّ الْعَالَمِينَ",
-        AyahTrans: "Said he, 'My people, there is no error in me; but I am a Messenger from the Lord of all Being.'",
+        AyahTrans: "He said: O my people! There is no error in me, but I am a messenger from the Lord of the Worlds",
         FormCount: 9,
         Form: "ضَلَالَة",
         
@@ -185,7 +185,7 @@
         Phonetic_En: "mus'tamiʿūna",
         FullWord: "مُسْتَمِعُونَ",
         AyahText: "قَالَ كَلَّا فَاذْهَبَا بِآيَاتِنَا إِنَّا مَعَكُم مُّسْتَمِعُونَ",
-        AyahTrans: "Said He, 'No indeed; but go, both of you, with Our signs, and We assuredly shall be with you, listening.",
+        AyahTrans: "[Allah] said, No. Go both of you with Our signs; indeed, We are with you, listening.",
         FormCount: 2,
         Form: "مُسْتَمِع",
         
@@ -198,7 +198,7 @@
         Phonetic_En: "tus'miʿu",
         FullWord: "تُسْمِعُ",
         AyahText: "أَفَأَنتَ تُسْمِعُ الصُّمَّ أَوْ تَهْدِي الْعُمْيَ وَمَن كَانَ فِي ضَلَالٍ مُّبِينٍ",
-        AyahTrans: "What, shalt thou make the deaf to hear, or shalt thou guide the blind and him who is in manifest error?",
+        AyahTrans: "Then will you make the deaf hear, [O Muhammad], or guide the blind or he who is in clear error?",
         FormCount: 13,
         Form: "أَسْمَعَ",
         
