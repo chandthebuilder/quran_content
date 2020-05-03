@@ -1,0 +1,4071 @@
+[
+  {
+    Frequency: 69,
+    Root: {
+      Letters: {
+        one: "س",
+        two: "ك",
+        three: "ن",
+        
+      },
+      Meaning: "سَكَن ( اسم ) : إقَامَة",
+      Meaning_En: "dwelling ; housing ; inhabiting ; living ; lodging ; residence ; residing ; sojourn ; stay",
+      
+    },
+    AyahArabic: "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+    FormCount: 23,
+    AyahAyah: 16,
+    AyahSurah: 90,
+    AyahTranslation: "or a needy man in misery;",
+    Word: "مِسْكِين",
+    Meaning: "a needy person",
+    WordNum: 156,
+    Patterns: [
+      {
+        Surah: 6,
+        Ayah: 13,
+        WordNum: 3,
+        Meaning_En: "dwells",
+        Phonetic_En: "sakana",
+        FullWord: "سَكَنَ",
+        AyahText: "وَلَهُ مَا سَكَنَ فِي اللَّيْلِ وَالنَّهَارِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
+        AyahTrans: "And to Him belongs whatsoever inhabits the night and the day; and He is the All-hearing, the All-knowing.'",
+        FormCount: 15,
+        Form: "سَكَنَ",
+        
+      },
+      {
+        Surah: 14,
+        Ayah: 14,
+        WordNum: 1,
+        Meaning_En: "surely We will make you dwell",
+        Phonetic_En: "",
+        FullWord: "وَلَنُسْكِنَنَّكُمُ",
+        AyahText: "وَلَنُسْكِنَنَّكُمُ الْأَرْضَ مِن بَعْدِهِمْ ذَٰلِكَ لِمَنْ خَافَ مَقَامِي وَخَافَ وَعِيدِ",
+        AyahTrans: "and We will surely make you to dwell in the land after them -- that, for him who fears My station and fears My threat.'",
+        FormCount: 5,
+        Form: "أَسْكَن",
+        
+      },
+      {
+        Surah: 21,
+        Ayah: 13,
+        WordNum: 8,
+        Meaning_En: "to your homes",
+        Phonetic_En: "wamasākinikum",
+        FullWord: "وَمَسَاكِنِكُمْ",
+        AyahText: "لَا تَرْكُضُوا وَارْجِعُوا إِلَىٰ مَا أُتْرِفْتُمْ فِيهِ وَمَسَاكِنِكُمْ لَعَلَّكُمْ تُسْأَلُونَ",
+        AyahTrans: "'Run not! Return you unto the luxury that you exulted in, and your dwelling-places; haply you shall be questioned.'",
+        FormCount: 12,
+        Form: "مَسْكَن",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 26,
+        WordNum: 4,
+        Meaning_En: "His tranquility",
+        Phonetic_En: "sakīnatahu",
+        FullWord: "سَكِينَتَهُ",
+        AyahText: "ثُمَّ أَنزَلَ اللَّهُ سَكِينَتَهُ عَلَىٰ رَسُولِهِ وَعَلَى الْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ الَّذِينَ كَفَرُوا وَذَٰلِكَ جَزَاءُ الْكَافِرِينَ",
+        AyahTrans: "Then God sent down upon His Messenger His Shechina, and upon the believers, and He sent down legions you did not see, and He chastised the unbelievers; and that is the recompense of the unbelievers;",
+        FormCount: 6,
+        Form: "سَكِينَة",
+        
+      },
+      {
+        Surah: 25,
+        Ayah: 45,
+        WordNum: 11,
+        Meaning_En: "stationary",
+        Phonetic_En: "sākinan",
+        FullWord: "سَاكِنًا",
+        AyahText: "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ الظِّلَّ وَلَوْ شَاءَ لَجَعَلَهُ سَاكِنًا ثُمَّ جَعَلْنَا الشَّمْسَ عَلَيْهِ دَلِيلًا",
+        AyahTrans: "Hast thou not regarded thy Lord, how He has stretched out the shadow? Had He willed, He would have made it still. Then We appointed the sun, to be a guide to it;",
+        FormCount: 1,
+        Form: "سَاكِن",
+        
+      },
+      {
+        Surah: 24,
+        Ayah: 29,
+        WordNum: 8,
+        Meaning_En: "inhabited",
+        Phonetic_En: "maskūnatin",
+        FullWord: "مَسْكُونَةٍ",
+        AyahText: "لَّيْسَ عَلَيْكُمْ جُنَاحٌ أَن تَدْخُلُوا بُيُوتًا غَيْرَ مَسْكُونَةٍ فِيهَا مَتَاعٌ لَّكُمْ وَاللَّهُ يَعْلَمُ مَا تُبْدُونَ وَمَا تَكْتُمُونَ",
+        AyahTrans: "There is no fault in you that you enter houses uninhabited wherein enjoyment is for you. God knows what you reveal and what you hide.",
+        FormCount: 1,
+        Form: "مَسْكُون",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 96,
+        WordNum: 5,
+        Meaning_En: "(for) rest",
+        Phonetic_En: "sakanan",
+        FullWord: "سَكَنًا",
+        AyahText: "فَالِقُ الْإِصْبَاحِ وَجَعَلَ اللَّيْلَ سَكَنًا وَالشَّمْسَ وَالْقَمَرَ حُسْبَانًا ذَٰلِكَ تَقْدِيرُ الْعَزِيزِ الْعَلِيمِ",
+        AyahTrans: "He splits the sky into dawn, and has made the night for a repose, and the sun and moon for a reckoning. That is the ordaining of the All-mighty, the All-knowing.",
+        FormCount: 3,
+        Form: "سَكَن",
+        
+      },
+      {
+        Surah: 12,
+        Ayah: 31,
+        WordNum: 13,
+        Meaning_En: "a knife",
+        Phonetic_En: "sikkīnan",
+        FullWord: "سِكِّينًا",
+        AyahText: "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
+        AyahTrans: "When she heard their sly whispers, she sent to them, and made ready for them a repast, then she gave to each one of them a knife. 'Come forth, attend to them,' she said. And when they saw him, they so admired him that they cut their hands, saying, 'God save us! This is no mortal; he is no other but a noble angel.'",
+        FormCount: 1,
+        Form: "سِكِّين",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 112,
+        WordNum: 20,
+        Meaning_En: "the poverty",
+        Phonetic_En: "l-maskanatu",
+        FullWord: "الْمَسْكَنَةُ",
+        AyahText: "ضُرِبَتْ عَلَيْهِمُ الذِّلَّةُ أَيْنَ مَا ثُقِفُوا إِلَّا بِحَبْلٍ مِّنَ اللَّهِ وَحَبْلٍ مِّنَ النَّاسِ وَبَاءُوا بِغَضَبٍ مِّنَ اللَّهِ وَضُرِبَتْ عَلَيْهِمُ الْمَسْكَنَةُ ذَٰلِكَ بِأَنَّهُمْ كَانُوا يَكْفُرُونَ بِآيَاتِ اللَّهِ وَيَقْتُلُونَ الْأَنبِيَاءَ بِغَيْرِ حَقٍّ ذَٰلِكَ بِمَا عَصَوا وَّكَانُوا يَعْتَدُونَ",
+        AyahTrans: "Abasement shall be pitched on them, wherever they are come upon, except they be in a bond of God, and a bond of the people; they will be laden with the burden of God's anger, and poverty shall be pitched on them; that, because they disbelieved in God's signs, and slew the Prophets without right; that, for that they acted rebelliously and were transgressors.",
+        FormCount: 2,
+        Form: "مَسْكَنَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 68,
+    Root: {
+      Letters: {
+        one: "و",
+        two: "ح",
+        three: "د",
+        
+      },
+      Meaning: "وَحَّدَ ( فعل ) : جَمَّعَ وأَلَّفَ",
+      Meaning_En: "combine - to(cause to)join together;possess at the same time - to join together;unite - impose a certain uniform to be worn by a certain group - reduce to unity or uniformity",
+      
+    },
+    AyahArabic: "إِنَّ إِلَٰهَكُمْ لَوَاحِدٌ",
+    FormCount: 59,
+    AyahAyah: 4,
+    AyahSurah: 37,
+    AyahTranslation: "surely your God is One,",
+    Word: "وَاحِد",
+    Meaning: "(is) surely One",
+    WordNum: 157,
+    Patterns: [
+      {
+        Surah: 74,
+        Ayah: 11,
+        WordNum: 4,
+        Meaning_En: "alone",
+        Phonetic_En: "waḥīdan",
+        FullWord: "وَحِيدًا",
+        AyahText: "ذَرْنِي وَمَنْ خَلَقْتُ وَحِيدًا",
+        AyahTrans: "Leave Me with him whom I created alone,",
+        FormCount: 1,
+        Form: "وَحِيد",
+        
+      },
+      {
+        Surah: 40,
+        Ayah: 84,
+        WordNum: 7,
+        Meaning_En: "Alone",
+        Phonetic_En: "waḥdahu",
+        FullWord: "وَحْدَهُ",
+        AyahText: "فَلَمَّا رَأَوْا بَأْسَنَا قَالُوا آمَنَّا بِاللَّهِ وَحْدَهُ وَكَفَرْنَا بِمَا كُنَّا بِهِ مُشْرِكِينَ",
+        AyahTrans: "Then, when they saw Our might, they said, 'We believe in God alone, and we disbelieve in that we were associating with Him.'",
+        FormCount: 6,
+        Form: "وَحْد",
+        
+      },
+      {
+        Surah: 7,
+        Ayah: 189,
+        WordNum: 6,
+        Meaning_En: "single",
+        Phonetic_En: "wāḥidatin",
+        FullWord: "وَاحِدَةٍ",
+        AyahText: "هُوَ الَّذِي خَلَقَكُم مِّن نَّفْسٍ وَاحِدَةٍ وَجَعَلَ مِنْهَا زَوْجَهَا لِيَسْكُنَ إِلَيْهَا فَلَمَّا تَغَشَّاهَا حَمَلَتْ حَمْلًا خَفِيفًا فَمَرَّتْ بِهِ فَلَمَّا أَثْقَلَت دَّعَوَا اللَّهَ رَبَّهُمَا لَئِنْ آتَيْتَنَا صَالِحًا لَّنَكُونَنَّ مِنَ الشَّاكِرِينَ",
+        AyahTrans: "It is He who created you out of one living soul, and made of him his spouse that he might rest in her. Then, when he covered her, she bore a light burden and passed by with it; but when it became heavy they cried to God their Lord, 'If Thou givest us a righteous son, we indeed shall be of the thankful.'",
+        FormCount: 2,
+        Form: "وَاحِدَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 68,
+    Root: {
+      Letters: {
+        one: "ه",
+        two: "ل",
+        three: "ك",
+        
+      },
+      Meaning: "هَلَك ( فعل ) : ماتَ",
+      Meaning_En: "be destroyed ; pass away ; perish ; ruined ; wiped out",
+      
+    },
+    AyahArabic: "أَلَمْ نُهْلِكِ الْأَوَّلِينَ",
+    FormCount: 51,
+    AyahAyah: 16,
+    AyahSurah: 77,
+    AyahTranslation: "Did We not destroy the ancients,",
+    Word: "أَهْلَكَ",
+    Meaning: "destroy",
+    WordNum: 158,
+    Patterns: [
+      {
+        Surah: 69,
+        Ayah: 29,
+        WordNum: 1,
+        Meaning_En: "Is gone",
+        Phonetic_En: "halaka",
+        FullWord: "هَلَكَ",
+        AyahText: "هَلَكَ عَنِّي سُلْطَانِيَهْ",
+        AyahTrans: "my authority is gone from me.'",
+        FormCount: 5,
+        Form: "هَلَكَ",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 131,
+        WordNum: 6,
+        Meaning_En: "one who destroys",
+        Phonetic_En: "muh'lika",
+        FullWord: "مُهْلِكَ",
+        AyahText: "ذَٰلِكَ أَن لَّمْ يَكُن رَّبُّكَ مُهْلِكَ الْقُرَىٰ بِظُلْمٍ وَأَهْلُهَا غَافِلُونَ",
+        AyahTrans: "That is because thy Lord would never destroy the cities unjustly, while their inhabitants were heedless.",
+        FormCount: 5,
+        Form: "مُهْلِك",
+        
+      },
+      {
+        Surah: 12,
+        Ayah: 85,
+        WordNum: 12,
+        Meaning_En: "those who perish",
+        Phonetic_En: "l-hālikīna",
+        FullWord: "الْهَالِكِينَ",
+        AyahText: "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+        AyahTrans: "'By God,' they said, 'thou wilt never cease mentioning Joseph till thou art consumed, or among the perishing.'",
+        FormCount: 2,
+        Form: "هَالِك",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 59,
+        WordNum: 16,
+        Meaning_En: "one to destroy",
+        Phonetic_En: "muh'likī",
+        FullWord: "مُهْلِكِي",
+        AyahText: "وَمَا كَانَ رَبُّكَ مُهْلِكَ الْقُرَىٰ حَتَّىٰ يَبْعَثَ فِي أُمِّهَا رَسُولًا يَتْلُو عَلَيْهِمْ آيَاتِنَا وَمَا كُنَّا مُهْلِكِي الْقُرَىٰ إِلَّا وَأَهْلُهَا ظَالِمُونَ",
+        AyahTrans: "Yet thy Lord never destroyed the cities until He sent in their mother-city a Messenger, to recite Our signs unto them; and We never destroyed the cities, save that their inhabitants were evildoers.",
+        FormCount: 1,
+        Form: "مُهْلِكِى",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 59,
+        WordNum: 7,
+        Meaning_En: "for their destruction",
+        Phonetic_En: "limahlikihim",
+        FullWord: "لِمَهْلِكِهِم",
+        AyahText: "وَتِلْكَ الْقُرَىٰ أَهْلَكْنَاهُمْ لَمَّا ظَلَمُوا وَجَعَلْنَا لِمَهْلِكِهِم مَّوْعِدًا",
+        AyahTrans: "And those cities, We destroyed them when they did evil, and appointed for their destruction a tryst.",
+        FormCount: 2,
+        Form: "مَهْلِك",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 48,
+        WordNum: 4,
+        Meaning_En: "those who were destroyed",
+        Phonetic_En: "l-muh'lakīna",
+        FullWord: "الْمُهْلَكِينَ",
+        AyahText: "فَكَذَّبُوهُمَا فَكَانُوا مِنَ الْمُهْلَكِينَ",
+        AyahTrans: "So they cried them lies, and they were among the destroyed.",
+        FormCount: 1,
+        Form: "مُهْلَك",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 195,
+        WordNum: 9,
+        Meaning_En: "destruction",
+        Phonetic_En: "l-tahlukati",
+        FullWord: "التَّهْلُكَةِ",
+        AyahText: "وَأَنفِقُوا فِي سَبِيلِ اللَّهِ وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ وَأَحْسِنُوا إِنَّ اللَّهَ يُحِبُّ الْمُحْسِنِينَ",
+        AyahTrans: "And expend in the way of God; and cast not yourselves by your own hands into destruction, but be good-doers; God loves the good-doers.",
+        FormCount: 1,
+        Form: "تَهْلُكَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 67,
+    Root: {
+      Letters: {
+        one: "ك",
+        two: "س",
+        three: "ب",
+        
+      },
+      Meaning: "كَسَّب ( اسم ) : أَرْبَحَ",
+      Meaning_En: "breaker",
+      
+    },
+    AyahArabic: "كُلُّ نَفْسٍ بِمَا كَسَبَتْ رَهِينَةٌ",
+    FormCount: 62,
+    AyahAyah: 38,
+    AyahSurah: 74,
+    AyahTranslation: "Every soul shall be pledged for what it has earned,",
+    Word: "كَسَبَ",
+    Meaning: "it has earned",
+    WordNum: 159,
+    Patterns: [
+      {
+        Surah: 33,
+        Ayah: 58,
+        WordNum: 7,
+        Meaning_En: "they have earned",
+        Phonetic_En: "ik'tasabū",
+        FullWord: "اكْتَسَبُوا",
+        AyahText: "وَالَّذِينَ يُؤْذُونَ الْمُؤْمِنِينَ وَالْمُؤْمِنَاتِ بِغَيْرِ مَا اكْتَسَبُوا فَقَدِ احْتَمَلُوا بُهْتَانًا وَإِثْمًا مُّبِينًا",
+        AyahTrans: "And those who hurt believing men and believing women, without that they have earned it, have laid upon themselves calumny and manifest sin.",
+        FormCount: 5,
+        Form: "ٱكْتَسَبَ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 67,
+    Root: {
+      Letters: {
+        one: "ب",
+        two: "ع",
+        three: "ث",
+        
+      },
+      Meaning: "بَعْث ( اسم ) : إِطْلاق",
+      Meaning_En: "run",
+      
+    },
+    AyahArabic: "وَلَا تُخْزِنِي يَوْمَ يُبْعَثُونَ",
+    FormCount: 52,
+    AyahAyah: 87,
+    AyahSurah: 26,
+    AyahTranslation: "Degrade me not upon the day when they are raised up,",
+    Word: "بَعَثَ",
+    Meaning: "they are resurrected",
+    WordNum: 160,
+    Patterns: [
+      {
+        Surah: 91,
+        Ayah: 12,
+        WordNum: 2,
+        Meaning_En: "(was) sent forth",
+        Phonetic_En: "inbaʿatha",
+        FullWord: "انبَعَثَ",
+        AyahText: "إِذِ انبَعَثَ أَشْقَاهَا",
+        AyahTrans: "when the most wretched of them uprose,",
+        FormCount: 1,
+        Form: "ٱنۢبَعَثَ",
+        
+      },
+      {
+        Surah: 83,
+        Ayah: 4,
+        WordNum: 5,
+        Meaning_En: "resurrected",
+        Phonetic_En: "mabʿūthūna",
+        FullWord: "مَبْعُوثُونَ",
+        AyahText: "أَلَا يَظُنُّ أُولَٰئِكَ أَنَّهُم مَّبْعُوثُونَ",
+        AyahTrans: "Do those not think that they shall be raised up",
+        FormCount: 9,
+        Form: "مَبْعُوث",
+        
+      },
+      {
+        Surah: 31,
+        Ayah: 28,
+        WordNum: 4,
+        Meaning_En: "your resurrection",
+        Phonetic_En: "baʿthukum",
+        FullWord: "بَعْثُكُمْ",
+        AyahText: "مَّا خَلْقُكُمْ وَلَا بَعْثُكُمْ إِلَّا كَنَفْسٍ وَاحِدَةٍ إِنَّ اللَّهَ سَمِيعٌ بَصِيرٌ",
+        AyahTrans: "Your creation and your upraising are as but as a single soul. God is All-hearing, All-seeing.",
+        FormCount: 4,
+        Form: "بَعْث",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 46,
+        WordNum: 10,
+        Meaning_En: "their being sent",
+        Phonetic_En: "inbiʿāthahum",
+        FullWord: "انبِعَاثَهُمْ",
+        AyahText: "وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ",
+        AyahTrans: "If they had desired to go forth, they would have made some preparation for it; but God was averse that they should be aroused, so He made them pause, and it was said to them, 'Tarry you with the tarriers.'",
+        FormCount: 1,
+        Form: "ٱنبِعَاث",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 66,
+    Root: {
+      Letters: {
+        one: "و",
+        two: "ف",
+        three: "ي",
+        
+      },
+      Meaning: "وَفِيّ ( اسم ) : أمِين",
+      Meaning_En: "constant ; devoted ; faithful ; loyal ; TRUE ; true-hearted",
+      
+    },
+    AyahArabic: "فَكَيْفَ إِذَا تَوَفَّتْهُمُ الْمَلَائِكَةُ يَضْرِبُونَ وُجُوهَهُمْ وَأَدْبَارَهُمْ",
+    FormCount: 24,
+    AyahAyah: 27,
+    AyahSurah: 47,
+    AyahTranslation: "How shall it be, when the angels take them, beating their faces and their backs?",
+    Word: "تَوَفَّى",
+    Meaning: "take them in death",
+    WordNum: 161,
+    Patterns: [
+      {
+        Surah: 83,
+        Ayah: 2,
+        WordNum: 6,
+        Meaning_En: "they take in full",
+        Phonetic_En: "yastawfūna",
+        FullWord: "يَسْتَوْفُونَ",
+        AyahText: "الَّذِينَ إِذَا اكْتَالُوا عَلَى النَّاسِ يَسْتَوْفُونَ",
+        AyahTrans: "when they measure against the people, take full measure",
+        FormCount: 1,
+        Form: "يَسْتَوْفُ",
+        
+      },
+      {
+        Surah: 53,
+        Ayah: 41,
+        WordNum: 4,
+        Meaning_En: "the fullest",
+        Phonetic_En: "l-awfā",
+        FullWord: "الْأَوْفَى",
+        AyahText: "ثُمَّ يُجْزَاهُ الْجَزَاءَ الْأَوْفَىٰ",
+        AyahTrans: "then he shall be recompensed for it with the fullest recompense,",
+        FormCount: 20,
+        Form: "أَوْفَى",
+        
+      },
+      {
+        Surah: 53,
+        Ayah: 37,
+        WordNum: 3,
+        Meaning_En: "fulfilled",
+        Phonetic_En: "waffā",
+        FullWord: "وَفَّى",
+        AyahText: "وَإِبْرَاهِيمَ الَّذِي وَفَّىٰ",
+        AyahTrans: "and Abraham, he who paid his debt in full?",
+        FormCount: 18,
+        Form: "وَفّى",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 109,
+        WordNum: 17,
+        Meaning_En: "will surely pay them in full",
+        Phonetic_En: "lamuwaffūhum",
+        FullWord: "لَمُوَفُّوهُمْ",
+        AyahText: "فَلَا تَكُ فِي مِرْيَةٍ مِّمَّا يَعْبُدُ هَٰؤُلَاءِ مَا يَعْبُدُونَ إِلَّا كَمَا يَعْبُدُ آبَاؤُهُم مِّن قَبْلُ وَإِنَّا لَمُوَفُّوهُمْ نَصِيبَهُمْ غَيْرَ مَنقُوصٍ",
+        AyahTrans: "So be thou not in doubt concerning what these men serve; they serve only as their fathers served before; and We shall surely pay them in full their portion undiminished.",
+        FormCount: 1,
+        Form: "مُوَفُّو",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 55,
+        WordNum: 6,
+        Meaning_En: "take you",
+        Phonetic_En: "mutawaffīka",
+        FullWord: "مُتَوَفِّيكَ",
+        AyahText: "إِذْ قَالَ اللَّهُ يَا عِيسَىٰ إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ وَمُطَهِّرُكَ مِنَ الَّذِينَ كَفَرُوا وَجَاعِلُ الَّذِينَ اتَّبَعُوكَ فَوْقَ الَّذِينَ كَفَرُوا إِلَىٰ يَوْمِ الْقِيَامَةِ ثُمَّ إِلَيَّ مَرْجِعُكُمْ فَأَحْكُمُ بَيْنَكُمْ فِيمَا كُنتُمْ فِيهِ تَخْتَلِفُونَ",
+        AyahTrans: "When God said, 'Jesus, I will take thee to Me and will raise thee to Me and I will purify thee of those who believe not. I will set thy followers above the unbelievers till the Resurrection Day. Then unto Me shall you return, and I will decide between you, as to what you were at variance on.",
+        FormCount: 1,
+        Form: "مُتَوَفٍّ",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 177,
+        WordNum: 36,
+        Meaning_En: "those who fulfill",
+        Phonetic_En: "wal-mūfūna",
+        FullWord: "وَالْمُوفُونَ",
+        AyahText: "لَّيْسَ الْبِرَّ أَن تُوَلُّوا وُجُوهَكُمْ قِبَلَ الْمَشْرِقِ وَالْمَغْرِبِ وَلَٰكِنَّ الْبِرَّ مَنْ آمَنَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَالْمَلَائِكَةِ وَالْكِتَابِ وَالنَّبِيِّينَ وَآتَى الْمَالَ عَلَىٰ حُبِّهِ ذَوِي الْقُرْبَىٰ وَالْيَتَامَىٰ وَالْمَسَاكِينَ وَابْنَ السَّبِيلِ وَالسَّائِلِينَ وَفِي الرِّقَابِ وَأَقَامَ الصَّلَاةَ وَآتَى الزَّكَاةَ وَالْمُوفُونَ بِعَهْدِهِمْ إِذَا عَاهَدُوا وَالصَّابِرِينَ فِي الْبَأْسَاءِ وَالضَّرَّاءِ وَحِينَ الْبَأْسِ أُولَٰئِكَ الَّذِينَ صَدَقُوا وَأُولَٰئِكَ هُمُ الْمُتَّقُونَ",
+        AyahTrans: "It is not piety, that you turn your faces to the East and to the West. True piety is this: to believe in God, and the Last Day, the angels, the Book, and the Prophets, to give of one's substance, however cherished, to kinsmen, and orphans, the needy, the traveller, beggars, and to ransom the slave, to perform the prayer, to pay the alms. And they who fulfil their covenant when they have engaged in a covenant, and endure with fortitude misfortune, hardship and peril, these are they who are true in their faith, these are the truly godfearing.",
+        FormCount: 1,
+        Form: "مُوفُون",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 66,
+    Root: {
+      Letters: {
+        one: "ج",
+        two: "ر",
+        three: "م",
+        
+      },
+      Meaning: "جَرَّمَ ( فعل ) : اِتَّهَمَ بِجُرْمٍ",
+      Meaning_En: "accuse - say that someone is guilty or has broken the law - charge someone with a crime or offence - attribute something happening or existing to someomne or something; consider as belonging to; impute; assign - to accuse;bring a charge against - to accuse with or load a gun or entrust with - to accuse of committing a crime - to make an indictment against - to express utter disapproval of;censure , convict ,or criticize - to prove to be guilty(of a crime etc); declare guilty by the verdict of a jury or the decision of a judge - to charge with a crime - fasten an accusation on - accuse, charge, indict - condemn, convict - incriminate, condemn - to direct an accusation at",
+      
+    },
+    AyahArabic: "عَنِ الْمُجْرِمِينَ",
+    FormCount: 52,
+    AyahAyah: 41,
+    AyahSurah: 74,
+    AyahTranslation: "concerning the sinners,",
+    Word: "مُجْرِم",
+    Meaning: "the criminals",
+    WordNum: 162,
+    Patterns: [
+      {
+        Surah: 83,
+        Ayah: 29,
+        WordNum: 3,
+        Meaning_En: "committed crimes",
+        Phonetic_En: "ajramū",
+        FullWord: "أَجْرَمُوا",
+        AyahText: "إِنَّ الَّذِينَ أَجْرَمُوا كَانُوا مِنَ الَّذِينَ آمَنُوا يَضْحَكُونَ",
+        AyahTrans: "Behold, the sinners were laughing at the believers,",
+        FormCount: 5,
+        Form: "أَجْرَمُ",
+        
+      },
+      {
+        Surah: 16,
+        Ayah: 109,
+        WordNum: 2,
+        Meaning_En: "doubt",
+        Phonetic_En: "jarama",
+        FullWord: "جَرَمَ",
+        AyahText: "لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْخَاسِرُونَ",
+        AyahTrans: "without a doubt, in the world to come they will be the losers.",
+        FormCount: 5,
+        Form: "جَرَم",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 89,
+        WordNum: 3,
+        Meaning_En: "(Let) not cause you to sin",
+        Phonetic_En: "yajrimannakum",
+        FullWord: "يَجْرِمَنَّكُمْ",
+        AyahText: "وَيَا قَوْمِ لَا يَجْرِمَنَّكُمْ شِقَاقِي أَن يُصِيبَكُم مِّثْلُ مَا أَصَابَ قَوْمَ نُوحٍ أَوْ قَوْمَ هُودٍ أَوْ قَوْمَ صَالِحٍ وَمَا قَوْمُ لُوطٍ مِّنكُم بِبَعِيدٍ",
+        AyahTrans: "O my people, let not the breach with me move you, so that there smite you the like of what smote the people of Noah, or the people of Hood, or the people of Salih; and the people of Lot are not far away from you.",
+        FormCount: 3,
+        Form: "يَجْرِمَ",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 35,
+        WordNum: 8,
+        Meaning_En: "my crime",
+        Phonetic_En: "ij'rāmī",
+        FullWord: "إِجْرَامِي",
+        AyahText: "أَمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِّمَّا تُجْرِمُونَ",
+        AyahTrans: "(Or do they say, 'He has forged it'? Say: 'If I have forged it, upon me falls my sin; and I am quit of the sins you do.')",
+        FormCount: 1,
+        Form: "إِجْرَام",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 65,
+    Root: {
+      Letters: {
+        one: "ع",
+        two: "ي",
+        three: "ن",
+        
+      },
+      Meaning: "عِين ( اسم ) : بَقَرُ الوَحْش",
+      Meaning_En: "antelope - type of animals resembling a deer, with thin legs and runs very fast, found especially in Africa - type of cows that lives in forests, etc - a large straight-horned antelope of the genus Oryx, native to arid parts of Africa and Arabia",
+      
+    },
+    AyahArabic: "وَجَنَّاتٍ وَعُيُونٍ",
+    FormCount: 57,
+    AyahAyah: 134,
+    AyahSurah: 26,
+    AyahTranslation: "gardens and fountains.",
+    Word: "عَيْن",
+    Meaning: "springs",
+    WordNum: 163,
+    Patterns: [
+      {
+        Surah: 37,
+        Ayah: 45,
+        WordNum: 5,
+        Meaning_En: "a flowing spring",
+        Phonetic_En: "maʿīnin",
+        FullWord: "مَعِينٍ",
+        AyahText: "يُطَافُ عَلَيْهِم بِكَأْسٍ مِّن مَّعِينٍ",
+        AyahTrans: "a cup from a spring being passed round to them,",
+        FormCount: 4,
+        Form: "مَعِين",
+        
+      },
+      {
+        Surah: 56,
+        Ayah: 22,
+        WordNum: 2,
+        Meaning_En: "large eyes",
+        Phonetic_En: "ʿīnun",
+        FullWord: "عِينٌ",
+        AyahText: "وَحُورٌ عِينٌ",
+        AyahTrans: "and wide-eyed houris",
+        FormCount: 4,
+        Form: "عِين",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 65,
+    Root: {
+      Letters: {
+        one: "خ",
+        two: "س",
+        three: "ر",
+        
+      },
+      Meaning: "خَسَّرَ ( فعل ) : أَضَلَّ",
+      Meaning_En: "glamour - affect with glamour or make glamorous - to attract or tempt - entice or incite (a person) to do a wrong or forbidden thing.",
+      
+    },
+    AyahArabic: "لَا جَرَمَ أَنَّهُمْ فِي الْآخِرَةِ هُمُ الْخَاسِرُونَ",
+    FormCount: 30,
+    AyahAyah: 109,
+    AyahSurah: 16,
+    AyahTranslation: "without a doubt, in the world to come they will be the losers.",
+    Word: "خَاسِر",
+    Meaning: "(are) the losers",
+    WordNum: 164,
+    Patterns: [
+      {
+        Surah: 103,
+        Ayah: 2,
+        WordNum: 4,
+        Meaning_En: "loss",
+        Phonetic_En: "khus'rin",
+        FullWord: "خُسْرٍ",
+        AyahText: "إِنَّ الْإِنسَانَ لَفِي خُسْرٍ",
+        AyahTrans: "Surely Man is in the way of loss,",
+        FormCount: 2,
+        Form: "خُسْر",
+        
+      },
+      {
+        Surah: 83,
+        Ayah: 3,
+        WordNum: 5,
+        Meaning_En: "they give less",
+        Phonetic_En: "yukh'sirūna",
+        FullWord: "يُخْسِرُونَ",
+        AyahText: "وَإِذَا كَالُوهُمْ أَو وَّزَنُوهُمْ يُخْسِرُونَ",
+        AyahTrans: "but, when they measure for them or weigh for them, do skimp.",
+        FormCount: 2,
+        Form: "يُخْسِرُ",
+        
+      },
+      {
+        Surah: 79,
+        Ayah: 12,
+        WordNum: 5,
+        Meaning_En: "losing",
+        Phonetic_En: "khāsiratun",
+        FullWord: "خَاسِرَةٌ",
+        AyahText: "قَالُوا تِلْكَ إِذًا كَرَّةٌ خَاسِرَةٌ",
+        AyahTrans: "They shall say, 'That then were a losing return!'",
+        FormCount: 1,
+        Form: "خَاسِرَة",
+        
+      },
+      {
+        Surah: 71,
+        Ayah: 21,
+        WordNum: 13,
+        Meaning_En: "loss",
+        Phonetic_En: "khasāran",
+        FullWord: "خَسَارًا",
+        AyahText: "قَالَ نُوحٌ رَّبِّ إِنَّهُمْ عَصَوْنِي وَاتَّبَعُوا مَن لَّمْ يَزِدْهُ مَالُهُ وَوَلَدُهُ إِلَّا خَسَارًا",
+        AyahTrans: "Noah said, 'My Lord, they have rebelled against me, and followed him whose wealth and children increase him only in loss,",
+        FormCount: 3,
+        Form: "خَسَار",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 21,
+        WordNum: 3,
+        Meaning_En: "(have) lost",
+        Phonetic_En: "khasirū",
+        FullWord: "خَسِرُوا",
+        AyahText: "أُولَٰئِكَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَضَلَّ عَنْهُم مَّا كَانُوا يَفْتَرُونَ",
+        AyahTrans: "Those are they that have lost their souls, and that they forged has gone astray from them;",
+        FormCount: 16,
+        Form: "خَسِرَ",
+        
+      },
+      {
+        Surah: 39,
+        Ayah: 15,
+        WordNum: 18,
+        Meaning_En: "the loss",
+        Phonetic_En: "l-khus'rānu",
+        FullWord: "الْخُسْرَانُ",
+        AyahText: "فَاعْبُدُوا مَا شِئْتُم مِّن دُونِهِ قُلْ إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
+        AyahTrans: "so serve what you will apart from Him.' Say: 'Surely the losers are they who lose themselves and their families on the Day of Resurrection; is not that the manifest loss?",
+        FormCount: 3,
+        Form: "خُسْرَان",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 103,
+        WordNum: 4,
+        Meaning_En: "of the greatest losers",
+        Phonetic_En: "bil-akhsarīna",
+        FullWord: "بِالْأَخْسَرِينَ",
+        AyahText: "قُلْ هَلْ نُنَبِّئُكُم بِالْأَخْسَرِينَ أَعْمَالًا",
+        AyahTrans: "Say: 'Shall We tell you who will be the greatest losers in their works?",
+        FormCount: 4,
+        Form: "أَخْسَر",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 181,
+        WordNum: 6,
+        Meaning_En: "those who cause loss",
+        Phonetic_En: "l-mukh'sirīna",
+        FullWord: "الْمُخْسِرِينَ",
+        AyahText: "أَوْفُوا الْكَيْلَ وَلَا تَكُونُوا مِنَ الْمُخْسِرِينَ",
+        AyahTrans: "Fill up the measure, and be not cheaters,",
+        FormCount: 1,
+        Form: "مُخْسِر",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 63,
+        WordNum: 22,
+        Meaning_En: "loss",
+        Phonetic_En: "takhsīrin",
+        FullWord: "تَخْسِيرٍ",
+        AyahText: "قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي مِنْهُ رَحْمَةً فَمَن يَنصُرُنِي مِنَ اللَّهِ إِنْ عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ",
+        AyahTrans: "He said, 'O my people, what think you? If I stand upon a clear sign from my Lord, and He has given me mercy from Him, who shall help me against God if I rebel against Him? You would do nothing for me, except increase my loss.",
+        FormCount: 1,
+        Form: "تَخْسِير",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 64,
+        WordNum: 13,
+        Meaning_En: "the losers",
+        Phonetic_En: "l-khāsirīna",
+        FullWord: "الْخَاسِرِينَ",
+        AyahText: "ثُمَّ تَوَلَّيْتُم مِّن بَعْدِ ذَٰلِكَ فَلَوْلَا فَضْلُ اللَّهِ عَلَيْكُمْ وَرَحْمَتُهُ لَكُنتُم مِّنَ الْخَاسِرِينَ",
+        AyahTrans: "Then you turned away thereafter, and but for the bounty and mercy of God towards you, you had been of the losers.",
+        FormCount: 2,
+        Form: "خَاسِرِ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 64,
+    Root: {
+      Letters: {
+        one: "ح",
+        two: "م",
+        three: "ل",
+        
+      },
+      Meaning: "حَمْل ( اسم ) : الْحُكْم فِي الْمَنْطِق يُمَاثِل الْاِسْنَاد فِي النَّحْ",
+      Meaning_En: "attribution - attributing something to somebody or something, or thing or quality attributed to somebody or something - attribution or imputation",
+      
+    },
+    AyahArabic: "وَعَلَيْهَا وَعَلَى الْفُلْكِ تُحْمَلُونَ",
+    FormCount: 41,
+    AyahAyah: 22,
+    AyahSurah: 23,
+    AyahTranslation: "and upon them, and on the ships, you are borne.",
+    Word: "حَمَلَ",
+    Meaning: "you are carried",
+    WordNum: 165,
+    Patterns: [
+      {
+        Surah: 111,
+        Ayah: 4,
+        WordNum: 2,
+        Meaning_En: "carrier",
+        Phonetic_En: "ḥammālata",
+        FullWord: "حَمَّالَةَ",
+        AyahText: "وَامْرَأَتُهُ حَمَّالَةَ الْحَطَبِ",
+        AyahTrans: "and his wife, the carrier of the firewood,",
+        FormCount: 1,
+        Form: "حَمَّال",
+        
+      },
+      {
+        Surah: 22,
+        Ayah: 2,
+        WordNum: 12,
+        Meaning_En: "her load",
+        Phonetic_En: "ḥamlahā",
+        FullWord: "حَمْلَهَا",
+        AyahText: "يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا وَتَرَى النَّاسَ سُكَارَىٰ وَمَا هُم بِسُكَارَىٰ وَلَٰكِنَّ عَذَابَ اللَّهِ شَدِيدٌ",
+        AyahTrans: "on the day when you behold it, every suckling woman shall neglect the child she has suckled, and every pregnant woman shall deposit her burden, and thou shalt see mankind drunk, yet they are not drunk, but God's chastisement is terrible.",
+        FormCount: 7,
+        Form: "حَمْل",
+        
+      },
+      {
+        Surah: 65,
+        Ayah: 4,
+        WordNum: 16,
+        Meaning_En: "pregnant",
+        Phonetic_En: "l-aḥmāli",
+        FullWord: "الْأَحْمَالِ",
+        AyahText: "وَاللَّائِي يَئِسْنَ مِنَ الْمَحِيضِ مِن نِّسَائِكُمْ إِنِ ارْتَبْتُمْ فَعِدَّتُهُنَّ ثَلَاثَةُ أَشْهُرٍ وَاللَّائِي لَمْ يَحِضْنَ وَأُولَاتُ الْأَحْمَالِ أَجَلُهُنَّ أَن يَضَعْنَ حَمْلَهُنَّ وَمَن يَتَّقِ اللَّهَ يَجْعَل لَّهُ مِنْ أَمْرِهِ يُسْرًا",
+        AyahTrans: "As for your women who have despaired of further menstruating, if you are in doubt, their period shall be three months; and those who have not menstruated as yet. And those who are with child, their term is when they bring forth their burden. Whoso fears God, God will appoint for him, of His command, easiness.",
+        FormCount: 1,
+        Form: "أَحْمَال",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 87,
+        WordNum: 7,
+        Meaning_En: "[we] were made to carry",
+        Phonetic_En: "ḥummil'nā",
+        FullWord: "حُمِّلْنَا",
+        AyahText: "قَالُوا مَا أَخْلَفْنَا مَوْعِدَكَ بِمَلْكِنَا وَلَٰكِنَّا حُمِّلْنَا أَوْزَارًا مِّن زِينَةِ الْقَوْمِ فَقَذَفْنَاهَا فَكَذَٰلِكَ أَلْقَى السَّامِرِيُّ",
+        AyahTrans: "'We have not failed in our tryst with thee,' they said, 'of our volition; but we were loaded with fardels, even the ornaments of the people, and we cast them, as the Samaritan also threw them, into the fire.'",
+        FormCount: 5,
+        Form: "حُمِّلَ",
+        
+      },
+      {
+        Surah: 51,
+        Ayah: 2,
+        WordNum: 1,
+        Meaning_En: "those carrying",
+        Phonetic_En: "fal-ḥāmilāti",
+        FullWord: "فَالْحَامِلَاتِ",
+        AyahText: "فَالْحَامِلَاتِ وِقْرًا",
+        AyahTrans: "and the burden-bearers",
+        FormCount: 2,
+        Form: "حَامِل",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 101,
+        WordNum: 7,
+        Meaning_En: "a load",
+        Phonetic_En: "ḥim'lan",
+        FullWord: "حِمْلًا",
+        AyahText: "خَالِدِينَ فِيهِ وَسَاءَ لَهُمْ يَوْمَ الْقِيَامَةِ حِمْلًا",
+        AyahTrans: "therein abiding forever; how evil upon the Day of Resurrection that burden for them!",
+        FormCount: 3,
+        Form: "حِمْل",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 112,
+        WordNum: 11,
+        Meaning_En: "he (has) burdened (himself)",
+        Phonetic_En: "iḥ'tamala",
+        FullWord: "احْتَمَلَ",
+        AyahText: "وَمَن يَكْسِبْ خَطِيئَةً أَوْ إِثْمًا ثُمَّ يَرْمِ بِهِ بَرِيئًا فَقَدِ احْتَمَلَ بُهْتَانًا وَإِثْمًا مُّبِينًا",
+        AyahTrans: "And whosoever earns a fault or a sin and then casts it upon the innocent, thereby has laid upon himself calumny and manifest sin.",
+        FormCount: 3,
+        Form: "ٱحْتَمَلَ",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 142,
+        WordNum: 3,
+        Meaning_En: "(are some for) burden",
+        Phonetic_En: "ḥamūlatan",
+        FullWord: "حَمُولَةً",
+        AyahText: "وَمِنَ الْأَنْعَامِ حَمُولَةً وَفَرْشًا كُلُوا مِمَّا رَزَقَكُمُ اللَّهُ وَلَا تَتَّبِعُوا خُطُوَاتِ الشَّيْطَانِ إِنَّهُ لَكُمْ عَدُوٌّ مُّبِينٌ",
+        AyahTrans: "And of the cattle, for burthen and for slaughter, eat of what God has provided you; and follow not the steps of Satan; he is a manifest foe to you.",
+        FormCount: 1,
+        Form: "حَمُولَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 64,
+    Root: {
+      Letters: {
+        one: "ج",
+        two: "ر",
+        three: "ي",
+        
+      },
+      Meaning: "جَرْي ( اسم ) : جَرَيَان",
+      Meaning_En: "flow - a corpious outpouring ; a stream - state of being plentiful, abundant;or of producing much - steam of water, gas, etc moving slowly - a fllowing of - outpouring, streaming, gushing - the noun gerund of verb to flow - a prosses of flowing or flowing out - sudden outflow or outburst - noun gerund of verb (to gush) - the action of a runner, the sport of racing on foot - flow; effusion - noun gerund of verb to stream - the emergence of a stratum, vein, or rock at the surface or a noticeable manifestation or occurrence",
+      
+    },
+    AyahArabic: "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+    FormCount: 57,
+    AyahAyah: 50,
+    AyahSurah: 55,
+    AyahTranslation: "therein two fountains of running water --",
+    Word: "جَرَيْ",
+    Meaning: "flowing",
+    WordNum: 166,
+    Patterns: [
+      {
+        Surah: 88,
+        Ayah: 12,
+        WordNum: 3,
+        Meaning_En: "flowing",
+        Phonetic_En: "jāriyatun",
+        FullWord: "جَارِيَةٌ",
+        AyahText: "فِيهَا عَيْنٌ جَارِيَةٌ",
+        AyahTrans: "therein a running fountain,",
+        FormCount: 3,
+        Form: "جَارٍ",
+        
+      },
+      {
+        Surah: 81,
+        Ayah: 16,
+        WordNum: 1,
+        Meaning_En: "Those that run",
+        Phonetic_En: "al-jawāri",
+        FullWord: "الْجَوَارِ",
+        AyahText: "الْجَوَارِ الْكُنَّسِ",
+        AyahTrans: "the runners, the sinkers,",
+        FormCount: 3,
+        Form: "جَوَار",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 41,
+        WordNum: 6,
+        Meaning_En: "its course",
+        Phonetic_En: "majrahā",
+        FullWord: "مَجْراهَا",
+        AyahText: "وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
+        AyahTrans: "He said, 'Embark in it! In God's Name shall be its course and its berthing. Surely my Lord is All-forgiving, All-compassionate.'",
+        FormCount: 1,
+        Form: "مَجْرى",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "م",
+        two: "و",
+        three: "ه",
+        
+      },
+      Meaning: "مَوَّهَ ( فعل ) : أَخْفَى",
+      Meaning_En: "blind - make blind; deprive of sight; take away power of judgement; deceive; go heedlessly - to hide something in a secret place - to hide something by making it look the same as the things around it or seem like something else - to hide;keep secret - to place over or in front of another; hide or protect in this way; lie or extend over; occupy the service of - to change someone's appearance so that they look like someone else - puzzle; bewilder - put a veil over something or hide or disguise something",
+      
+    },
+    AyahArabic: "وَمَاءٍ مَّسْكُوبٍ",
+    FormCount: 63,
+    AyahAyah: 31,
+    AyahSurah: 56,
+    AyahTranslation: "and outpoured waters,",
+    Word: "مَاء",
+    Meaning: "water",
+    WordNum: 167,
+    Patterns: [
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "ق",
+        two: "ض",
+        three: "ي",
+        
+      },
+      Meaning: "قُضِي على ( فعل ) :",
+      Meaning_En: "die",
+      
+    },
+    AyahArabic: "كَلَّا لَمَّا يَقْضِ مَا أَمَرَهُ",
+    FormCount: 59,
+    AyahAyah: 23,
+    AyahSurah: 80,
+    AyahTranslation: "No indeed! Man has not accomplished His bidding.",
+    Word: "قَضى",
+    Meaning: "he has accomplished",
+    WordNum: 168,
+    Patterns: [
+      {
+        Surah: 69,
+        Ayah: 27,
+        WordNum: 3,
+        Meaning_En: "the end",
+        Phonetic_En: "l-qāḍiyata",
+        FullWord: "الْقَاضِيَةَ",
+        AyahText: "يَا لَيْتَهَا كَانَتِ الْقَاضِيَةَ",
+        AyahTrans: "Would it had been the end!",
+        FormCount: 1,
+        Form: "قَاضٍ",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 72,
+        WordNum: 14,
+        Meaning_En: "decreeing",
+        Phonetic_En: "qāḍin",
+        FullWord: "قَاضٍ",
+        AyahText: "قَالُوا لَن نُّؤْثِرَكَ عَلَىٰ مَا جَاءَنَا مِنَ الْبَيِّنَاتِ وَالَّذِي فَطَرَنَا فَاقْضِ مَا أَنتَ قَاضٍ إِنَّمَا تَقْضِي هَٰذِهِ الْحَيَاةَ الدُّنْيَا",
+        AyahTrans: "They said, 'We will not prefer thee over the clear signs that have come to us, nor over Him who originated us. Decide then what thou wilt decide; thou canst only decide touching this present life.",
+        FormCount: 1,
+        Form: "قَاض",
+        
+      },
+      {
+        Surah: 19,
+        Ayah: 71,
+        WordNum: 9,
+        Meaning_En: "decreed",
+        Phonetic_En: "maqḍiyyan",
+        FullWord: "مَقْضِيًّا",
+        AyahText: "وَإِن مِّنكُمْ إِلَّا وَارِدُهَا كَانَ عَلَىٰ رَبِّكَ حَتْمًا مَّقْضِيًّا",
+        AyahTrans: "Not one of you there is, but he shall go down to it; that for thy Lord is a thing decreed, determined.",
+        FormCount: 2,
+        Form: "مَقْضِيّ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "ع",
+        two: "و",
+        three: "د",
+        
+      },
+      Meaning: "عَوْد ( اسم ) : البَدْءُ من جَدِي",
+      Meaning_En: "turn",
+      
+    },
+    AyahArabic: "كَذَّبَتْ عَادٌ الْمُرْسَلِينَ",
+    FormCount: 24,
+    AyahAyah: 123,
+    AyahSurah: 26,
+    AyahTranslation: "Ad cried lies to the Envoys",
+    Word: "عَاد2",
+    Meaning: "(the people) of Aad",
+    WordNum: 169,
+    Patterns: [
+      {
+        Surah: 85,
+        Ayah: 13,
+        WordNum: 4,
+        Meaning_En: "repeats",
+        Phonetic_En: "wayuʿīdu",
+        FullWord: "وَيُعِيدُ",
+        AyahText: "إِنَّهُ هُوَ يُبْدِئُ وَيُعِيدُ",
+        AyahTrans: "Surely it is He who originates, and brings again,",
+        FormCount: 18,
+        Form: "أُعِيدُ",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 107,
+        WordNum: 5,
+        Meaning_En: "we return",
+        Phonetic_En: "ʿud'nā",
+        FullWord: "عُدْنَا",
+        AyahText: "رَبَّنَا أَخْرِجْنَا مِنْهَا فَإِنْ عُدْنَا فَإِنَّا ظَالِمُونَ",
+        AyahTrans: "Our Lord, bring us forth out of it! Then, if we revert, we shall be evildoers indeed.'",
+        FormCount: 18,
+        Form: "عَادَ",
+        
+      },
+      {
+        Surah: 44,
+        Ayah: 15,
+        WordNum: 6,
+        Meaning_En: "return",
+        Phonetic_En: "ʿāidūna",
+        FullWord: "عَائِدُونَ",
+        AyahText: "إِنَّا كَاشِفُو الْعَذَابِ قَلِيلًا إِنَّكُمْ عَائِدُونَ",
+        AyahTrans: "'Behold, We are removing the chastisement a little; behold, you revert!'",
+        FormCount: 1,
+        Form: "عَائِد",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 85,
+        WordNum: 8,
+        Meaning_En: "a place of return",
+        Phonetic_En: "maʿādin",
+        FullWord: "مَعَادٍ",
+        AyahText: "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ قُل رَّبِّي أَعْلَمُ مَن جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ",
+        AyahTrans: "He who imposed 'the Recitation upon thee. shall surely restore thee to a place of homing. Say: 'My Lord' knows very well who comes with guidance, and who is in manifest error.",
+        FormCount: 1,
+        Form: "مَعَاد",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 114,
+        WordNum: 14,
+        Meaning_En: "a festival",
+        Phonetic_En: "ʿīdan",
+        FullWord: "عِيدًا",
+        AyahText: "قَالَ عِيسَى ابْنُ مَرْيَمَ اللَّهُمَّ رَبَّنَا أَنزِلْ عَلَيْنَا مَائِدَةً مِّنَ السَّمَاءِ تَكُونُ لَنَا عِيدًا لِّأَوَّلِنَا وَآخِرِنَا وَآيَةً مِّنكَ وَارْزُقْنَا وَأَنتَ خَيْرُ الرَّازِقِينَ",
+        AyahTrans: "Said Jesus son of Mary, 'O God, our Lord, send down upon us a Table out of heaven, that shall be for us a festival, the first and last of us, and a sign from Thee. And provide for us; Thou art the best of providers.'",
+        FormCount: 1,
+        Form: "عِيد",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "س",
+        two: "ح",
+        three: "ر",
+        
+      },
+      Meaning: "سَحَر ( فعل ) : أصَابَهُ بِسِحْرِه",
+      Meaning_En: "bewitch ; conjure ; magic ; spell ; witch",
+      
+    },
+    AyahArabic: "فَقَالَ إِنْ هَٰذَا إِلَّا سِحْرٌ يُؤْثَرُ",
+    FormCount: 28,
+    AyahAyah: 24,
+    AyahSurah: 74,
+    AyahTranslation: "He said, 'This is naught but a trumped-up sorcery;",
+    Word: "سِحْر",
+    Meaning: "magic",
+    WordNum: 170,
+    Patterns: [
+      {
+        Surah: 51,
+        Ayah: 18,
+        WordNum: 1,
+        Meaning_En: "in the hours before dawn",
+        Phonetic_En: "wabil-asḥāri",
+        FullWord: "وَبِالْأَسْحَارِ",
+        AyahText: "وَبِالْأَسْحَارِ هُمْ يَسْتَغْفِرُونَ",
+        AyahTrans: "and in the mornings they would ask for forgiveness;",
+        FormCount: 3,
+        Form: "سَحَر",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 46,
+        WordNum: 2,
+        Meaning_En: "the magicians",
+        Phonetic_En: "l-saḥaratu",
+        FullWord: "السَّحَرَةُ",
+        AyahText: "فَأُلْقِيَ السَّحَرَةُ سَاجِدِينَ",
+        AyahTrans: "so the sorcerers were cast down, bowing themselves.",
+        FormCount: 22,
+        Form: "سَاحِر",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 185,
+        WordNum: 5,
+        Meaning_En: "those bewitched",
+        Phonetic_En: "l-musaḥarīna",
+        FullWord: "الْمُسَحَّرِينَ",
+        AyahText: "قَالُوا إِنَّمَا أَنتَ مِنَ الْمُسَحَّرِينَ",
+        AyahTrans: "They said, 'Thou art merely one of those that are bewitched;",
+        FormCount: 2,
+        Form: "مُسَحَّر",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 37,
+        WordNum: 3,
+        Meaning_En: "magician",
+        Phonetic_En: "saḥḥārin",
+        FullWord: "سَحَّارٍ",
+        AyahText: "يَأْتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٍ",
+        AyahTrans: "to bring thee every cunning sorcerer.",
+        FormCount: 1,
+        Form: "سَحَّار",
+        
+      },
+      {
+        Surah: 15,
+        Ayah: 15,
+        WordNum: 8,
+        Meaning_En: "bewitched",
+        Phonetic_En: "masḥūrūna",
+        FullWord: "مَسْحُورُونَ",
+        AyahText: "لَقَالُوا إِنَّمَا سُكِّرَتْ أَبْصَارُنَا بَلْ نَحْنُ قَوْمٌ مَّسْحُورُونَ",
+        AyahTrans: "yet would they say, 'Our eyes have been dazzled; nay, we are a people bewitched!'",
+        FormCount: 4,
+        Form: "مَسْحُور",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 89,
+        WordNum: 5,
+        Meaning_En: "are you deluded",
+        Phonetic_En: "tus'ḥarūna",
+        FullWord: "تُسْحَرُونَ",
+        AyahText: "سَيَقُولُونَ لِلَّهِ قُلْ فَأَنَّىٰ تُسْحَرُونَ",
+        AyahTrans: "They will say, 'God's.' Say: 'How then are you bewitched?",
+        FormCount: 3,
+        Form: "سَحَرُ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "ذ",
+        two: "و",
+        three: "ق",
+        
+      },
+      Meaning: "ذَوْق ( اسم ) : حاسَّةُ الذَّوْق",
+      Meaning_En: "gustation - sense of taste - sense of taste; gustation - taste; sense of taste - the sense by which you know one food from another - the sense by which you know one food from another ; gustatory taste .",
+      
+    },
+    AyahArabic: "فَذُوقُوا عَذَابِي وَنُذُرِ",
+    FormCount: 36,
+    AyahAyah: 39,
+    AyahSurah: 54,
+    AyahTranslation: "'Taste now My chastisement and My warnings!'",
+    Word: "ذَاقُ",
+    Meaning: "So taste",
+    WordNum: 171,
+    Patterns: [
+      {
+        Surah: 11,
+        Ayah: 9,
+        WordNum: 2,
+        Meaning_En: "We give man a taste",
+        Phonetic_En: "adhaqnā",
+        FullWord: "أَذَقْنَا",
+        AyahText: "وَلَئِنْ أَذَقْنَا الْإِنسَانَ مِنَّا رَحْمَةً ثُمَّ نَزَعْنَاهَا مِنْهُ إِنَّهُ لَيَئُوسٌ كَفُورٌ",
+        AyahTrans: "And if We let a man taste mercy from Us, and then We wrest it from him, he is desperate, ungrateful.",
+        FormCount: 22,
+        Form: "أَذَاقَ",
+        
+      },
+      {
+        Surah: 37,
+        Ayah: 38,
+        WordNum: 2,
+        Meaning_En: "surely taste",
+        Phonetic_En: "ladhāiqū",
+        FullWord: "لَذَائِقُوا",
+        AyahText: "إِنَّكُمْ لَذَائِقُو الْعَذَابِ الْأَلِيمِ",
+        AyahTrans: "Now certainly you shall be tasting the painful chastisement,",
+        FormCount: 2,
+        Form: "ذَائِقُوا",
+        
+      },
+      {
+        Surah: 29,
+        Ayah: 57,
+        WordNum: 3,
+        Meaning_En: "taste",
+        Phonetic_En: "dhāiqatu",
+        FullWord: "ذَائِقَةُ",
+        AyahText: "كُلُّ نَفْسٍ ذَائِقَةُ الْمَوْتِ ثُمَّ إِلَيْنَا تُرْجَعُونَ",
+        AyahTrans: "Every soul shall taste of death; then unto Us you shall be returned.",
+        FormCount: 3,
+        Form: "ذَائِق",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "ح",
+        two: "م",
+        three: "د",
+        
+      },
+      Meaning: "حَمَّدَ ( فعل ) : أَثْنَى عَلَى",
+      Meaning_En: "celebrate - to praise in speech or writing - praise worthy deed or performance - seek to charm, tempt, allure or fascinate by flatteries - to praise ; speak favourably of - to try to win the affection of, with a view to marry; try to win applause, etc - to praise highly - express approval or admiration for somebody or something - to praise or extol, especially in hymns - commend or laud - praise; commend - - celebrate - to praise in speech or writing - seek to charm, tempt, allure or fascinate by flatteries - to praise ; speak favourably of - to try to win the affection of, with a view to marry; try to win applause, etc - to praise highly - express approval or admiration for somebody or something - to praise or extol, especially in hymns - commend or laud - praise; commend",
+      
+    },
+    AyahArabic: "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ",
+    FormCount: 43,
+    AyahAyah: 2,
+    AyahSurah: 1,
+    AyahTranslation: "Praise belongs to God, the Lord of all Being,",
+    Word: "حَمْد",
+    Meaning: "All praises and thanks",
+    WordNum: 172,
+    Patterns: [
+      {
+        Surah: 22,
+        Ayah: 24,
+        WordNum: 9,
+        Meaning_En: "the Praiseworthy",
+        Phonetic_En: "l-ḥamīdi",
+        FullWord: "الْحَمِيدِ",
+        AyahText: "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ",
+        AyahTrans: "and they; shall be guided unto goodly speech, and they shall be guided unto the path of the All-laudable.",
+        FormCount: 17,
+        Form: "حَمِيد",
+        
+      },
+      {
+        Surah: 17,
+        Ayah: 79,
+        WordNum: 12,
+        Meaning_En: "praiseworthy",
+        Phonetic_En: "maḥmūdan",
+        FullWord: "مَحْمُودًا",
+        AyahText: "وَمِنَ اللَّيْلِ فَتَهَجَّدْ بِهِ نَافِلَةً لَّكَ عَسَىٰ أَن يَبْعَثَكَ رَبُّكَ مَقَامًا مَّحْمُودًا",
+        AyahTrans: "And as for the night, keep vigil a part of it, as a work of supererogation for thee; it may be that thy Lord will raise thee up to a laudable station.",
+        FormCount: 1,
+        Form: "مَحْمُود",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 112,
+        WordNum: 3,
+        Meaning_En: "those who praise",
+        Phonetic_En: "l-ḥāmidūna",
+        FullWord: "الْحَامِدُونَ",
+        AyahText: "التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ السَّائِحُونَ الرَّاكِعُونَ السَّاجِدُونَ الْآمِرُونَ بِالْمَعْرُوفِ وَالنَّاهُونَ عَنِ الْمُنكَرِ وَالْحَافِظُونَ لِحُدُودِ اللَّهِ وَبَشِّرِ الْمُؤْمِنِينَ",
+        AyahTrans: "Those who repent, those who serve, those who pray, those whojourney, those who bow, those who prostrate themselves, those who bid to honour and forbid dishonour, those who keep God's hounds -- and give thou good tidings to the believers.",
+        FormCount: 1,
+        Form: "حَامِد",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 188,
+        WordNum: 9,
+        Meaning_En: "they be praised",
+        Phonetic_En: "yuḥ'madū",
+        FullWord: "يُحْمَدُوا",
+        AyahText: "لَا تَحْسَبَنَّ الَّذِينَ يَفْرَحُونَ بِمَا أَتَوا وَّيُحِبُّونَ أَن يُحْمَدُوا بِمَا لَمْ يَفْعَلُوا فَلَا تَحْسَبَنَّهُم بِمَفَازَةٍ مِّنَ الْعَذَابِ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+        AyahTrans: "Reckon not that those who rejoice in what they have brought, and love to be praised for what they have not done -- do not reckon them secure from chastisement; for them awaits a painful chastisement.",
+        FormCount: 1,
+        Form: "يُحْمَدُ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 63,
+    Root: {
+      Letters: {
+        one: "ت",
+        two: "ل",
+        three: "و",
+        
+      },
+      Meaning: "تِلْو ( اسم ) : إِثْرَ",
+      Meaning_En: "in pursuit of; in search of - later than or behind; next to and following; because of; in pursuit or in search of - directly following - after; following",
+      
+    },
+    AyahArabic: "وَالْقَمَرِ إِذَا تَلَاهَا",
+    FormCount: 61,
+    AyahAyah: 2,
+    AyahSurah: 91,
+    AyahTranslation: "and by the moon when she follows him,",
+    Word: "تَلَى",
+    Meaning: "it follows it",
+    WordNum: 173,
+    Patterns: [
+      {
+        Surah: 37,
+        Ayah: 3,
+        WordNum: 1,
+        Meaning_En: "those who recite",
+        Phonetic_En: "fal-tāliyāti",
+        FullWord: "فَالتَّالِيَاتِ",
+        AyahText: "فَالتَّالِيَاتِ ذِكْرًا",
+        AyahTrans: "and the reciters of a Remembrance,",
+        FormCount: 1,
+        Form: "تَالٍ",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 121,
+        WordNum: 6,
+        Meaning_En: "its recitation",
+        Phonetic_En: "tilāwatihi",
+        FullWord: "تِلَاوَتِهِ",
+        AyahText: "الَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَتْلُونَهُ حَقَّ تِلَاوَتِهِ أُولَٰئِكَ يُؤْمِنُونَ بِهِ وَمَن يَكْفُرْ بِهِ فَأُولَٰئِكَ هُمُ الْخَاسِرُونَ",
+        AyahTrans: "Those to whom We have given the Book and who recite it with true recitation, they believe in it; and whoso disbelieves in it, they shall be the losers.",
+        FormCount: 1,
+        Form: "تِلَاوَت",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 61,
+    Root: {
+      Letters: {
+        one: "م",
+        two: "س",
+        three: "س",
+        
+      },
+      Meaning: "مَسَّ ( فعل ) : أَصابَ",
+      Meaning_En: "befall - happen to; happen",
+      
+    },
+    AyahArabic: "إِذَا مَسَّهُ الشَّرُّ جَزُوعًا",
+    FormCount: 56,
+    AyahAyah: 20,
+    AyahSurah: 70,
+    AyahTranslation: "when evil visits him, impatient,",
+    Word: "مَسَّ",
+    Meaning: "touches him",
+    WordNum: 174,
+    Patterns: [
+      {
+        Surah: 58,
+        Ayah: 3,
+        WordNum: 14,
+        Meaning_En: "they touch each other",
+        Phonetic_En: "yatamāssā",
+        FullWord: "يَتَمَاسَّا",
+        AyahText: "وَالَّذِينَ يُظَاهِرُونَ مِن نِّسَائِهِمْ ثُمَّ يَعُودُونَ لِمَا قَالُوا فَتَحْرِيرُ رَقَبَةٍ مِّن قَبْلِ أَن يَتَمَاسَّا ذَٰلِكُمْ تُوعَظُونَ بِهِ وَاللَّهُ بِمَا تَعْمَلُونَ خَبِيرٌ",
+        AyahTrans: "And those who say, regarding their wives, 'Be as my mother's back,' and then retract what they have said, they shall set free a slave, before the two of them touch one another. By that you are admonished; and God is aware of the things you do.",
+        FormCount: 2,
+        Form: "يَتَمَاسَّ",
+        
+      },
+      {
+        Surah: 54,
+        Ayah: 48,
+        WordNum: 8,
+        Meaning_En: "touch",
+        Phonetic_En: "massa",
+        FullWord: "مَسَّ",
+        AyahText: "يَوْمَ يُسْحَبُونَ فِي النَّارِ عَلَىٰ وُجُوهِهِمْ ذُوقُوا مَسَّ سَقَرَ",
+        AyahTrans: "The day when they are dragged on their faces into the Fire: 'Taste now the touch of Sakar!'",
+        FormCount: 2,
+        Form: "مَسّ",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 97,
+        WordNum: 10,
+        Meaning_En: "touch",
+        Phonetic_En: "misāsa",
+        FullWord: "مِسَاسَ",
+        AyahText: "قَالَ فَاذْهَبْ فَإِنَّ لَكَ فِي الْحَيَاةِ أَن تَقُولَ لَا مِسَاسَ وَإِنَّ لَكَ مَوْعِدًا لَّن تُخْلَفَهُ وَانظُرْ إِلَىٰ إِلَٰهِكَ الَّذِي ظَلْتَ عَلَيْهِ عَاكِفًا لَّنُحَرِّقَنَّهُ ثُمَّ لَنَنسِفَنَّهُ فِي الْيَمِّ نَسْفًا",
+        AyahTrans: "'Depart!' said Moses. 'It shall be thine all this life to cry \"Untouchable!\" And thereafter a tryst awaits thee thou canst not fail to keep Behold thy god, to whom all the day thou wast cleaving! We will surely burn it and scatter its ashes into the sea.",
+        FormCount: 1,
+        Form: "مِسَاس",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 61,
+    Root: {
+      Letters: {
+        one: "ز",
+        two: "ي",
+        three: "د",
+        
+      },
+      Meaning: "زَيَّدَ ( فعل ) : رَفَعَ",
+      Meaning_En: "augment - make something larger in number or size; increase - promote, favour; help on a scheme, cause, etc - give a great deal of - make or become greater in size, amount, etc., or more numerous - rise; mount; bilge",
+      
+    },
+    AyahArabic: "ثُمَّ يَطْمَعُ أَنْ أَزِيدَ",
+    FormCount: 49,
+    AyahAyah: 15,
+    AyahSurah: 74,
+    AyahTranslation: "then he is eager that I should do more.",
+    Word: "زَادَ",
+    Meaning: "I (should) add more",
+    WordNum: 175,
+    Patterns: [
+      {
+        Surah: 18,
+        Ayah: 25,
+        WordNum: 7,
+        Meaning_En: "add",
+        Phonetic_En: "wa-iz'dādū",
+        FullWord: "وَازْدَادُوا",
+        AyahText: "وَلَبِثُوا فِي كَهْفِهِمْ ثَلَاثَ مِائَةٍ سِنِينَ وَازْدَادُوا تِسْعًا",
+        AyahTrans: "And they tarried in the Cave three hundred years, and to that they added nine more.",
+        FormCount: 8,
+        Form: "ٱزْدَادُ",
+        
+      },
+      {
+        Surah: 50,
+        Ayah: 35,
+        WordNum: 6,
+        Meaning_En: "more",
+        Phonetic_En: "mazīdun",
+        FullWord: "مَزِيدٌ",
+        AyahText: "لَهُم مَّا يَشَاءُونَ فِيهَا وَلَدَيْنَا مَزِيدٌ",
+        AyahTrans: "Therein they shall have whatever they will; and with Us there is yet more.",
+        FormCount: 2,
+        Form: "مَزِيد",
+        
+      },
+      {
+        Surah: 10,
+        Ayah: 26,
+        WordNum: 4,
+        Meaning_En: "more",
+        Phonetic_En: "waziyādatun",
+        FullWord: "وَزِيَادَةٌ",
+        AyahText: "لِّلَّذِينَ أَحْسَنُوا الْحُسْنَىٰ وَزِيَادَةٌ وَلَا يَرْهَقُ وُجُوهَهُمْ قَتَرٌ وَلَا ذِلَّةٌ أُولَٰئِكَ أَصْحَابُ الْجَنَّةِ هُمْ فِيهَا خَالِدُونَ",
+        AyahTrans: "the good-doers the reward most fair and a surplus; neither dust nor abasement shall overspread their faces. Those are the inhabitants of Paradise, therein dwelling forever.",
+        FormCount: 2,
+        Form: "زِيَادَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 60,
+    Root: {
+      Letters: {
+        one: "ف",
+        two: "ر",
+        three: "ي",
+        
+      },
+      Meaning: "فَرِيّ ( اسم ) : عَجِيب",
+      Meaning_En: "amazing - so surprising that is hard to believe or extremely good in a surprising and unexpected way - grotesque posture or trick; strange, funny, silly or annoying behaviour - that bewilders - confusing;filling with confusion - unusual,peculiar,not normal - very good;of very high quality - strange; odd; unusual - beyond what is ordinary - extravagantly fanciful ; capricious , eccentric - of or from or situated in or characteristic of a country or language other than one's own or unfamiliar, strange - richly coloured, sumptuous, magnificent - comically or repulsively distorted; monstrous, unnatural - extremely good and admired - lacking distinctive characteristics, not easily classified, neither one thing nor another - extraordinary, strange, queer, remarkable, eccentric, casual - wonderful or marvelous - worth noticing or unusual; exceptional - wonderful; amazing; strange - strikingly large or obvious - wonderful; dazzling; fine; brilliant; beautiful; magnificent astounding; astonishing - astounding, huge or titanic - seeming supernatural; mysterious - very remarkable or admirable; arousing wonder - wonderful; remarkable; amazing; maevellous; extraordinary - astounding; astonishing - indulging in fancies ; whimsical, capricious - putting into disorder;perplexing,amazing - strange, perplexing, hard to account for",
+      
+    },
+    AyahArabic: "قُلْ إِنَّ الَّذِينَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ لَا يُفْلِحُونَ",
+    FormCount: 50,
+    AyahAyah: 69,
+    AyahSurah: 10,
+    AyahTranslation: "Say: 'Those who forge against God falsehood shall not prosper.",
+    Word: "ٱفْتَرَى",
+    Meaning: "invent",
+    WordNum: 176,
+    Patterns: [
+      {
+        Surah: 60,
+        Ayah: 12,
+        WordNum: 23,
+        Meaning_En: "they invent it",
+        Phonetic_En: "yaftarīnahu",
+        FullWord: "يَفْتَرِينَهُ",
+        AyahText: "يَا أَيُّهَا النَّبِيُّ إِذَا جَاءَكَ الْمُؤْمِنَاتُ يُبَايِعْنَكَ عَلَىٰ أَن لَّا يُشْرِكْنَ بِاللَّهِ شَيْئًا وَلَا يَسْرِقْنَ وَلَا يَزْنِينَ وَلَا يَقْتُلْنَ أَوْلَادَهُنَّ وَلَا يَأْتِينَ بِبُهْتَانٍ يَفْتَرِينَهُ بَيْنَ أَيْدِيهِنَّ وَأَرْجُلِهِنَّ وَلَا يَعْصِينَكَ فِي مَعْرُوفٍ فَبَايِعْهُنَّ وَاسْتَغْفِرْ لَهُنَّ اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+        AyahTrans: "O Prophet, when believing women come to thee, swearing fealty to thee upon the terms that they will not associate with God anything, and will not steal, neither commit adultery, nor slay their children, nor bring a calumny they forge between their hands and their feet, nor disobey thee in aught honourable, ask God's forgiveness for them; God is All-forgiving, All-compassionate.",
+        FormCount: 1,
+        Form: "يَفْتَرِي",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 36,
+        WordNum: 11,
+        Meaning_En: "invented",
+        Phonetic_En: "muf'taran",
+        FullWord: "مُفْتَرًى",
+        AyahText: "فَلَمَّا جَاءَهُم مُّوسَىٰ بِآيَاتِنَا بَيِّنَاتٍ قَالُوا مَا هَٰذَا إِلَّا سِحْرٌ مُّفْتَرًى وَمَا سَمِعْنَا بِهَٰذَا فِي آبَائِنَا الْأَوَّلِينَ",
+        AyahTrans: "So when Moses came to them with Our signs, clear signs, they said, 'This is nothing but a forged sorcery. We never heard of this among our fathers, the ancients.'",
+        FormCount: 2,
+        Form: "مُفْتَرًى",
+        
+      },
+      {
+        Surah: 19,
+        Ayah: 27,
+        WordNum: 10,
+        Meaning_En: "an amazing thing",
+        Phonetic_En: "fariyyan",
+        FullWord: "فَرِيًّا",
+        AyahText: "فَأَتَتْ بِهِ قَوْمَهَا تَحْمِلُهُ قَالُوا يَا مَرْيَمُ لَقَدْ جِئْتِ شَيْئًا فَرِيًّا",
+        AyahTrans: "Then she brought the child to her folk carrying him; and they said, 'Mary, thou hast surely committed a monstrous thing!",
+        FormCount: 1,
+        Form: "فَرِيّ",
+        
+      },
+      {
+        Surah: 16,
+        Ayah: 101,
+        WordNum: 13,
+        Meaning_En: "an inventor",
+        Phonetic_En: "muf'tarin",
+        FullWord: "مُفْتَرٍ",
+        AyahText: "وَإِذَا بَدَّلْنَا آيَةً مَّكَانَ آيَةٍ وَاللَّهُ أَعْلَمُ بِمَا يُنَزِّلُ قَالُوا إِنَّمَا أَنتَ مُفْتَرٍ بَلْ أَكْثَرُهُمْ لَا يَعْلَمُونَ",
+        AyahTrans: "And when We exchange a verse in the place of another verse and God knows very well what He is sending down -- they say, 'Thou art a mere forger!' Nay, but the most of them have no knowledge.",
+        FormCount: 1,
+        Form: "مُفْتَر",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 50,
+        WordNum: 17,
+        Meaning_En: "inventors",
+        Phonetic_En: "muf'tarūna",
+        FullWord: "مُفْتَرُونَ",
+        AyahText: "وَإِلَىٰ عَادٍ أَخَاهُمْ هُودًا قَالَ يَا قَوْمِ اعْبُدُوا اللَّهَ مَا لَكُم مِّنْ إِلَٰهٍ غَيْرُهُ إِنْ أَنتُمْ إِلَّا مُفْتَرُونَ",
+        AyahTrans: "And to Ad their brother Hood; he said, 'O my people, serve God! You have no god other than He; you are but forgers.",
+        FormCount: 2,
+        Form: "مُفْتَرٍ",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 13,
+        WordNum: 9,
+        Meaning_En: "fabricated",
+        Phonetic_En: "muf'tarayātin",
+        FullWord: "مُفْتَرَيَاتٍ",
+        AyahText: "أَمْ يَقُولُونَ افْتَرَاهُ قُلْ فَأْتُوا بِعَشْرِ سُوَرٍ مِّثْلِهِ مُفْتَرَيَاتٍ وَادْعُوا مَنِ اسْتَطَعْتُم مِّن دُونِ اللَّهِ إِن كُنتُمْ صَادِقِينَ",
+        AyahTrans: "Or do they say, 'He has forged it'? Say: 'Then bring you ten suras the like of it, forged; and call upon whom you are able, apart from God, if you speak truly.'",
+        FormCount: 1,
+        Form: "مُفْتَرَيَة",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 140,
+        WordNum: 13,
+        Meaning_En: "inventing (lies)",
+        Phonetic_En: "if'tirāan",
+        FullWord: "افْتِرَاءً",
+        AyahText: "قَدْ خَسِرَ الَّذِينَ قَتَلُوا أَوْلَادَهُمْ سَفَهًا بِغَيْرِ عِلْمٍ وَحَرَّمُوا مَا رَزَقَهُمُ اللَّهُ افْتِرَاءً عَلَى اللَّهِ قَدْ ضَلُّوا وَمَا كَانُوا مُهْتَدِينَ",
+        AyahTrans: "Losers are they who slay their children in folly, without knowledge, and have forbidden what God has provided them, forging against God; they have gone astray, and are not right-guided.",
+        FormCount: 2,
+        Form: "ٱفْتِرَاء",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 60,
+    Root: {
+      Letters: {
+        one: "ف",
+        two: "ت",
+        three: "ن",
+        
+      },
+      Meaning: "فَتَن ( فعل ) : أغْرَى",
+      Meaning_En: "allure ; entice ; lure ; seduce ; tempt",
+      
+    },
+    AyahArabic: "إِنَّا جَعَلْنَاهَا فِتْنَةً لِّلظَّالِمِينَ",
+    FormCount: 34,
+    AyahAyah: 63,
+    AyahSurah: 37,
+    AyahTranslation: "We have appointed it as a trial for the evildoers.",
+    Word: "فِتْنَة",
+    Meaning: "a trial",
+    WordNum: 177,
+    Patterns: [
+      {
+        Surah: 51,
+        Ayah: 13,
+        WordNum: 5,
+        Meaning_En: "will be tried",
+        Phonetic_En: "yuf'tanūna",
+        FullWord: "يُفْتَنُونَ",
+        AyahText: "يَوْمَ هُمْ عَلَى النَّارِ يُفْتَنُونَ",
+        AyahTrans: "Upon the day when they shall be tried at the Fire:",
+        FormCount: 23,
+        Form: "فَتَنُ",
+        
+      },
+      {
+        Surah: 68,
+        Ayah: 6,
+        WordNum: 2,
+        Meaning_En: "the afflicted one",
+        Phonetic_En: "l-maftūnu",
+        FullWord: "الْمَفْتُونُ",
+        AyahText: "بِأَييِّكُمُ الْمَفْتُونُ",
+        AyahTrans: "which of you is the demented.",
+        FormCount: 1,
+        Form: "مَفْتُون",
+        
+      },
+      {
+        Surah: 37,
+        Ayah: 162,
+        WordNum: 4,
+        Meaning_En: "can tempt away (anyone)",
+        Phonetic_En: "bifātinīna",
+        FullWord: "بِفَاتِنِينَ",
+        AyahText: "مَا أَنتُمْ عَلَيْهِ بِفَاتِنِينَ",
+        AyahTrans: "you shall not tempt any against Him",
+        FormCount: 1,
+        Form: "فَاتِن",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 40,
+        WordNum: 24,
+        Meaning_En: "a trial",
+        Phonetic_En: "futūnan",
+        FullWord: "فُتُونًا",
+        AyahText: "إِذْ تَمْشِي أُخْتُكَ فَتَقُولُ هَلْ أَدُلُّكُمْ عَلَىٰ مَن يَكْفُلُهُ فَرَجَعْنَاكَ إِلَىٰ أُمِّكَ كَيْ تَقَرَّ عَيْنُهَا وَلَا تَحْزَنَ وَقَتَلْتَ نَفْسًا فَنَجَّيْنَاكَ مِنَ الْغَمِّ وَفَتَنَّاكَ فُتُونًا فَلَبِثْتَ سِنِينَ فِي أَهْلِ مَدْيَنَ ثُمَّ جِئْتَ عَلَىٰ قَدَرٍ يَا مُوسَىٰ",
+        AyahTrans: 'when thy sister went out, saying, "Shall I point you to one to have charge of him?" So We returned thee to thy mother that she might rejoice, and not sorrow. Then thou slewest; a living soul, and We delivered thee out of grief, and We tried thee with many trials. Many years among the people of Midian thou didst sojourn, then camest hither, Moses, according to a decree.',
+        FormCount: 1,
+        Form: "فُتُون",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 60,
+    Root: {
+      Letters: {
+        one: "غ",
+        two: "ي",
+        three: "ب",
+        
+      },
+      Meaning: "غَيَّبَ ( فعل ) : أَبْعَدَ",
+      Meaning_En: "cause to be not present - take away;hide",
+      
+    },
+    AyahArabic: "وَمَا هُوَ عَلَى الْغَيْبِ بِضَنِينٍ",
+    FormCount: 49,
+    AyahAyah: 24,
+    AyahSurah: 81,
+    AyahTranslation: "he is not niggardly of the Unseen.",
+    Word: "غَيْب",
+    Meaning: "the unseen",
+    WordNum: 178,
+    Patterns: [
+      {
+        Surah: 82,
+        Ayah: 16,
+        WordNum: 4,
+        Meaning_En: "absent",
+        Phonetic_En: "bighāibīna",
+        FullWord: "بِغَائِبِينَ",
+        AyahText: "وَمَا هُمْ عَنْهَا بِغَائِبِينَ",
+        AyahTrans: "nor shall they ever be absent from it.",
+        FormCount: 4,
+        Form: "غَائِب",
+        
+      },
+      {
+        Surah: 49,
+        Ayah: 12,
+        WordNum: 15,
+        Meaning_En: "backbite",
+        Phonetic_En: "yaghtab",
+        FullWord: "يَغْتَب",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا اجْتَنِبُوا كَثِيرًا مِّنَ الظَّنِّ إِنَّ بَعْضَ الظَّنِّ إِثْمٌ وَلَا تَجَسَّسُوا وَلَا يَغْتَب بَّعْضُكُم بَعْضًا أَيُحِبُّ أَحَدُكُمْ أَن يَأْكُلَ لَحْمَ أَخِيهِ مَيْتًا فَكَرِهْتُمُوهُ وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ تَوَّابٌ رَّحِيمٌ",
+        AyahTrans: "O believers, eschew much suspicion; some suspicion is a sin. And do not spy, neither backbite one another; would any of you like to eat the flesh of his brother dead? You would abominate it. And fear you God; assuredly God turns, and He is All-compassionate.",
+        FormCount: 1,
+        Form: "يَغْتَب",
+        
+      },
+      {
+        Surah: 34,
+        Ayah: 48,
+        WordNum: 7,
+        Meaning_En: "the unseen",
+        Phonetic_En: "l-ghuyūbi",
+        FullWord: "الْغُيُوبِ",
+        AyahText: "قُلْ إِنَّ رَبِّي يَقْذِفُ بِالْحَقِّ عَلَّامُ الْغُيُوبِ",
+        AyahTrans: "Say: 'My Lord hurls the truth -- the Knower of the Unseen.'",
+        FormCount: 4,
+        Form: "غُيُوب",
+        
+      },
+      {
+        Surah: 12,
+        Ayah: 10,
+        WordNum: 9,
+        Meaning_En: "the bottom",
+        Phonetic_En: "ghayābati",
+        FullWord: "غَيَابَةِ",
+        AyahText: "قَالَ قَائِلٌ مِّنْهُمْ لَا تَقْتُلُوا يُوسُفَ وَأَلْقُوهُ فِي غَيَابَتِ الْجُبِّ يَلْتَقِطْهُ بَعْضُ السَّيَّارَةِ إِن كُنتُمْ فَاعِلِينَ",
+        AyahTrans: "One of them said, 'No, kill not Joseph, but cast him into the bottom of the pit and some traveller will pick him out, if you do aught.'",
+        FormCount: 2,
+        Form: "غَيَابَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 59,
+    Root: {
+      Letters: {
+        one: "ظ",
+        two: "ه",
+        three: "ر",
+        
+      },
+      Meaning: "ظَهَر على ( فعل ) : اِطّلَعَ على",
+      Meaning_En: "acquainted with ; be aware of ; come to know (about) ; know (of) ; learn (about)",
+      
+    },
+    AyahArabic: "الَّذِي أَنقَضَ ظَهْرَكَ",
+    FormCount: 15,
+    AyahAyah: 3,
+    AyahSurah: 94,
+    AyahTranslation: "the burden that weighed down thy back?",
+    Word: "ظَهْر",
+    Meaning: "your back",
+    WordNum: 179,
+    Patterns: [
+      {
+        Surah: 72,
+        Ayah: 26,
+        WordNum: 4,
+        Meaning_En: "He reveals",
+        Phonetic_En: "yuẓ'hiru",
+        FullWord: "يُظْهِرُ",
+        AyahText: "عَالِمُ الْغَيْبِ فَلَا يُظْهِرُ عَلَىٰ غَيْبِهِ أَحَدًا",
+        AyahTrans: "Knower He of the Unseen, and He discloses not His Unseen to anyone,",
+        FormCount: 8,
+        Form: "أَظْهَرَ",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 17,
+        WordNum: 8,
+        Meaning_En: "a supporter",
+        Phonetic_En: "ẓahīran",
+        FullWord: "ظَهِيرًا",
+        AyahText: "قَالَ رَبِّ بِمَا أَنْعَمْتَ عَلَيَّ فَلَنْ أَكُونَ ظَهِيرًا لِّلْمُجْرِمِينَ",
+        AyahTrans: "He said, 'My Lord, forasmuch as Thou hast blessed me, I will never be a partisan of the sinners.'",
+        FormCount: 6,
+        Form: "ظَهِير",
+        
+      },
+      {
+        Surah: 66,
+        Ayah: 4,
+        WordNum: 9,
+        Meaning_En: "you backup each other",
+        Phonetic_En: "taẓāharā",
+        FullWord: "تَظَاهَرَا",
+        AyahText: "إِن تَتُوبَا إِلَى اللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا وَإِن تَظَاهَرَا عَلَيْهِ فَإِنَّ اللَّهَ هُوَ مَوْلَاهُ وَجِبْرِيلُ وَصَالِحُ الْمُؤْمِنِينَ وَالْمَلَائِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+        AyahTrans: "If you two repent to God, yet your hearts certainly inclined; but if you support one another against him, God is his Protector, and Gabriel, and the righteous among the believers; and, after that, the angels are his supporters.",
+        FormCount: 2,
+        Form: "تَظَاهَرُ",
+        
+      },
+      {
+        Surah: 57,
+        Ayah: 3,
+        WordNum: 4,
+        Meaning_En: "the Apparent",
+        Phonetic_En: "wal-ẓāhiru",
+        FullWord: "وَالظَّاهِرُ",
+        AyahText: "هُوَ الْأَوَّلُ وَالْآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        AyahTrans: "He is the First and the Last, the Outward and the Inward; He has knowledge of everything.",
+        FormCount: 10,
+        Form: "ظَاهِر",
+        
+      },
+      {
+        Surah: 33,
+        Ayah: 26,
+        WordNum: 3,
+        Meaning_En: "backed them",
+        Phonetic_En: "ẓāharūhum",
+        FullWord: "ظَاهَرُوهُم",
+        AyahText: "وَأَنزَلَ الَّذِينَ ظَاهَرُوهُم مِّنْ أَهْلِ الْكِتَابِ مِن صَيَاصِيهِمْ وَقَذَفَ فِي قُلُوبِهِمُ الرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+        AyahTrans: "And He brought down those of the People of the Book who supported them from their fortresses and cast terror in their hearts; some you slew, some you made captive.",
+        FormCount: 6,
+        Form: "ظَاهَرُ",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 97,
+        WordNum: 4,
+        Meaning_En: "scale it",
+        Phonetic_En: "yaẓharūhu",
+        FullWord: "يَظْهَرُوهُ",
+        AyahText: "فَمَا اسْطَاعُوا أَن يَظْهَرُوهُ وَمَا اسْتَطَاعُوا لَهُ نَقْبًا",
+        AyahTrans: "So they were unable either to scale it or pierce it.",
+        FormCount: 10,
+        Form: "ظَهَرَ",
+        
+      },
+      {
+        Surah: 24,
+        Ayah: 58,
+        WordNum: 23,
+        Meaning_En: "noon",
+        Phonetic_En: "l-ẓahīrati",
+        FullWord: "الظَّهِيرَةِ",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا لِيَسْتَأْذِنكُمُ الَّذِينَ مَلَكَتْ أَيْمَانُكُمْ وَالَّذِينَ لَمْ يَبْلُغُوا الْحُلُمَ مِنكُمْ ثَلَاثَ مَرَّاتٍ مِّن قَبْلِ صَلَاةِ الْفَجْرِ وَحِينَ تَضَعُونَ ثِيَابَكُم مِّنَ الظَّهِيرَةِ وَمِن بَعْدِ صَلَاةِ الْعِشَاءِ ثَلَاثُ عَوْرَاتٍ لَّكُمْ لَيْسَ عَلَيْكُمْ وَلَا عَلَيْهِمْ جُنَاحٌ بَعْدَهُنَّ طَوَّافُونَ عَلَيْكُم بَعْضُكُمْ عَلَىٰ بَعْضٍ كَذَٰلِكَ يُبَيِّنُ اللَّهُ لَكُمُ الْآيَاتِ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+        AyahTrans: "O believers, let those your right hands own and those of you who have not reached puberty ask leave of you three times -- before the prayer of dawn, and when you put off your garments at the noon, and after the evening prayer -- three times of nakedness for you. There is no fault in you or them, apart from these, that you go about one to the other. So God makes clear to you the signs; and God is All-knowing, All-wise.",
+        FormCount: 1,
+        Form: "ظَهِيرَة",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 92,
+        WordNum: 10,
+        Meaning_En: "backs",
+        Phonetic_En: "ẓih'riyyan",
+        FullWord: "ظِهْرِيًّا",
+        AyahText: "قَالَ يَا قَوْمِ أَرَهْطِي أَعَزُّ عَلَيْكُم مِّنَ اللَّهِ وَاتَّخَذْتُمُوهُ وَرَاءَكُمْ ظِهْرِيًّا إِنَّ رَبِّي بِمَا تَعْمَلُونَ مُحِيطٌ",
+        AyahTrans: "He said, 'O my people, is my tribe stronger against you than God? And Him -- have you taken Him as something to be thrust behind you? My Lord encompasses the things you do.",
+        FormCount: 1,
+        Form: "ظِهْرِيّ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 59,
+    Root: {
+      Letters: {
+        one: "ر",
+        two: "د",
+        three: "د",
+        
+      },
+      Meaning: "رَدّد ( فعل ) : كَرّرَ",
+      Meaning_En: "iterate ; reiterate ; repeat - - say or do anew; afresh - to repeat or do the same thing - reiterate, repeat - return or give back - do something again - repeat something or say it again - give back, turn back, put back - restore somebody to a previous (especially important) position - say or do something again or repeatedly - say; write; do; make something again once or more than once; reiterate - put something back in its place - restore something to its proper owner or original state - bring something back to its former place, position, state, etc",
+      
+    },
+    AyahArabic: "ثُمَّ رَدَدْنَاهُ أَسْفَلَ سَافِلِينَ",
+    FormCount: 36,
+    AyahAyah: 5,
+    AyahSurah: 95,
+    AyahTranslation: "then We restored him the lowest of the low --",
+    Word: "رَدَّ",
+    Meaning: "returned him",
+    WordNum: 180,
+    Patterns: [
+      {
+        Surah: 79,
+        Ayah: 10,
+        WordNum: 3,
+        Meaning_En: "indeed be returned",
+        Phonetic_En: "lamardūdūna",
+        FullWord: "لَمَرْدُودُونَ",
+        AyahText: "يَقُولُونَ أَإِنَّا لَمَرْدُودُونَ فِي الْحَافِرَةِ",
+        AyahTrans: "They shall say, 'What, are we being restored as we were before?",
+        FormCount: 2,
+        Form: "مَرْدُود",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 64,
+        WordNum: 6,
+        Meaning_En: "So they returned",
+        Phonetic_En: "fa-ir'taddā",
+        FullWord: "فَارْتَدَّا",
+        AyahText: "قَالَ ذَٰلِكَ مَا كُنَّا نَبْغِ فَارْتَدَّا عَلَىٰ آثَارِهِمَا قَصَصًا",
+        AyahTrans: "Said he, 'This is what we were seeking!' And so they returned upon their tracks, retracing them.",
+        FormCount: 8,
+        Form: "ٱرْتَدَّ",
+        
+      },
+      {
+        Surah: 19,
+        Ayah: 76,
+        WordNum: 13,
+        Meaning_En: "(for) return",
+        Phonetic_En: "maraddan",
+        FullWord: "مَرَدًّا",
+        AyahText: "وَيَزِيدُ اللَّهُ الَّذِينَ اهْتَدَوْا هُدًى وَالْبَاقِيَاتُ الصَّالِحَاتُ خَيْرٌ عِندَ رَبِّكَ ثَوَابًا وَخَيْرٌ مَّرَدًّا",
+        AyahTrans: "And God shall increase those who were guided in guidance; and the abiding things, the deeds of righteousness, are better with thy Lord in reward, and better in return",
+        FormCount: 6,
+        Form: "مَرَدّ",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 85,
+        WordNum: 6,
+        Meaning_En: "surely take you back",
+        Phonetic_En: "larādduka",
+        FullWord: "لَرَادُّكَ",
+        AyahText: "إِنَّ الَّذِي فَرَضَ عَلَيْكَ الْقُرْآنَ لَرَادُّكَ إِلَىٰ مَعَادٍ قُل رَّبِّي أَعْلَمُ مَن جَاءَ بِالْهُدَىٰ وَمَنْ هُوَ فِي ضَلَالٍ مُّبِينٍ",
+        AyahTrans: "He who imposed 'the Recitation upon thee. shall surely restore thee to a place of homing. Say: 'My Lord' knows very well who comes with guidance, and who is in manifest error.",
+        FormCount: 3,
+        Form: "رَادّ",
+        
+      },
+      {
+        Surah: 21,
+        Ayah: 40,
+        WordNum: 7,
+        Meaning_En: "to repel it",
+        Phonetic_En: "raddahā",
+        FullWord: "رَدَّهَا",
+        AyahText: "بَلْ تَأْتِيهِم بَغْتَةً فَتَبْهَتُهُمْ فَلَا يَسْتَطِيعُونَ رَدَّهَا وَلَا هُمْ يُنظَرُونَ",
+        AyahTrans: "Nay, but it shall come upon them suddenly, dumbfounding them, and they shall not be able to repel it, nor shall they be respited.",
+        FormCount: 2,
+        Form: "رَدّ",
+        
+      },
+      {
+        Surah: 16,
+        Ayah: 71,
+        WordNum: 11,
+        Meaning_En: "would hand over",
+        Phonetic_En: "birāddī",
+        FullWord: "بِرَادِّي",
+        AyahText: "وَاللَّهُ فَضَّلَ بَعْضَكُمْ عَلَىٰ بَعْضٍ فِي الرِّزْقِ فَمَا الَّذِينَ فُضِّلُوا بِرَادِّي رِزْقِهِمْ عَلَىٰ مَا مَلَكَتْ أَيْمَانُهُمْ فَهُمْ فِيهِ سَوَاءٌ أَفَبِنِعْمَةِ اللَّهِ يَجْحَدُونَ",
+        AyahTrans: "And God has preferred some of you over others in provision;, but those that were preferred shall not give over their provision to that their right hands possess, so that they may be equal therein. What, and do they deny God's blessing?",
+        FormCount: 1,
+        Form: "رَادِّى",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 45,
+        WordNum: 14,
+        Meaning_En: "they waver",
+        Phonetic_En: "yataraddadūna",
+        FullWord: "يَتَرَدَّدُونَ",
+        AyahText: "إِنَّمَا يَسْتَأْذِنُكَ الَّذِينَ لَا يُؤْمِنُونَ بِاللَّهِ وَالْيَوْمِ الْآخِرِ وَارْتَابَتْ قُلُوبُهُمْ فَهُمْ فِي رَيْبِهِمْ يَتَرَدَّدُونَ",
+        AyahTrans: "They only ask leave of thee who believe not in God and the Last Day, those whose hearts are filled with doubt, so that in their doubt they go this way and that.",
+        FormCount: 1,
+        Form: "يَتَرَدَّدُ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 58,
+    Root: {
+      Letters: {
+        one: "ض",
+        two: "ر",
+        three: "ب",
+        
+      },
+      Meaning: "ضَرْب ( اسم ) : اِعْتِداءٌ",
+      Meaning_En: "battery - an assault or attack upon; threatening touch",
+      
+    },
+    AyahArabic: "فَضَرَبْنَا عَلَىٰ آذَانِهِمْ فِي الْكَهْفِ سِنِينَ عَدَدًا",
+    FormCount: 55,
+    AyahAyah: 11,
+    AyahSurah: 18,
+    AyahTranslation: "Then We smote their ears many years in the Cave.",
+    Word: "ضَرَبَ",
+    Meaning: "So We cast",
+    WordNum: 181,
+    Patterns: [
+      {
+        Surah: 37,
+        Ayah: 93,
+        WordNum: 3,
+        Meaning_En: "striking",
+        Phonetic_En: "ḍarban",
+        FullWord: "ضَرْبًا",
+        AyahText: "فَرَاغَ عَلَيْهِمْ ضَرْبًا بِالْيَمِينِ",
+        AyahTrans: "And he turned upon them smiting them with his right hand.",
+        FormCount: 3,
+        Form: "ضَرْب",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 57,
+    Root: {
+      Letters: {
+        one: "ق",
+        two: "ر",
+        three: "ي",
+        
+      },
+      Meaning: "",
+      Meaning_En: "",
+      
+    },
+    AyahArabic: "وَمَا أَهْلَكْنَا مِن قَرْيَةٍ إِلَّا لَهَا مُنذِرُونَ",
+    FormCount: 57,
+    AyahAyah: 208,
+    AyahSurah: 26,
+    AyahTranslation: "Never a city We destroyed, but it had warners",
+    Word: "قَرْيَة",
+    Meaning: "town",
+    WordNum: 182,
+    Patterns: [
+      
+    ],
+    
+  },
+  {
+    Frequency: 57,
+    Root: {
+      Letters: {
+        one: "ع",
+        two: "د",
+        three: "د",
+        
+      },
+      Meaning: "عَدّد ( فعل ) : أحْصَى",
+      Meaning_En: "count (off) ; enumerate ; list ; number - - calculate - to compute ,count ,number ,etc - to reckon;calculate - to say or name (the numerals) in order; to find the total of - to say or name the numerals in order - to name a list of things one by one - to write a list or mention things one after the other or enter in a list or enumerate; name one by one as if in a list - include, assign a number or numbers to; count - enumerate; calculate; count - estimate the worth or value of something or somebody - find out ( the quantity, number, cost, etc ) by using numbers - amount in number to or find the total of or mount to .",
+      
+    },
+    AyahArabic: "وَاتَّقُوا النَّارَ الَّتِي أُعِدَّتْ لِلْكَافِرِينَ",
+    FormCount: 20,
+    AyahAyah: 131,
+    AyahSurah: 3,
+    AyahTranslation: "And fear the Fire prepared for the unbelievers,",
+    Word: "أَعَدَّ",
+    Meaning: "is prepared",
+    WordNum: 183,
+    Patterns: [
+      {
+        Surah: 104,
+        Ayah: 2,
+        WordNum: 4,
+        Meaning_En: "counts it",
+        Phonetic_En: "waʿaddadahu",
+        FullWord: "وَعَدَّدَهُ",
+        AyahText: "الَّذِي جَمَعَ مَالًا وَعَدَّدَهُ",
+        AyahTrans: "who has gathered riches and counted them over",
+        FormCount: 1,
+        Form: "عَدَّدَ",
+        
+      },
+      {
+        Surah: 33,
+        Ayah: 49,
+        WordNum: 17,
+        Meaning_En: "waiting period",
+        Phonetic_En: "ʿiddatin",
+        FullWord: "عِدَّةٍ",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+        AyahTrans: "O believers, when you marry believing women and then divorce them before you touch them, you have no period to reckon against them; so make provision for them, and set them free with kindliness.",
+        FormCount: 11,
+        Form: "عِدَّة",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 112,
+        WordNum: 6,
+        Meaning_En: "number",
+        Phonetic_En: "ʿadada",
+        FullWord: "عَدَدَ",
+        AyahText: "قَالَ كَمْ لَبِثْتُمْ فِي الْأَرْضِ عَدَدَ سِنِينَ",
+        AyahTrans: "He shall say, 'How long have you tarried in the earth, by number of years?'",
+        FormCount: 6,
+        Form: "عَدَد",
+        
+      },
+      {
+        Surah: 19,
+        Ayah: 94,
+        WordNum: 3,
+        Meaning_En: "counted them",
+        Phonetic_En: "waʿaddahum",
+        FullWord: "وَعَدَّهُمْ",
+        AyahText: "لَّقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+        AyahTrans: "He has indeed counted them, and He has numbered them exactly.",
+        FormCount: 7,
+        Form: "عَدَّ",
+        
+      },
+      {
+        Surah: 33,
+        Ayah: 49,
+        WordNum: 18,
+        Meaning_En: "count concerning them",
+        Phonetic_En: "taʿtaddūnahā",
+        FullWord: "تَعْتَدُّونَهَا",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا نَكَحْتُمُ الْمُؤْمِنَاتِ ثُمَّ طَلَّقْتُمُوهُنَّ مِن قَبْلِ أَن تَمَسُّوهُنَّ فَمَا لَكُمْ عَلَيْهِنَّ مِنْ عِدَّةٍ تَعْتَدُّونَهَا فَمَتِّعُوهُنَّ وَسَرِّحُوهُنَّ سَرَاحًا جَمِيلًا",
+        AyahTrans: "O believers, when you marry believing women and then divorce them before you touch them, you have no period to reckon against them; so make provision for them, and set them free with kindliness.",
+        FormCount: 1,
+        Form: "تَعْتَدُّ",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 113,
+        WordNum: 8,
+        Meaning_En: "those who keep count",
+        Phonetic_En: "l-ʿādīna",
+        FullWord: "الْعَادِّينَ",
+        AyahText: "قَالُوا لَبِثْنَا يَوْمًا أَوْ بَعْضَ يَوْمٍ فَاسْأَلِ الْعَادِّينَ",
+        AyahTrans: "They shall say, 'We have tarried a day, or part of a day; ask the numberers!'",
+        FormCount: 1,
+        Form: "عَادّ",
+        
+      },
+      {
+        Surah: 19,
+        Ayah: 94,
+        WordNum: 4,
+        Meaning_En: "a counting",
+        Phonetic_En: "ʿaddan",
+        FullWord: "عَدًّا",
+        AyahText: "لَّقَدْ أَحْصَاهُمْ وَعَدَّهُمْ عَدًّا",
+        AyahTrans: "He has indeed counted them, and He has numbered them exactly.",
+        FormCount: 2,
+        Form: "عَدّ",
+        
+      },
+      {
+        Surah: 11,
+        Ayah: 104,
+        WordNum: 5,
+        Meaning_En: "limited",
+        Phonetic_En: "maʿdūdin",
+        FullWord: "مَعْدُودٍ",
+        AyahText: "وَمَا نُؤَخِّرُهُ إِلَّا لِأَجَلٍ مَّعْدُودٍ",
+        AyahTrans: "and We shall not postpone it, save to a term reckoned;",
+        FormCount: 7,
+        Form: "مَعْدُود",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 46,
+        WordNum: 6,
+        Meaning_En: "(some) preparation",
+        Phonetic_En: "ʿuddatan",
+        FullWord: "عُدَّةً",
+        AyahText: "وَلَوْ أَرَادُوا الْخُرُوجَ لَأَعَدُّوا لَهُ عُدَّةً وَلَٰكِن كَرِهَ اللَّهُ انبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ اقْعُدُوا مَعَ الْقَاعِدِينَ",
+        AyahTrans: "If they had desired to go forth, they would have made some preparation for it; but God was averse that they should be aroused, so He made them pause, and it was said to them, 'Tarry you with the tarriers.'",
+        FormCount: 1,
+        Form: "عُدَّة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 57,
+    Root: {
+      Letters: {
+        one: "ر",
+        two: "و",
+        three: "ح",
+        
+      },
+      Meaning: "الرّوح ( اسم ) : المَلاَكُ جِبْرِيل",
+      Meaning_En: "Archangel Gabriel",
+      
+    },
+    AyahArabic: "وَأَمَّا عَادٌ فَأُهْلِكُوا بِرِيحٍ صَرْصَرٍ عَاتِيَةٍ",
+    FormCount: 29,
+    AyahAyah: 6,
+    AyahSurah: 69,
+    AyahTranslation: "and as for Ad, they were destroyed by a wind clamorous,",
+    Word: "رِيح",
+    Meaning: "by a wind",
+    WordNum: 184,
+    Patterns: [
+      {
+        Surah: 26,
+        Ayah: 193,
+        WordNum: 3,
+        Meaning_En: "the Spirit",
+        Phonetic_En: "l-rūḥu",
+        FullWord: "الرُّوحُ",
+        AyahText: "نَزَلَ بِهِ الرُّوحُ الْأَمِينُ",
+        AyahTrans: "brought down by the Faithful Spirit",
+        FormCount: 21,
+        Form: "رُوح",
+        
+      },
+      {
+        Surah: 56,
+        Ayah: 89,
+        WordNum: 2,
+        Meaning_En: "bounty",
+        Phonetic_En: "warayḥānun",
+        FullWord: "وَرَيْحَانٌ",
+        AyahText: "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+        AyahTrans: "there shall be repose and ease, and a Garden of Delight;",
+        FormCount: 2,
+        Form: "رَيْحَان",
+        
+      },
+      {
+        Surah: 56,
+        Ayah: 89,
+        WordNum: 1,
+        Meaning_En: "rest",
+        Phonetic_En: "farawḥun",
+        FullWord: "فَرَوْحٌ",
+        AyahText: "فَرَوْحٌ وَرَيْحَانٌ وَجَنَّتُ نَعِيمٍ",
+        AyahTrans: "there shall be repose and ease, and a Garden of Delight;",
+        FormCount: 3,
+        Form: "رَوْح",
+        
+      },
+      {
+        Surah: 34,
+        Ayah: 12,
+        WordNum: 5,
+        Meaning_En: "its afternoon course",
+        Phonetic_En: "warawāḥuhā",
+        FullWord: "وَرَوَاحُهَا",
+        AyahText: "وَلِسُلَيْمَانَ الرِّيحَ غُدُوُّهَا شَهْرٌ وَرَوَاحُهَا شَهْرٌ وَأَسَلْنَا لَهُ عَيْنَ الْقِطْرِ وَمِنَ الْجِنِّ مَن يَعْمَلُ بَيْنَ يَدَيْهِ بِإِذْنِ رَبِّهِ وَمَن يَزِغْ مِنْهُمْ عَنْ أَمْرِنَا نُذِقْهُ مِنْ عَذَابِ السَّعِيرِ",
+        AyahTrans: "And to Solomon the wind; its morning course was a month's journey, and its evening course was a month's journey. And We made the Fount of Molten Brass to flow for him. And of the jinn, some worked before him by the leave of his Lord; and such of them as swerved away from Our commandment, We would let them taste the chastisement of the Blaze;",
+        FormCount: 1,
+        Form: "رَوَاح",
+        
+      },
+      {
+        Surah: 16,
+        Ayah: 6,
+        WordNum: 5,
+        Meaning_En: "you bring them in",
+        Phonetic_En: "turīḥūna",
+        FullWord: "تُرِيحُونَ",
+        AyahText: "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+        AyahTrans: "and there is beauty in them for you, when you bring them home to rest and when you drive them forth abroad to pasture;",
+        FormCount: 1,
+        Form: "تُرِيحُ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 56,
+    Root: {
+      Letters: {
+        one: "ن",
+        two: "ه",
+        three: "ي",
+        
+      },
+      Meaning: "نَهْي ( اسم ) : مَنْع",
+      Meaning_En: "ban(ning) ; forbiddance ; forbidding ; interdiction ; prohibition ; proscription",
+      
+    },
+    AyahArabic: "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+    FormCount: 32,
+    AyahAyah: 9,
+    AyahSurah: 96,
+    AyahTranslation: "What thinkest thou? He who forbids",
+    Word: "نَهَى",
+    Meaning: "forbids",
+    WordNum: 185,
+    Patterns: [
+      {
+        Surah: 2,
+        Ayah: 192,
+        WordNum: 2,
+        Meaning_En: "they cease",
+        Phonetic_En: "intahaw",
+        FullWord: "انتَهَوْا",
+        AyahText: "فَإِنِ انتَهَوْا فَإِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+        AyahTrans: "but if they give over, surely God is All-forgiving, All-compassionate.",
+        FormCount: 16,
+        Form: "ٱنتَهَى",
+        
+      },
+      {
+        Surah: 79,
+        Ayah: 44,
+        WordNum: 3,
+        Meaning_En: "its finality",
+        Phonetic_En: "muntahāhā",
+        FullWord: "مُنتَهَاهَا",
+        AyahText: "إِلَىٰ رَبِّكَ مُنتَهَاهَا",
+        AyahTrans: "Unto thy Lord is the final end of it.",
+        FormCount: 3,
+        Form: "مُنتَهَى",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 54,
+        WordNum: 9,
+        Meaning_En: "intelligence",
+        Phonetic_En: "l-nuhā",
+        FullWord: "النُّهَى",
+        AyahText: "كُلُوا وَارْعَوْا أَنْعَامَكُمْ إِنَّ فِي ذَٰلِكَ لَآيَاتٍ لِّأُولِي النُّهَىٰ",
+        AyahTrans: "Do you eat, and pasture your cattle! Surely in that are signs for men possessing reason.",
+        FormCount: 2,
+        Form: "نُهَى",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 112,
+        WordNum: 9,
+        Meaning_En: "those who forbid",
+        Phonetic_En: "wal-nāhūna",
+        FullWord: "وَالنَّاهُونَ",
+        AyahText: "التَّائِبُونَ الْعَابِدُونَ الْحَامِدُونَ السَّائِحُونَ الرَّاكِعُونَ السَّاجِدُونَ الْآمِرُونَ بِالْمَعْرُوفِ وَالنَّاهُونَ عَنِ الْمُنكَرِ وَالْحَافِظُونَ لِحُدُودِ اللَّهِ وَبَشِّرِ الْمُؤْمِنِينَ",
+        AyahTrans: "Those who repent, those who serve, those who pray, those whojourney, those who bow, those who prostrate themselves, those who bid to honour and forbid dishonour, those who keep God's hounds -- and give thou good tidings to the believers.",
+        FormCount: 1,
+        Form: "نَاهُون",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 91,
+        WordNum: 20,
+        Meaning_En: "(be) the ones who abstain",
+        Phonetic_En: "muntahūna",
+        FullWord: "مُنتَهُونَ",
+        AyahText: "إِنَّمَا يُرِيدُ الشَّيْطَانُ أَن يُوقِعَ بَيْنَكُمُ الْعَدَاوَةَ وَالْبَغْضَاءَ فِي الْخَمْرِ وَالْمَيْسِرِ وَيَصُدَّكُمْ عَن ذِكْرِ اللَّهِ وَعَنِ الصَّلَاةِ فَهَلْ أَنتُم مُّنتَهُونَ",
+        AyahTrans: "Satan only desires to precipitate enmity and hatred between you in regard to wine and arrow-shuffling, and to bar you from the remembrance of God, and from prayer. Will you then desist?",
+        FormCount: 1,
+        Form: "مُنتَهُون",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 79,
+        WordNum: 3,
+        Meaning_En: "forbidding each other",
+        Phonetic_En: "yatanāhawna",
+        FullWord: "يَتَنَاهَوْنَ",
+        AyahText: "كَانُوا لَا يَتَنَاهَوْنَ عَن مُّنكَرٍ فَعَلُوهُ لَبِئْسَ مَا كَانُوا يَفْعَلُونَ",
+        AyahTrans: "They forbade not one another any dishonour that they committed; surely evil were the things they did.",
+        FormCount: 1,
+        Form: "يَتَنَاهَ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 56,
+    Root: {
+      Letters: {
+        one: "ذ",
+        two: "ه",
+        three: "ب",
+        
+      },
+      Meaning: "ذَهَب ( اسم ) : عُنْصَر فِلِذِّيّ أَصْفَر اللَّوْن وَزْنُهُ الذَّرِّيّ 197.2",
+      Meaning_En: "gold - a precious shiny yellow metallic chemical element - the gold",
+      
+    },
+    AyahArabic: "فَأَيْنَ تَذْهَبُونَ",
+    FormCount: 35,
+    AyahAyah: 26,
+    AyahSurah: 81,
+    AyahTranslation: "where then are you going?",
+    Word: "ذَهَبَ",
+    Meaning: "are you going?",
+    WordNum: 186,
+    Patterns: [
+      {
+        Surah: 35,
+        Ayah: 16,
+        WordNum: 3,
+        Meaning_En: "He (can) do away with you",
+        Phonetic_En: "",
+        FullWord: "يُذْهِبْكُمْ",
+        AyahText: "إِن يَشَأْ يُذْهِبْكُمْ وَيَأْتِ بِخَلْقٍ جَدِيدٍ",
+        AyahTrans: "If He will, He can put you away and bring a new creation;",
+        FormCount: 11,
+        Form: "أَذْهَبَ",
+        
+      },
+      {
+        Surah: 43,
+        Ayah: 53,
+        WordNum: 6,
+        Meaning_En: "gold",
+        Phonetic_En: "",
+        FullWord: "ذَهَبٍ",
+        AyahText: "فَلَوْلَا أُلْقِيَ عَلَيْهِ أَسْوِرَةٌ مِّن ذَهَبٍ أَوْ جَاءَ مَعَهُ الْمَلَائِكَةُ مُقْتَرِنِينَ",
+        AyahTrans: "Why then have bracelets of gold not been cast on him, or angels not come with him conjoined?'",
+        FormCount: 8,
+        Form: "ذَهَب",
+        
+      },
+      {
+        Surah: 37,
+        Ayah: 99,
+        WordNum: 3,
+        Meaning_En: "going",
+        Phonetic_En: "",
+        FullWord: "ذَاهِبٌ",
+        AyahText: "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهْدِينِ",
+        AyahTrans: "He said, 'I am going to my Lord; He will guide me.",
+        FormCount: 1,
+        Form: "ذَاهِب",
+        
+      },
+      {
+        Surah: 23,
+        Ayah: 18,
+        WordNum: 11,
+        Meaning_En: "**taking it away,",
+        Phonetic_En: "",
+        FullWord: "ذَهَابٍ",
+        AyahText: "وَأَنزَلْنَا مِنَ السَّمَاءِ مَاءً بِقَدَرٍ فَأَسْكَنَّاهُ فِي الْأَرْضِ وَإِنَّا عَلَىٰ ذَهَابٍ بِهِ لَقَادِرُونَ",
+        AyahTrans: "And We sent down out of heaven water in measure and lodged it in the earth; and We are able to take it away.",
+        FormCount: 1,
+        Form: "ذَهَاب",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 56,
+    Root: {
+      Letters: {
+        one: "أ",
+        two: "ج",
+        three: "ل",
+        
+      },
+      Meaning: "أجَلّ ( اسم ) : أسْمَى",
+      Meaning_En: "loftier ; more august ; more exalted ; more important ; more imposing ; more significant ; more solemn ; more stately ; more sublime - - more sublime; loftier - more exalted, sublime; loftier - more sublime; loftier",
+      
+    },
+    AyahArabic: "وَمَا نُؤَخِّرُهُ إِلَّا لِأَجَلٍ مَّعْدُودٍ",
+    FormCount: 52,
+    AyahAyah: 104,
+    AyahSurah: 11,
+    AyahTranslation: "and We shall not postpone it, save to a term reckoned;",
+    Word: "أَجَل",
+    Meaning: "for a term",
+    WordNum: 187,
+    Patterns: [
+      {
+        Surah: 77,
+        Ayah: 12,
+        WordNum: 3,
+        Meaning_En: "are (these) postponed",
+        Phonetic_En: "ujjilat",
+        FullWord: "أُجِّلَتْ",
+        AyahText: "لِأَيِّ يَوْمٍ أُجِّلَتْ",
+        AyahTrans: "to what day shall they be delayed?",
+        FormCount: 2,
+        Form: "أَجَّلَ",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 32,
+        WordNum: 2,
+        Meaning_En: "time",
+        Phonetic_En: "ajli",
+        FullWord: "أَجْلِ",
+        AyahText: "مِنْ أَجْلِ ذَٰلِكَ كَتَبْنَا عَلَىٰ بَنِي إِسْرَائِيلَ أَنَّهُ مَن قَتَلَ نَفْسًا بِغَيْرِ نَفْسٍ أَوْ فَسَادٍ فِي الْأَرْضِ فَكَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا وَمَنْ أَحْيَاهَا فَكَأَنَّمَا أَحْيَا النَّاسَ جَمِيعًا وَلَقَدْ جَاءَتْهُمْ رُسُلُنَا بِالْبَيِّنَاتِ ثُمَّ إِنَّ كَثِيرًا مِّنْهُم بَعْدَ ذَٰلِكَ فِي الْأَرْضِ لَمُسْرِفُونَ",
+        AyahTrans: "Therefore We prescribed for the Children of Israel that whoso slays a soul not to retaliate for a soul slain, nor for corruption done in the land, shall be as if he had slain mankind altogether; and whoso gives life to a soul, shall be as if he ha given life to mankind altogether. Our Messengers have already come to them with the clear signs; then many of them thereafter commit excesses in the earth.",
+        FormCount: 1,
+        Form: "أَجْل",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 145,
+        WordNum: 10,
+        Meaning_En: "determined",
+        Phonetic_En: "mu-ajjalan",
+        FullWord: "مُؤَجَّلًا",
+        AyahText: "وَمَا كَانَ لِنَفْسٍ أَن تَمُوتَ إِلَّا بِإِذْنِ اللَّهِ كِتَابًا مُّؤَجَّلًا وَمَن يُرِدْ ثَوَابَ الدُّنْيَا نُؤْتِهِ مِنْهَا وَمَن يُرِدْ ثَوَابَ الْآخِرَةِ نُؤْتِهِ مِنْهَا وَسَنَجْزِي الشَّاكِرِينَ",
+        AyahTrans: "It is not given to any soul to die, save by the leave of God, at an appointed time. Whoso desires the reward of this world, We will give him of this; and whoso desires the reward of the other world, We will give him of that; and We will recompense the thankful.",
+        FormCount: 1,
+        Form: "مُؤَجَّل",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 55,
+    Root: {
+      Letters: {
+        one: "د",
+        two: "و",
+        three: "ر",
+        
+      },
+      Meaning: "دَوْر ( اسم ) : تَرْتِيبُك كقولنا",
+      Meaning_En: "inning ; each division of a game during which both sides have a turn at batting .",
+      
+    },
+    AyahArabic: "إِنَّا أَخْلَصْنَاهُم بِخَالِصَةٍ ذِكْرَى الدَّارِ",
+    FormCount: 48,
+    AyahAyah: 46,
+    AyahSurah: 38,
+    AyahTranslation: "Assuredly We purified them with a quality most pure, the remembrance of the Abode,",
+    Word: "دَار",
+    Meaning: "(of) the Home",
+    WordNum: 188,
+    Patterns: [
+      {
+        Surah: 71,
+        Ayah: 26,
+        WordNum: 10,
+        Meaning_En: "an inhabitant",
+        Phonetic_En: "dayyāran",
+        FullWord: "دَيَّارًا",
+        AyahText: "وَقَالَ نُوحٌ رَّبِّ لَا تَذَرْ عَلَى الْأَرْضِ مِنَ الْكَافِرِينَ دَيَّارًا",
+        AyahTrans: "And Noah said, 'My Lord, leave not upon the earth of the unbelievers even one.",
+        FormCount: 1,
+        Form: "دَيَّار",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 98,
+        WordNum: 12,
+        Meaning_En: "the turn",
+        Phonetic_En: "dāiratu",
+        FullWord: "دَائِرَةُ",
+        AyahText: "وَمِنَ الْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ الدَّوَائِرَ عَلَيْهِمْ دَائِرَةُ السَّوْءِ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+        AyahTrans: "Some of the Bedouins take what they expend for a fine, and await the turns of fortune to go against you. Theirs shall be the evil turn; God is All-hearing, All-knowing.",
+        FormCount: 3,
+        Form: "دَائِرَة",
+        
+      },
+      {
+        Surah: 33,
+        Ayah: 19,
+        WordNum: 9,
+        Meaning_En: "revolving",
+        Phonetic_En: "tadūru",
+        FullWord: "تَدُورُ",
+        AyahText: "أَشِحَّةً عَلَيْكُمْ فَإِذَا جَاءَ الْخَوْفُ رَأَيْتَهُمْ يَنظُرُونَ إِلَيْكَ تَدُورُ أَعْيُنُهُمْ كَالَّذِي يُغْشَىٰ عَلَيْهِ مِنَ الْمَوْتِ فَإِذَا ذَهَبَ الْخَوْفُ سَلَقُوكُم بِأَلْسِنَةٍ حِدَادٍ أَشِحَّةً عَلَى الْخَيْرِ أُولَٰئِكَ لَمْ يُؤْمِنُوا فَأَحْبَطَ اللَّهُ أَعْمَالَهُمْ وَكَانَ ذَٰلِكَ عَلَى اللَّهِ يَسِيرًا",
+        AyahTrans: "being niggardly towards you. When fear comes upon them, thou seest them looking at thee, their eyes rolling like one who swoons of death; but when the fear departs, they flay you with sharp tongues, being niggardly to possess the good things. Those have never believed; God has made their works to fail; and that is easy for God.",
+        FormCount: 1,
+        Form: "تَدُورُ",
+        
+      },
+      {
+        Surah: 9,
+        Ayah: 98,
+        WordNum: 10,
+        Meaning_En: "the turns (of misfortune)",
+        Phonetic_En: "l-dawāira",
+        FullWord: "الدَّوَائِرَ",
+        AyahText: "وَمِنَ الْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ الدَّوَائِرَ عَلَيْهِمْ دَائِرَةُ السَّوْءِ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
+        AyahTrans: "Some of the Bedouins take what they expend for a fine, and await the turns of fortune to go against you. Theirs shall be the evil turn; God is All-hearing, All-knowing.",
+        FormCount: 1,
+        Form: "دَوَائِر",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 282,
+        WordNum: 101,
+        Meaning_En: "you carry out",
+        Phonetic_En: "tudīrūnahā",
+        FullWord: "تُدِيرُونَهَا",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا تَدَايَنتُم بِدَيْنٍ إِلَىٰ أَجَلٍ مُّسَمًّى فَاكْتُبُوهُ وَلْيَكْتُب بَّيْنَكُمْ كَاتِبٌ بِالْعَدْلِ وَلَا يَأْبَ كَاتِبٌ أَن يَكْتُبَ كَمَا عَلَّمَهُ اللَّهُ فَلْيَكْتُبْ وَلْيُمْلِلِ الَّذِي عَلَيْهِ الْحَقُّ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا يَبْخَسْ مِنْهُ شَيْئًا فَإِن كَانَ الَّذِي عَلَيْهِ الْحَقُّ سَفِيهًا أَوْ ضَعِيفًا أَوْ لَا يَسْتَطِيعُ أَن يُمِلَّ هُوَ فَلْيُمْلِلْ وَلِيُّهُ بِالْعَدْلِ وَاسْتَشْهِدُوا شَهِيدَيْنِ مِن رِّجَالِكُمْ فَإِن لَّمْ يَكُونَا رَجُلَيْنِ فَرَجُلٌ وَامْرَأَتَانِ مِمَّن تَرْضَوْنَ مِنَ الشُّهَدَاءِ أَن تَضِلَّ إِحْدَاهُمَا فَتُذَكِّرَ إِحْدَاهُمَا الْأُخْرَىٰ وَلَا يَأْبَ الشُّهَدَاءُ إِذَا مَا دُعُوا وَلَا تَسْأَمُوا أَن تَكْتُبُوهُ صَغِيرًا أَوْ كَبِيرًا إِلَىٰ أَجَلِهِ ذَٰلِكُمْ أَقْسَطُ عِندَ اللَّهِ وَأَقْوَمُ لِلشَّهَادَةِ وَأَدْنَىٰ أَلَّا تَرْتَابُوا إِلَّا أَن تَكُونَ تِجَارَةً حَاضِرَةً تُدِيرُونَهَا بَيْنَكُمْ فَلَيْسَ عَلَيْكُمْ جُنَاحٌ أَلَّا تَكْتُبُوهَا وَأَشْهِدُوا إِذَا تَبَايَعْتُمْ وَلَا يُضَارَّ كَاتِبٌ وَلَا شَهِيدٌ وَإِن تَفْعَلُوا فَإِنَّهُ فُسُوقٌ بِكُمْ وَاتَّقُوا اللَّهَ وَيُعَلِّمُكُمُ اللَّهُ وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+        AyahTrans: "O believers, when you contract a debt one upon another for a stated term, write it down, and let a writer write it down between you justly, and let not any writer refuse to write it down, as God has taught him; so let him write, and let the debtor dictate, and let him fear God his Lord and not diminish aught of it. And if the debtor be a fool, or weak, or unable to dictate himself, then let his guardian dictate justly. And call in to witness two witnesses, men; or if the two be not men, then one man and two women, such witnesses as you approve of, that if one of the two women errs the other will remind her; and let the witnesses not refuse, whenever they are summoned. And be not loth to write it down, whether it be small or great, with its term; that is more equitable in God's sight, more upright for testimony, and likelier that you will not be in doubt. Unless it be merchandise present that you give and take between you; then it shall be no fault in you if you do not write it down. And take witnesses when you are trafficking one with another. And let not either writer or witness be pressed; or if you do, that is ungodliness in you. And fear God; God teaches you, and God has knowledge of everything.",
+        FormCount: 1,
+        Form: "تُدِيرُ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 54,
+    Root: {
+      Letters: {
+        one: "ف",
+        two: "س",
+        three: "ق",
+        
+      },
+      Meaning: "فَسَقَ ( فعل ) : ضَلَّ",
+      Meaning_En: "act immorally;live in debauchery",
+      
+    },
+    AyahArabic: "أَفَمَن كَانَ مُؤْمِنًا كَمَن كَانَ فَاسِقًا لَّا يَسْتَوُونَ",
+    FormCount: 37,
+    AyahAyah: 18,
+    AyahSurah: 32,
+    AyahTranslation: "What? Is he who has been a believer like unto him who has been ungodly? They are not equal.",
+    Word: "فَاسِق",
+    Meaning: "defiantly disobedient",
+    WordNum: 189,
+    Patterns: [
+      {
+        Surah: 2,
+        Ayah: 197,
+        WordNum: 11,
+        Meaning_En: "wickedness",
+        Phonetic_En: "fusūqa",
+        FullWord: "فُسُوقَ",
+        AyahText: "الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ",
+        AyahTrans: "The Pilgrimage is in months well-known; whoso undertakes the duty of Pilgrimage in them shall not go in to his womenfolk nor indulge in ungodliness and disputing in the Pilgrimage. Whatever good you do, God knows it. And take provision; but the best provision is godfearing, so fear you Me, men possessed of minds!",
+        FormCount: 4,
+        Form: "فُسُوق",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 49,
+        WordNum: 8,
+        Meaning_En: "defiantly disobey",
+        Phonetic_En: "yafsuqūna",
+        FullWord: "يَفْسُقُونَ",
+        AyahText: "وَالَّذِينَ كَذَّبُوا بِآيَاتِنَا يَمَسُّهُمُ الْعَذَابُ بِمَا كَانُوا يَفْسُقُونَ",
+        AyahTrans: "But those who cry lies to Our signs, them the chastisement shall visit, for that they were ungodly.",
+        FormCount: 10,
+        Form: "فَسَقَ",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 121,
+        WordNum: 10,
+        Meaning_En: "grave disobedience",
+        Phonetic_En: "lafis'qun",
+        FullWord: "لَفِسْقٌ",
+        AyahText: "وَلَا تَأْكُلُوا مِمَّا لَمْ يُذْكَرِ اسْمُ اللَّهِ عَلَيْهِ وَإِنَّهُ لَفِسْقٌ وَإِنَّ الشَّيَاطِينَ لَيُوحُونَ إِلَىٰ أَوْلِيَائِهِمْ لِيُجَادِلُوكُمْ وَإِنْ أَطَعْتُمُوهُمْ إِنَّكُمْ لَمُشْرِكُونَ",
+        AyahTrans: "And eat not of that over which God's Name has not been mentioned; it is ungodliness. The Satans inspire their friends to dispute with you; if you obey them, you are idolaters.",
+        FormCount: 3,
+        Form: "فِسْق",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 52,
+    Root: {
+      Letters: {
+        one: "ض",
+        two: "ع",
+        three: "ف",
+        
+      },
+      Meaning: "ضَعَّفَ ( فعل ) : أَضْعَفَ",
+      Meaning_En: "cool - to make or become calm, less excited,etc - to press, be pressed, so that there is breaking or injury or subdue; overwhelm - to make body or mind weak,or weaken authority or effectivness - to take power of strength away from something - cause to loose courage or confidence - to lose energy and become weak - to make someone weak - damage or weaken - to make languid - make spiritless - cause the destruction of something or somebody, spoil something or somebody - gradually weaken somebody or something - make or become soft or softer - wear gradually away; make or become weak; wither - make or become weak or weaker; relent, give way, succumb to temptation, etc - cause the wreck of a ship, etc; completely ruin hopes, etc; suffer a wreck - to press something down by lightly hitting it several times",
+      
+    },
+    AyahArabic: "رَبَّنَا آتِهِمْ ضِعْفَيْنِ مِنَ الْعَذَابِ وَالْعَنْهُمْ لَعْنًا كَبِيرًا",
+    FormCount: 11,
+    AyahAyah: 68,
+    AyahSurah: 33,
+    AyahTranslation: "Our Lord, give them chastisement twofold, and curse them with a mighty curse!'",
+    Word: "ضِعْف",
+    Meaning: "double",
+    WordNum: 190,
+    Patterns: [
+      {
+        Surah: 72,
+        Ayah: 24,
+        WordNum: 8,
+        Meaning_En: "weaker",
+        Phonetic_En: "aḍʿafu",
+        FullWord: "أَضْعَفُ",
+        AyahText: "حَتَّىٰ إِذَا رَأَوْا مَا يُوعَدُونَ فَسَيَعْلَمُونَ مَنْ أَضْعَفُ نَاصِرًا وَأَقَلُّ عَدَدًا",
+        AyahTrans: "Until, when they see that which they are promised, then they will know who is weaker in helpers and fewer in numbers.",
+        FormCount: 2,
+        Form: "أَضْعَف",
+        
+      },
+      {
+        Surah: 25,
+        Ayah: 69,
+        WordNum: 1,
+        Meaning_En: "Will be doubled",
+        Phonetic_En: "yuḍāʿaf",
+        FullWord: "يُضَاعَفْ",
+        AyahText: "يُضَاعَفْ لَهُ الْعَذَابُ يَوْمَ الْقِيَامَةِ وَيَخْلُدْ فِيهِ مُهَانًا",
+        AyahTrans: "of sin-doubled shall be the chastisement for him on the Resurrection Day, and he shall dwell therein humbled,",
+        FormCount: 9,
+        Form: "يُضَاعِفُ",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 28,
+        WordNum: 8,
+        Meaning_En: "weak",
+        Phonetic_En: "ḍaʿīfan",
+        FullWord: "ضَعِيفًا",
+        AyahText: "يُرِيدُ اللَّهُ أَن يُخَفِّفَ عَنكُمْ وَخُلِقَ الْإِنسَانُ ضَعِيفًا",
+        AyahTrans: "God desires to lighten things for you, for man was created a weakling.",
+        FormCount: 8,
+        Form: "ضَعِيف",
+        
+      },
+      {
+        Surah: 28,
+        Ayah: 5,
+        WordNum: 6,
+        Meaning_En: "were oppressed",
+        Phonetic_En: "us'tuḍ'ʿifū",
+        FullWord: "اسْتُضْعِفُوا",
+        AyahText: "وَنُرِيدُ أَن نَّمُنَّ عَلَى الَّذِينَ اسْتُضْعِفُوا فِي الْأَرْضِ وَنَجْعَلَهُمْ أَئِمَّةً وَنَجْعَلَهُمُ الْوَارِثِينَ",
+        AyahTrans: "Yet We desired to be gracious to those that were abased in the land, and to make them leaders, and to make them the inheritors,",
+        FormCount: 8,
+        Form: "ٱسْتَضْعَفُ",
+        
+      },
+      {
+        Surah: 30,
+        Ayah: 54,
+        WordNum: 17,
+        Meaning_En: "weakness",
+        Phonetic_En: "ḍaʿfan",
+        FullWord: "ضَعْفًا",
+        AyahText: "اللَّهُ الَّذِي خَلَقَكُم مِّن ضَعْفٍ ثُمَّ جَعَلَ مِن بَعْدِ ضَعْفٍ قُوَّةً ثُمَّ جَعَلَ مِن بَعْدِ قُوَّةٍ ضَعْفًا وَشَيْبَةً يَخْلُقُ مَا يَشَاءُ وَهُوَ الْعَلِيمُ الْقَدِيرُ",
+        AyahTrans: "God is He that created you of weakness, then He appointed after weakness strength, then after strength He appointed weakness and grey hairs; He creates what He will, and He is the All-knowing, the All-powerful.",
+        FormCount: 4,
+        Form: "ضَعْف",
+        
+      },
+      {
+        Surah: 30,
+        Ayah: 39,
+        WordNum: 22,
+        Meaning_En: "get manifold",
+        Phonetic_En: "l-muḍ'ʿifūna",
+        FullWord: "الْمُضْعِفُونَ",
+        AyahText: "وَمَا آتَيْتُم مِّن رِّبًا لِّيَرْبُوَ فِي أَمْوَالِ النَّاسِ فَلَا يَرْبُو عِندَ اللَّهِ وَمَا آتَيْتُم مِّن زَكَاةٍ تُرِيدُونَ وَجْهَ اللَّهِ فَأُولَٰئِكَ هُمُ الْمُضْعِفُونَ",
+        AyahTrans: "And what you give in usury, that it may increase upon the people's wealth, increases not with God; but what you give in alms, desiring God's Face, those -- they receive recompense manifold.",
+        FormCount: 1,
+        Form: "مُضْعِف",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 146,
+        WordNum: 16,
+        Meaning_En: "they weakened",
+        Phonetic_En: "ḍaʿufū",
+        FullWord: "ضَعُفُوا",
+        AyahText: "وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+        AyahTrans: "Many a Prophet there has been, with whom thousands manifold have fought, and they fainted not for what smote them in God's way, neither weakened, nor did they humble themselves; and God loves the patient.",
+        FormCount: 2,
+        Form: "ضَعُفَ",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 98,
+        WordNum: 2,
+        Meaning_En: "the oppressed",
+        Phonetic_En: "l-mus'taḍʿafīna",
+        FullWord: "الْمُسْتَضْعَفِينَ",
+        AyahText: "إِلَّا الْمُسْتَضْعَفِينَ مِنَ الرِّجَالِ وَالنِّسَاءِ وَالْوِلْدَانِ لَا يَسْتَطِيعُونَ حِيلَةً وَلَا يَهْتَدُونَ سَبِيلًا",
+        AyahTrans: "except the men, women, and children who, being abased, can devise nothing and are not guided to a way;",
+        FormCount: 5,
+        Form: "مُسْتَضْعَف",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 9,
+        WordNum: 8,
+        Meaning_En: "weak",
+        Phonetic_En: "ḍiʿāfan",
+        FullWord: "ضِعَافًا",
+        AyahText: "وَلْيَخْشَ الَّذِينَ لَوْ تَرَكُوا مِنْ خَلْفِهِمْ ذُرِّيَّةً ضِعَافًا خَافُوا عَلَيْهِمْ فَلْيَتَّقُوا اللَّهَ وَلْيَقُولُوا قَوْلًا سَدِيدًا",
+        AyahTrans: "And let those fear who, if they left behind them weak seed, would be afraid on their account, and let them fear God, and speak words hitting the mark.",
+        FormCount: 1,
+        Form: "ضِعَاف",
+        
+      },
+      {
+        Surah: 3,
+        Ayah: 130,
+        WordNum: 8,
+        Meaning_En: "multiplied",
+        Phonetic_En: "muḍāʿafatan",
+        FullWord: "مُضَاعَفَةً",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا لَا تَأْكُلُوا الرِّبَا أَضْعَافًا مُّضَاعَفَةً وَاتَّقُوا اللَّهَ لَعَلَّكُمْ تُفْلِحُونَ",
+        AyahTrans: "O believers, devour not usury, doubled and redoubled, and fear you God; haply so you will prosper.",
+        FormCount: 1,
+        Form: "مُضَاعَف",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 52,
+    Root: {
+      Letters: {
+        one: "خ",
+        two: "ب",
+        three: "ر",
+        
+      },
+      Meaning: "خَبَر ( اسم ) : أَخْبار",
+      Meaning_En: "dispatch - a meesage sent between military or government officials; a report sent to a newspaper by a writer who is in another town - a new separate or distinct piece of news - information about important events, when published or broadcast - spoken or written account of something heard, seen, done, studied, etc especially on that is published or broadcast - news ; information .",
+      
+    },
+    AyahArabic: "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌ",
+    FormCount: 45,
+    AyahAyah: 11,
+    AyahSurah: 100,
+    AyahTranslation: "surely on that day their Lord shall be aware of them!",
+    Word: "خَبِير",
+    Meaning: "(is) surely All-Aware",
+    WordNum: 191,
+    Patterns: [
+      {
+        Surah: 99,
+        Ayah: 4,
+        WordNum: 3,
+        Meaning_En: "its news",
+        Phonetic_En: "akhbārahā",
+        FullWord: "أَخْبَارَهَا",
+        AyahText: "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+        AyahTrans: "upon that day she shall tell her tidings",
+        FormCount: 3,
+        Form: "أَخْبَار",
+        
+      },
+      {
+        Surah: 27,
+        Ayah: 7,
+        WordNum: 10,
+        Meaning_En: "some information",
+        Phonetic_En: "bikhabarin",
+        FullWord: "بِخَبَرٍ",
+        AyahText: "إِذْ قَالَ مُوسَىٰ لِأَهْلِهِ إِنِّي آنَسْتُ نَارًا سَآتِيكُم مِّنْهَا بِخَبَرٍ أَوْ آتِيكُم بِشِهَابٍ قَبَسٍ لَّعَلَّكُمْ تَصْطَلُونَ",
+        AyahTrans: "When Moses said to his people 'I observe a fire, and will bring you news of it, or I will bring you a flaming brand, that haply you shall warm yourselves.'",
+        FormCount: 2,
+        Form: "خَبَر",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 91,
+        WordNum: 6,
+        Meaning_En: "(of the) information",
+        Phonetic_En: "khub'ran",
+        FullWord: "خُبْرًا",
+        AyahText: "كَذَٰلِكَ وَقَدْ أَحَطْنَا بِمَا لَدَيْهِ خُبْرًا",
+        AyahTrans: "So; and We encompassed in knowledge what was with him.",
+        FormCount: 2,
+        Form: "خُبْر",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 51,
+    Root: {
+      Letters: {
+        one: "ح",
+        two: "ل",
+        three: "ل",
+        
+      },
+      Meaning: "حَلَّلَ ( فعل ) : أَجَازَ",
+      Meaning_En: "justify - show the justice or rightness of; demonstrate the correctness of; adduce adequate grounds for; vindicate - to make legitimate by decree, etc - to grant a license to or authorize the use of - serve as a warrant for; justify; guarantee or attest to the genuineness of an article, the worth of a person, etc",
+      
+    },
+    AyahArabic: "أَلَمْ تَرَ إِلَى الَّذِينَ بَدَّلُوا نِعْمَتَ اللَّهِ كُفْرًا وَأَحَلُّوا قَوْمَهُمْ دَارَ الْبَوَارِ",
+    FormCount: 20,
+    AyahAyah: 28,
+    AyahSurah: 14,
+    AyahTranslation: "Hast thou not seen those who exchanged the bounty of God with unthankfulness, and caused their people to dwell in the abode of ruin? --",
+    Word: "أَحَلَّ",
+    Meaning: "they led",
+    WordNum: 192,
+    Patterns: [
+      {
+        Surah: 90,
+        Ayah: 2,
+        WordNum: 2,
+        Meaning_En: "free (to dwell)",
+        Phonetic_En: "ḥillun",
+        FullWord: "حِلٌّ",
+        AyahText: "وَأَنتَ حِلٌّ بِهَٰذَا الْبَلَدِ",
+        AyahTrans: "and thou art a lodger in this land;",
+        FormCount: 5,
+        Form: "حِلّ",
+        
+      },
+      {
+        Surah: 66,
+        Ayah: 2,
+        WordNum: 5,
+        Meaning_En: "dissolution",
+        Phonetic_En: "taḥillata",
+        FullWord: "تَحِلَّةَ",
+        AyahText: "قَدْ فَرَضَ اللَّهُ لَكُمْ تَحِلَّةَ أَيْمَانِكُمْ وَاللَّهُ مَوْلَاكُمْ وَهُوَ الْعَلِيمُ الْحَكِيمُ",
+        AyahTrans: "God has ordained for you the absolution of your oaths. God is your Protector, and He is the All-knowing, the All-wise.",
+        FormCount: 1,
+        Form: "تَحِلَّة",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 27,
+        WordNum: 1,
+        Meaning_En: "untie",
+        Phonetic_En: "wa-uḥ'lul",
+        FullWord: "وَاحْلُلْ",
+        AyahText: "وَاحْلُلْ عُقْدَةً مِّن لِّسَانِي",
+        AyahTrans: "Unloose the knot upon my tongue, t",
+        FormCount: 14,
+        Form: "حَلَلْ",
+        
+      },
+      {
+        Surah: 22,
+        Ayah: 33,
+        WordNum: 8,
+        Meaning_En: "their place of sacrifice",
+        Phonetic_En: "maḥilluhā",
+        FullWord: "مَحِلُّهَا",
+        AyahText: "لَكُمْ فِيهَا مَنَافِعُ إِلَىٰ أَجَلٍ مُّسَمًّى ثُمَّ مَحِلُّهَا إِلَى الْبَيْتِ الْعَتِيقِ",
+        AyahTrans: "There are things therein profitable to you unto a stated term; thereafter their lawful place of sacrifice is by the Ancient House.",
+        FormCount: 3,
+        Form: "مَحِلّ",
+        
+      },
+      {
+        Surah: 8,
+        Ayah: 69,
+        WordNum: 4,
+        Meaning_En: "lawful",
+        Phonetic_En: "ḥalālan",
+        FullWord: "حَلَالًا",
+        AyahText: "فَكُلُوا مِمَّا غَنِمْتُمْ حَلَالًا طَيِّبًا وَاتَّقُوا اللَّهَ إِنَّ اللَّهَ غَفُورٌ رَّحِيمٌ",
+        AyahTrans: "Eat of what you have taken as booty, such as is lawful and good; and fear you God; surely God is All-forgiving, All-compassionate.",
+        FormCount: 6,
+        Form: "حَلَال",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 1,
+        WordNum: 15,
+        Meaning_En: "being permitted",
+        Phonetic_En: "muḥillī",
+        FullWord: "مُحِلِّي",
+        AyahText: "يَا أَيُّهَا الَّذِينَ آمَنُوا أَوْفُوا بِالْعُقُودِ أُحِلَّتْ لَكُم بَهِيمَةُ الْأَنْعَامِ إِلَّا مَا يُتْلَىٰ عَلَيْكُمْ غَيْرَ مُحِلِّي الصَّيْدِ وَأَنتُمْ حُرُمٌ إِنَّ اللَّهَ يَحْكُمُ مَا يُرِيدُ",
+        AyahTrans: "O believers, fulfil your bonds. Permitted to you is the beast of the flocks, except that which is now recited to you, so that you deem not game permitted to be hunted when you are in pilgrim sanctity. God decrees whatsoever He desires.",
+        FormCount: 1,
+        Form: "مُحِلِّى",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 23,
+        WordNum: 37,
+        Meaning_En: "wives",
+        Phonetic_En: "waḥalāilu",
+        FullWord: "وَحَلَائِلُ",
+        AyahText: "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُم مِّنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي حُجُورِكُم مِّن نِّسَائِكُمُ اللَّاتِي دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ اللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+        AyahTrans: "Forbidden to you are your mothers and daughters, your sisters, your aunts paternal and maternal, your brother's daughters, your sister's daughters, your mothers who have given suck to you, your suckling sisters, your wives' mothers, your stepdaughters who are in your care being born of your wives you have been in to -- but if you have not yet been in to them it is no fault in you - and the spouses of your sons who are of your loins, and that you should take to you two sisters together, unless it be a thing of the past; God is All-forgiving, All-compassionate;",
+        FormCount: 1,
+        Form: "حَلَائِل",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 51,
+    Root: {
+      Letters: {
+        one: "ت",
+        two: "ح",
+        three: "ت",
+        
+      },
+      Meaning: "تَحْت ( اسم ) :",
+      Meaning_En: "beneath - below; underneath; under; not worthy of - towards or on lower floor of a building - below, beneath - lower; inferior - beneath; under - lowest - the very lowest - below; beneath - at or to a lower place than, below - at or to a lower place - towards the ground or in a lower position",
+      
+    },
+    AyahArabic: "فَنَادَاهَا مِن تَحْتِهَا أَلَّا تَحْزَنِي قَدْ جَعَلَ رَبُّكِ تَحْتَكِ سَرِيًّا",
+    FormCount: 51,
+    AyahAyah: 24,
+    AyahSurah: 19,
+    AyahTranslation: "But the one that was below her called to her, 'Nay, do not sorrow; see, thy Lord has set below thee a rivulet.",
+    Word: "تَحْت",
+    Meaning: "beneath you",
+    WordNum: 193,
+    Patterns: [
+      
+    ],
+    
+  },
+  {
+    Frequency: 50,
+    Root: {
+      Letters: {
+        one: "ن",
+        two: "ف",
+        three: "ع",
+        
+      },
+      Meaning: "نَفَع ( فعل ) : أفَادَ",
+      Meaning_En: "be advantage ; be advantageous ; be avail ; be beneficial ; be benefit ; be help ; be helpful ; be of advantage ; be of help ; be of profit ; be of use ; be out service ; be profit ; be profitable ; be serve ; be useful",
+      
+    },
+    AyahArabic: "فَذَكِّرْ إِن نَّفَعَتِ الذِّكْرَىٰ",
+    FormCount: 31,
+    AyahAyah: 9,
+    AyahSurah: 87,
+    AyahTranslation: "Therefore remind, if the Reminder profits,",
+    Word: "نَفَعَ",
+    Meaning: "benefits",
+    WordNum: 194,
+    Patterns: [
+      {
+        Surah: 36,
+        Ayah: 73,
+        WordNum: 3,
+        Meaning_En: "benefits",
+        Phonetic_En: "manāfiʿu",
+        FullWord: "مَنَافِعُ",
+        AyahText: "وَلَهُمْ فِيهَا مَنَافِعُ وَمَشَارِبُ أَفَلَا يَشْكُرُونَ",
+        AyahTrans: "other uses also they have in them, and beverages. What, will they not be thankful?",
+        FormCount: 8,
+        Form: "مَنَافِع",
+        
+      },
+      {
+        Surah: 22,
+        Ayah: 13,
+        WordNum: 6,
+        Meaning_En: "his benefit",
+        Phonetic_En: "nafʿihi",
+        FullWord: "نَفْعِهِ",
+        AyahText: "يَدْعُو لَمَن ضَرُّهُ أَقْرَبُ مِن نَّفْعِهِ لَبِئْسَ الْمَوْلَىٰ وَلَبِئْسَ الْعَشِيرُ",
+        AyahTrans: "He calls upon him who is likelier to hurt him, rather than to profit him -- an evil protector indeed, he, an evil friend!",
+        FormCount: 11,
+        Form: "نَفْع",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 50,
+    Root: {
+      Letters: {
+        one: "ف",
+        two: "س",
+        three: "د",
+        
+      },
+      Meaning: "فَسَد ( فعل ) : اِنْحَرَفَ",
+      Meaning_En: "be corrupt(ed) ; be depraved ; be evil ; be immoral ; be pervert(ed) ; be vicious",
+      
+    },
+    AyahArabic: "قَالَ رَبِّ انصُرْنِي عَلَى الْقَوْمِ الْمُفْسِدِينَ",
+    FormCount: 21,
+    AyahAyah: 30,
+    AyahSurah: 29,
+    AyahTranslation: "He said, 'My Lord, help me against the people that work corruption.'",
+    Word: "مُفْسِد",
+    Meaning: "the corrupters",
+    WordNum: 195,
+    Patterns: [
+      {
+        Surah: 89,
+        Ayah: 12,
+        WordNum: 3,
+        Meaning_En: "corruption",
+        Phonetic_En: "l-fasāda",
+        FullWord: "الْفَسَادَ",
+        AyahText: "فَأَكْثَرُوا فِيهَا الْفَسَادَ",
+        AyahTrans: "and worked much corruption therein?",
+        FormCount: 11,
+        Form: "فَسَاد",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 152,
+        WordNum: 2,
+        Meaning_En: "spread corruption",
+        Phonetic_En: "yuf'sidūna",
+        FullWord: "يُفْسِدُونَ",
+        AyahText: "الَّذِينَ يُفْسِدُونَ فِي الْأَرْضِ وَلَا يُصْلِحُونَ",
+        AyahTrans: "who do corruption in the earth, and set not things aright.'",
+        FormCount: 15,
+        Form: "أَفْسَدُ",
+        
+      },
+      {
+        Surah: 21,
+        Ayah: 22,
+        WordNum: 7,
+        Meaning_En: "surely they (would) have been ruined",
+        Phonetic_En: "lafasadatā",
+        FullWord: "لَفَسَدَتَا",
+        AyahText: "لَوْ كَانَ فِيهِمَا آلِهَةٌ إِلَّا اللَّهُ لَفَسَدَتَا فَسُبْحَانَ اللَّهِ رَبِّ الْعَرْشِ عَمَّا يَصِفُونَ",
+        AyahTrans: "Why, were there gods in earth and heaven other than God, they would surely go to ruin; so glory be to God, the Lord of the Throne, above that they describe!",
+        FormCount: 3,
+        Form: "فَسَدَتِ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 50,
+    Root: {
+      Letters: {
+        one: "ط",
+        two: "ي",
+        three: "ب",
+        
+      },
+      Meaning: "طَيَّبَ ( فعل ) : أَضَافَ التَّوَابِلَ إِلَ",
+      Meaning_En: "season - to spice - flavour with spice",
+      
+    },
+    AyahArabic: "وَهُدُوا إِلَى الطَّيِّبِ مِنَ الْقَوْلِ وَهُدُوا إِلَىٰ صِرَاطِ الْحَمِيدِ",
+    FormCount: 25,
+    AyahAyah: 24,
+    AyahSurah: 22,
+    AyahTranslation: "and they; shall be guided unto goodly speech, and they shall be guided unto the path of the All-laudable.",
+    Word: "طَيِّب",
+    Meaning: "the good",
+    WordNum: 196,
+    Patterns: [
+      {
+        Surah: 3,
+        Ayah: 38,
+        WordNum: 12,
+        Meaning_En: "pure",
+        Phonetic_En: "ṭayyibatan",
+        FullWord: "طَيِّبَةً",
+        AyahText: "هُنَالِكَ دَعَا زَكَرِيَّا رَبَّهُ قَالَ رَبِّ هَبْ لِي مِن لَّدُنكَ ذُرِّيَّةً طَيِّبَةً إِنَّكَ سَمِيعُ الدُّعَاءِ",
+        AyahTrans: "Then Zachariah prayed to his Lord saying, 'Lord, give me of Thy goodness a goodly offspring. Yea, Thou hearest prayer.'",
+        FormCount: 21,
+        Form: "طَيِّبَة",
+        
+      },
+      {
+        Surah: 4,
+        Ayah: 4,
+        WordNum: 6,
+        Meaning_En: "they remit",
+        Phonetic_En: "ṭib'na",
+        FullWord: "طِبْنَ",
+        AyahText: "وَآتُوا النِّسَاءَ صَدُقَاتِهِنَّ نِحْلَةً فَإِن طِبْنَ لَكُمْ عَن شَيْءٍ مِّنْهُ نَفْسًا فَكُلُوهُ هَنِيئًا مَّرِيئًا",
+        AyahTrans: "And give the women their dowries as a gift spontaneous; but if they are pleased to offer you any of it, consume it with wholesome appetite.",
+        FormCount: 3,
+        Form: "طَابَ",
+        
+      },
+      {
+        Surah: 13,
+        Ayah: 29,
+        WordNum: 5,
+        Meaning_En: "blessedness",
+        Phonetic_En: "ṭūbā",
+        FullWord: "طُوبَى",
+        AyahText: "الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ طُوبَىٰ لَهُمْ وَحُسْنُ مَآبٍ",
+        AyahTrans: "of those who believe and do righteous deeds; theirs is blessedness and a fair resort.",
+        FormCount: 1,
+        Form: "طُوبَى",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 49,
+    Root: {
+      Letters: {
+        one: "ع",
+        two: "ق",
+        three: "ل",
+        
+      },
+      Meaning: "عَقَّلَ ( فعل ) :",
+      Meaning_En: "make someone listen to the reason - make roasnoable or rational - make reasonable or rational",
+      
+    },
+    AyahArabic: "وَبِاللَّيْلِ أَفَلَا تَعْقِلُونَ",
+    FormCount: 49,
+    AyahAyah: 138,
+    AyahSurah: 37,
+    AyahTranslation: "and in the night; will you not understand?",
+    Word: "عَقَلُ",
+    Meaning: "you use reason",
+    WordNum: 197,
+    Patterns: [
+      
+    ],
+    
+  },
+  {
+    Frequency: 49,
+    Root: {
+      Letters: {
+        one: "س",
+        two: "و",
+        three: "ع",
+        
+      },
+      Meaning: "",
+      Meaning_En: "",
+      
+    },
+    AyahArabic: "اقْتَرَبَتِ السَّاعَةُ وَانشَقَّ الْقَمَرُ",
+    FormCount: 48,
+    AyahAyah: 1,
+    AyahSurah: 54,
+    AyahTranslation: "The Hour has drawn nigh: the moon is split.",
+    Word: "سَاعَة",
+    Meaning: "the Hour",
+    WordNum: 198,
+    Patterns: [
+      {
+        Surah: 71,
+        Ayah: 23,
+        WordNum: 9,
+        Meaning_En: "Suwa",
+        Phonetic_En: "suwāʿan",
+        FullWord: "سُوَاعًا",
+        AyahText: "وَقَالُوا لَا تَذَرُنَّ آلِهَتَكُمْ وَلَا تَذَرُنَّ وَدًّا وَلَا سُوَاعًا وَلَا يَغُوثَ وَيَعُوقَ وَنَسْرًا",
+        AyahTrans: "and have said, \"Do not leave your gods, and do not leave Wadd, nor Suwa', Yaghuth, Ya'uq, neither Nasr.\"",
+        FormCount: 1,
+        Form: "سُوَاع",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 48,
+    Root: {
+      Letters: {
+        one: "ق",
+        two: "د",
+        three: "م",
+        
+      },
+      Meaning: "قُدُم ( اسم ) : المُضِيُّ إِلَى الْأمَام",
+      Meaning_En: "ahead - further forward in space or time - onward, ahead - directed onwards - towards the front",
+      
+    },
+    AyahArabic: "يَقُولُ يَا لَيْتَنِي قَدَّمْتُ لِحَيَاتِي",
+    FormCount: 27,
+    AyahAyah: 24,
+    AyahSurah: 89,
+    AyahTranslation: "He shall say, 'O would that I had forwarded for my life!'",
+    Word: "قَدَّمَ",
+    Meaning: "I had sent forth",
+    WordNum: 199,
+    Patterns: [
+      {
+        Surah: 74,
+        Ayah: 37,
+        WordNum: 5,
+        Meaning_En: "proceed",
+        Phonetic_En: "yataqaddama",
+        FullWord: "يَتَقَدَّمَ",
+        AyahText: "لِمَن شَاءَ مِنكُمْ أَن يَتَقَدَّمَ أَوْ يَتَأَخَّرَ",
+        AyahTrans: "to whoever of you desires to go forward or lag behind.",
+        FormCount: 2,
+        Form: "تَقَدَّمَ",
+        
+      },
+      {
+        Surah: 55,
+        Ayah: 41,
+        WordNum: 6,
+        Meaning_En: "the feet",
+        Phonetic_En: "wal-aqdāmi",
+        FullWord: "وَالْأَقْدَامِ",
+        AyahText: "يُعْرَفُ الْمُجْرِمُونَ بِسِيمَاهُمْ فَيُؤْخَذُ بِالنَّوَاصِي وَالْأَقْدَامِ",
+        AyahTrans: "The sinners shall be known by their mark, and they shall be seized by their forelocks and their feet.",
+        FormCount: 8,
+        Form: "قَدَم",
+        
+      },
+      {
+        Surah: 12,
+        Ayah: 95,
+        WordNum: 6,
+        Meaning_En: "old",
+        Phonetic_En: "l-qadīmi",
+        FullWord: "الْقَدِيمِ",
+        AyahText: "قَالُوا تَاللَّهِ إِنَّكَ لَفِي ضَلَالِكَ الْقَدِيمِ",
+        AyahTrans: "They said, 'By God, thou art certainly in thy ancient error.",
+        FormCount: 3,
+        Form: "قَدِيم",
+        
+      },
+      {
+        Surah: 34,
+        Ayah: 30,
+        WordNum: 10,
+        Meaning_En: "(can) you precede (it)",
+        Phonetic_En: "tastaqdimūna",
+        FullWord: "تَسْتَقْدِمُونَ",
+        AyahText: "قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
+        AyahTrans: "Say: 'You have the tryst of a day that you shall not put back by a single hour nor put it forward.'",
+        FormCount: 4,
+        Form: "يَسْتَقْدِمُ",
+        
+      },
+      {
+        Surah: 26,
+        Ayah: 76,
+        WordNum: 3,
+        Meaning_En: "your forefathers",
+        Phonetic_En: "l-aqdamūna",
+        FullWord: "الْأَقْدَمُونَ",
+        AyahText: "أَنتُمْ وَآبَاؤُكُمُ الْأَقْدَمُونَ",
+        AyahTrans: "you and your fathers, the elders?",
+        FormCount: 1,
+        Form: "أَقْدَم",
+        
+      },
+      {
+        Surah: 25,
+        Ayah: 23,
+        WordNum: 1,
+        Meaning_En: "We will proceed",
+        Phonetic_En: "waqadim'nā",
+        FullWord: "وَقَدِمْنَا",
+        AyahText: "وَقَدِمْنَا إِلَىٰ مَا عَمِلُوا مِنْ عَمَلٍ فَجَعَلْنَاهُ هَبَاءً مَّنثُورًا",
+        AyahTrans: "We shall advance upon what work they have done, and make it a scattered dust.",
+        FormCount: 2,
+        Form: "قَدِمْ",
+        
+      },
+      {
+        Surah: 15,
+        Ayah: 24,
+        WordNum: 3,
+        Meaning_En: "the preceding ones",
+        Phonetic_En: "l-mus'taqdimīna",
+        FullWord: "الْمُسْتَقْدِمِينَ",
+        AyahText: "وَلَقَدْ عَلِمْنَا الْمُسْتَقْدِمِينَ مِنكُمْ وَلَقَدْ عَلِمْنَا الْمُسْتَأْخِرِينَ",
+        AyahTrans: "We know the ones of you who press forward, and We know the laggards;",
+        FormCount: 1,
+        Form: "مُسْتَقْدِم",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 48,
+    Root: {
+      Letters: {
+        one: "ط",
+        two: "ع",
+        three: "م",
+        
+      },
+      Meaning: "طَعِم ( فعل ) : أكَلَ",
+      Meaning_En: "eat",
+      
+    },
+    AyahArabic: "طَعَامُ الْأَثِيمِ",
+    FormCount: 24,
+    AyahAyah: 44,
+    AyahSurah: 44,
+    AyahTranslation: "is the food of the guilty,",
+    Word: "طَعَام",
+    Meaning: "(Will be) food",
+    WordNum: 200,
+    Patterns: [
+      {
+        Surah: 74,
+        Ayah: 44,
+        WordNum: 3,
+        Meaning_En: "feed",
+        Phonetic_En: "nuṭ'ʿimu",
+        FullWord: "نُطْعِمُ",
+        AyahText: "وَلَمْ نَكُ نُطْعِمُ الْمِسْكِينَ",
+        AyahTrans: "we fed not the needy,",
+        FormCount: 13,
+        Form: "أَطْعَمَ",
+        
+      },
+      {
+        Surah: 90,
+        Ayah: 14,
+        WordNum: 2,
+        Meaning_En: "feeding",
+        Phonetic_En: "iṭ'ʿāmun",
+        FullWord: "إِطْعَامٌ",
+        AyahText: "أَوْ إِطْعَامٌ فِي يَوْمٍ ذِي مَسْغَبَةٍ",
+        AyahTrans: "or giving food upon a day of hunger",
+        FormCount: 3,
+        Form: "إِطْعَام",
+        
+      },
+      {
+        Surah: 47,
+        Ayah: 15,
+        WordNum: 17,
+        Meaning_En: "its taste",
+        Phonetic_En: "ṭaʿmuhu",
+        FullWord: "طَعْمُهُ",
+        AyahText: "مَّثَلُ الْجَنَّةِ الَّتِي وُعِدَ الْمُتَّقُونَ فِيهَا أَنْهَارٌ مِّن مَّاءٍ غَيْرِ آسِنٍ وَأَنْهَارٌ مِّن لَّبَنٍ لَّمْ يَتَغَيَّرْ طَعْمُهُ وَأَنْهَارٌ مِّنْ خَمْرٍ لَّذَّةٍ لِّلشَّارِبِينَ وَأَنْهَارٌ مِّنْ عَسَلٍ مُّصَفًّى وَلَهُمْ فِيهَا مِن كُلِّ الثَّمَرَاتِ وَمَغْفِرَةٌ مِّن رَّبِّهِمْ كَمَنْ هُوَ خَالِدٌ فِي النَّارِ وَسُقُوا مَاءً حَمِيمًا فَقَطَّعَ أَمْعَاءَهُمْ",
+        AyahTrans: "This is the similitude of Paradise which the godfearing have been promised: therein are rivers of water unstaling, rivers of milk unchanging in flavour, and rivers of wine -- a delight to the drinkers, rivers, too, of honey purified; and therein for them is every fruit, and forgiveness from their Lord -- Are they as he who dwells forever in the Fire, such as are given to drink boiling water, that tears their bowels asunder?",
+        FormCount: 1,
+        Form: "طَعْم",
+        
+      },
+      {
+        Surah: 5,
+        Ayah: 93,
+        WordNum: 9,
+        Meaning_En: "they ate",
+        Phonetic_En: "ṭaʿimū",
+        FullWord: "طَعِمُوا",
+        AyahText: "لَيْسَ عَلَى الَّذِينَ آمَنُوا وَعَمِلُوا الصَّالِحَاتِ جُنَاحٌ فِيمَا طَعِمُوا إِذَا مَا اتَّقَوا وَّآمَنُوا وَعَمِلُوا الصَّالِحَاتِ ثُمَّ اتَّقَوا وَّآمَنُوا ثُمَّ اتَّقَوا وَّأَحْسَنُوا وَاللَّهُ يُحِبُّ الْمُحْسِنِينَ",
+        AyahTrans: "There is no fault in those who believe and do deeds of righteousness what they may eat, if they are godfearing, and believe, and do deeds of righteousness, and then are godfearing and believe, and then are godfearing and do good; God loves the good-doers.",
+        FormCount: 5,
+        Form: "طَعِمُ",
+        
+      },
+      {
+        Surah: 18,
+        Ayah: 77,
+        WordNum: 7,
+        Meaning_En: "they asked for food",
+        Phonetic_En: "is'taṭʿamā",
+        FullWord: "اسْتَطْعَمَا",
+        AyahText: "فَانطَلَقَا حَتَّىٰ إِذَا أَتَيَا أَهْلَ قَرْيَةٍ اسْتَطْعَمَا أَهْلَهَا فَأَبَوْا أَن يُضَيِّفُوهُمَا فَوَجَدَا فِيهَا جِدَارًا يُرِيدُ أَن يَنقَضَّ فَأَقَامَهُ قَالَ لَوْ شِئْتَ لَاتَّخَذْتَ عَلَيْهِ أَجْرًا",
+        AyahTrans: "So they departed; until, when they reached the people of a city, they asked the people for food, but they refused to receive them hospitably. There they found a wall about to tumble down, and so he set it up. He said, 'If thou hadst wished, thou couldst have taken a wage for that.'",
+        FormCount: 1,
+        Form: "ٱسْتَطْعَمَ",
+        
+      },
+      {
+        Surah: 6,
+        Ayah: 145,
+        WordNum: 10,
+        Meaning_En: "an eater",
+        Phonetic_En: "ṭāʿimin",
+        FullWord: "طَاعِمٍ",
+        AyahText: "قُل لَّا أَجِدُ فِي مَا أُوحِيَ إِلَيَّ مُحَرَّمًا عَلَىٰ طَاعِمٍ يَطْعَمُهُ إِلَّا أَن يَكُونَ مَيْتَةً أَوْ دَمًا مَّسْفُوحًا أَوْ لَحْمَ خِنزِيرٍ فَإِنَّهُ رِجْسٌ أَوْ فِسْقًا أُهِلَّ لِغَيْرِ اللَّهِ بِهِ فَمَنِ اضْطُرَّ غَيْرَ بَاغٍ وَلَا عَادٍ فَإِنَّ رَبَّكَ غَفُورٌ رَّحِيمٌ",
+        AyahTrans: "Say: 'I do not find, in what is revealed to me, aught forbidden to him who eats thereof except it be carrion, or blood outpoured, or the flesh of swine -- that is an abomination -- or an ungodly thing that has been hallowed to other than God; yet whoso is constrained, not desiring nor transgressing, surely thy Lord is All-forgiving, All-compassionate.'",
+        FormCount: 1,
+        Form: "طَاعِم",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 48,
+    Root: {
+      Letters: {
+        one: "خ",
+        two: "ش",
+        three: "ي",
+        
+      },
+      Meaning: "خَشِيَ ( فعل ) : خافَ",
+      Meaning_En: "be scared and frightened - be scared (of) - be anxious; fearful; mistrustful; worried; alarmed - to feel worried about something that is going to happen in the future; fear greatly; look forward to with great apprehension - feel fear about or toward - to fill with fright or terror; alarm suddenly - flinch, shrink, show cowardice; shirk; be afraid of - be or become terrified - fear; frighten - start, frighten or shock - frighten; scare; panic; horrify; fill with terror. - feel worried, scared or nervous about something",
+      
+    },
+    AyahArabic: "وَهُوَ يَخْشَىٰ",
+    FormCount: 40,
+    AyahAyah: 9,
+    AyahSurah: 80,
+    AyahTranslation: "and fearfully,",
+    Word: "خَشِىَ",
+    Meaning: "fears",
+    WordNum: 201,
+    Patterns: [
+      {
+        Surah: 23,
+        Ayah: 57,
+        WordNum: 5,
+        Meaning_En: "fear",
+        Phonetic_En: "khashyati",
+        FullWord: "خَشْيَةِ",
+        AyahText: "إِنَّ الَّذِينَ هُم مِّنْ خَشْيَةِ رَبِّهِم مُّشْفِقُونَ",
+        AyahTrans: "Surely those who tremble in fear of their Lord",
+        FormCount: 8,
+        Form: "خَشْيَة",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 48,
+    Root: {
+      Letters: {
+        one: "أ",
+        two: "ث",
+        three: "م",
+        
+      },
+      Meaning: "اِثْم ( اسم ) : ذَنْب",
+      Meaning_En: "taboo - a supject etc that people avoid because they think it is offensive or embarrassing - too holy or evil to be touched - offence for which there is severe punishment by law; such offences - a transgression, offence, or thing wrongly done - condition or fact of having done wrong or blame or reponsibility for wronging - not to be allowed - wickedness; unrightouness or a gross injustice - evil-doing; crime - a wrong or illegal action - illegal act; crime, act or cause of upsetting, thing that causes displeasure - iniquity; offense; guilt; fault - evil or unprincipled conduct, criminal or immoral behaviour, eg gambling, drug-trafficking, etc - state of being a wrongdoer; behaving immorally or illegally",
+      
+    },
+    AyahArabic: "انظُرْ كَيْفَ يَفْتَرُونَ عَلَى اللَّهِ الْكَذِبَ وَكَفَىٰ بِهِ إِثْمًا مُّبِينًا",
+    FormCount: 35,
+    AyahAyah: 50,
+    AyahSurah: 4,
+    AyahTranslation: "Consider how they forge falsehood against God; and that suffices for a manifest sin;",
+    Word: "إِثْم",
+    Meaning: "(as) a sin",
+    WordNum: 202,
+    Patterns: [
+      {
+        Surah: 44,
+        Ayah: 44,
+        WordNum: 2,
+        Meaning_En: "the sinner(s)",
+        Phonetic_En: "l-athīmi",
+        FullWord: "الْأَثِيمِ",
+        AyahText: "طَعَامُ الْأَثِيمِ",
+        AyahTrans: "is the food of the guilty,",
+        FormCount: 7,
+        Form: "أَثِيم",
+        
+      },
+      {
+        Surah: 76,
+        Ayah: 24,
+        WordNum: 7,
+        Meaning_En: "any sinner",
+        Phonetic_En: "āthiman",
+        FullWord: "آثِمًا",
+        AyahText: "فَاصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تُطِعْ مِنْهُمْ آثِمًا أَوْ كَفُورًا",
+        AyahTrans: "so be thou patient under the judgment of thy Lord, and obey not one of them, sinner or unbeliever.",
+        FormCount: 3,
+        Form: "آثِم",
+        
+      },
+      {
+        Surah: 56,
+        Ayah: 25,
+        WordNum: 6,
+        Meaning_En: "sinful (speech)",
+        Phonetic_En: "tathīman",
+        FullWord: "تَأْثِيمًا",
+        AyahText: "لَا يَسْمَعُونَ فِيهَا لَغْوًا وَلَا تَأْثِيمًا",
+        AyahTrans: "Therein they shall hear no idle talk, no cause of sin,",
+        FormCount: 2,
+        Form: "تَأْثِيم",
+        
+      },
+      {
+        Surah: 25,
+        Ayah: 68,
+        WordNum: 22,
+        Meaning_En: "a penalty",
+        Phonetic_En: "athāman",
+        FullWord: "أَثَامًا",
+        AyahText: "وَالَّذِينَ لَا يَدْعُونَ مَعَ اللَّهِ إِلَٰهًا آخَرَ وَلَا يَقْتُلُونَ النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَلَا يَزْنُونَ وَمَن يَفْعَلْ ذَٰلِكَ يَلْقَ أَثَامًا",
+        AyahTrans: "who call not upon another god with God, nor slay the soul God has forbidden except by right, neither fornicate, for whosoever does that shall meet the price",
+        FormCount: 1,
+        Form: "أَثَام",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 47,
+    Root: {
+      Letters: {
+        one: "ك",
+        two: "ر",
+        three: "م",
+        
+      },
+      Meaning: "كَرْم ( اسم ) : بُسْتا",
+      Meaning_En: "garden - (piece of) private ground used for growing flowers, fruits, vegetables etc",
+      
+    },
+    AyahArabic: "كِرَامٍ بَرَرَةٍ",
+    FormCount: 30,
+    AyahAyah: 16,
+    AyahSurah: 80,
+    AyahTranslation: "noble, pious.",
+    Word: "كَرِيم",
+    Meaning: "Noble",
+    WordNum: 203,
+    Patterns: [
+      {
+        Surah: 96,
+        Ayah: 3,
+        WordNum: 3,
+        Meaning_En: "the Most Generous",
+        Phonetic_En: "l-akramu",
+        FullWord: "الْأَكْرَمُ",
+        AyahText: "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+        AyahTrans: "Recite: And thy Lord is the Most Generous,",
+        FormCount: 2,
+        Form: "أَكْرَم",
+        
+      },
+      {
+        Surah: 89,
+        Ayah: 17,
+        WordNum: 4,
+        Meaning_En: "you honor",
+        Phonetic_En: "tuk'rimūna",
+        FullWord: "تُكْرِمُونَ",
+        AyahText: "كَلَّا بَل لَّا تُكْرِمُونَ الْيَتِيمَ",
+        AyahTrans: "No indeed; but you honour not the orphan,",
+        FormCount: 4,
+        Form: "أَكْرَمَ",
+        
+      },
+      {
+        Surah: 80,
+        Ayah: 13,
+        WordNum: 3,
+        Meaning_En: "honored",
+        Phonetic_En: "mukarramatin",
+        FullWord: "مُكَرَّمَةٍ",
+        AyahText: "فِي صُحُفٍ مُّكَرَّمَةٍ",
+        AyahTrans: "upon pages high-honoured,",
+        FormCount: 1,
+        Form: "مُكَرَّم",
+        
+      },
+      {
+        Surah: 37,
+        Ayah: 42,
+        WordNum: 3,
+        Meaning_En: "be honored",
+        Phonetic_En: "muk'ramūna",
+        FullWord: "مُكْرَمُونَ",
+        AyahText: "فَوَاكِهُ وَهُم مُّكْرَمُونَ",
+        AyahTrans: "fruits -- and they high-honoured",
+        FormCount: 5,
+        Form: "مُكْرَم",
+        
+      },
+      {
+        Surah: 55,
+        Ayah: 78,
+        WordNum: 6,
+        Meaning_En: "Honor",
+        Phonetic_En: "wal-ik'rāmi",
+        FullWord: "وَالْإِكْرَامِ",
+        AyahText: "تَبَارَكَ اسْمُ رَبِّكَ ذِي الْجَلَالِ وَالْإِكْرَامِ",
+        AyahTrans: "Blessed be the Name of thy Lord, majestic, splendid.",
+        FormCount: 2,
+        Form: "إِكْرَام",
+        
+      },
+      {
+        Surah: 22,
+        Ayah: 18,
+        WordNum: 32,
+        Meaning_En: "bestower of honor",
+        Phonetic_En: "muk'rimin",
+        FullWord: "مُكْرِمٍ",
+        AyahText: "أَلَمْ تَرَ أَنَّ اللَّهَ يَسْجُدُ لَهُ مَن فِي السَّمَاوَاتِ وَمَن فِي الْأَرْضِ وَالشَّمْسُ وَالْقَمَرُ وَالنُّجُومُ وَالْجِبَالُ وَالشَّجَرُ وَالدَّوَابُّ وَكَثِيرٌ مِّنَ النَّاسِ وَكَثِيرٌ حَقَّ عَلَيْهِ الْعَذَابُ وَمَن يُهِنِ اللَّهُ فَمَا لَهُ مِن مُّكْرِمٍ إِنَّ اللَّهَ يَفْعَلُ مَا يَشَاءُ",
+        AyahTrans: "Hast thou not seen how to God bow all who are in the and all who are in the earth, heavens the sun and the moon, the stars and the mountains, the trees and the beasts, and many of mankind? And many merit the chastisement; and whom God abases, there is none to honour him. God does whatsoever He will.",
+        FormCount: 1,
+        Form: "مُكْرِم",
+        
+      },
+      {
+        Surah: 17,
+        Ayah: 62,
+        WordNum: 5,
+        Meaning_En: "You have honored",
+        Phonetic_En: "karramta",
+        FullWord: "كَرَّمْتَ",
+        AyahText: "قَالَ أَرَأَيْتَكَ هَٰذَا الَّذِي كَرَّمْتَ عَلَيَّ لَئِنْ أَخَّرْتَنِ إِلَىٰ يَوْمِ الْقِيَامَةِ لَأَحْتَنِكَنَّ ذُرِّيَّتَهُ إِلَّا قَلِيلًا",
+        AyahTrans: "He said, 'What thinkest Thou? This whom Thou hast honoured above me -- if Thou deferrest me to the Day of Resurrection I shall assuredly master his seed, save a few.'",
+        FormCount: 2,
+        Form: "كَرَّمْ",
+        
+      },
+      
+    ],
+    
+  },
+  {
+    Frequency: 47,
+    Root: {
+      Letters: {
+        one: "ع",
+        two: "ج",
+        three: "ل",
+        
+      },
+      Meaning: "عَجَّلَ ( فعل ) : أَسْرَعَ",
+      Meaning_En: "accelerate - move or happen faster or earlier - send or throw violently - help the progress of something - hasten; quicken - make haste; hurry - go quickly - hurry eagerly - move or act with great or undue haste; cause to move or proceed hastily - to do something, or need something more quickly than usual, often too quickly - to hurry up - make something happen more quickly or sunk to the buttom - be fast or rapid - make or become quicker; accelerate - (cause something or someone to) go or come with great speed - hurry; hasten; quicken - accelerate; hasten - drive forcibly or hurry - move at a speed faster than a walk - move, or cause somebody to move, especially quickly, in the specified direction - - accelerate - move or happen faster or earlier - send or throw violently - help the progress of something - hasten; quicken - make haste; hurry - go quickly - hurry eagerly - move or act with great or undue haste; cause to move or proceed hastily - move quickly toward - to hurry up - make omething happen more quickly or sunk to the buttom - be fast or rapid - make or become quicker; accelerate - (cause something or someone to) go or come with great speed - hurry; hasten; quicken - accelerate; hasten - drive forcibly or hurry - move at a speed faster than a walk - move, or cause somebody to move, especially quickly, in the specified direction",
+      
+    },
+    AyahArabic: "أَفَبِعَذَابِنَا يَسْتَعْجِلُونَ",
+    FormCount: 19,
+    AyahAyah: 176,
+    AyahSurah: 37,
+    AyahTranslation: "What, do they seek to hasten Our chastisement?",
+    Word: "ٱسْتَعْجَلَ",
+    Meaning: "they hasten",
+    WordNum: 204,
+    Patterns: [
+      {
+        Surah: 75,
+        Ayah: 20,
+        WordNum: 4,
+        Meaning_En: "the immediate",
+        Phonetic_En: "l-ʿājilata",
+        FullWord: "الْعَاجِلَةَ",
+        AyahText: "كَلَّا بَلْ تُحِبُّونَ الْعَاجِلَةَ",
+        AyahTrans: "No indeed; but you love the hasty world,",
+        FormCount: 3,
+        Form: "عَاجِلَةٌ",
+        
+      },
+      {
+        Surah: 75,
+        Ayah: 16,
+        WordNum: 5,
+        Meaning_En: "to hasten",
+        Phonetic_En: "litaʿjala",
+        FullWord: "لِتَعْجَلَ",
+        AyahText: "لَا تُحَرِّكْ بِهِ لِسَانَكَ لِتَعْجَلَ بِهِ",
+        AyahTrans: "Move not thy tongue with it to hasten it;",
+        FormCount: 5,
+        Form: "عَجِلَ",
+        
+      },
+      {
+        Surah: 51,
+        Ayah: 26,
+        WordNum: 5,
+        Meaning_En: "with a calf",
+        Phonetic_En: "biʿij'lin",
+        FullWord: "بِعِجْلٍ",
+        AyahText: "فَرَاغَ إِلَىٰ أَهْلِهِ فَجَاءَ بِعِجْلٍ سَمِينٍ",
+        AyahTrans: "Then he turned to his household and brought a fattened calf,",
+        FormCount: 10,
+        Form: "عِجْل",
+        
+      },
+      {
+        Surah: 38,
+        Ayah: 16,
+        WordNum: 3,
+        Meaning_En: "Hasten",
+        Phonetic_En: "ʿajjil",
+        FullWord: "عَجِّل",
+        AyahText: "وَقَالُوا رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبْلَ يَوْمِ الْحِسَابِ",
+        AyahTrans: "They say, 'Our Lord, hasten to us our share before the Day of Reckoning.'",
+        FormCount: 5,
+        Form: "عَجَّلَ",
+        
+      },
+      {
+        Surah: 21,
+        Ayah: 37,
+        WordNum: 4,
+        Meaning_En: "haste",
+        Phonetic_En: "ʿajalin",
+        FullWord: "عَجَلٍ",
+        AyahText: "خُلِقَ الْإِنسَانُ مِنْ عَجَلٍ سَأُرِيكُمْ آيَاتِي فَلَا تَسْتَعْجِلُونِ",
+        AyahTrans: "Man was created of haste. Assuredly I shall show you My signs; so demand not that I make haste.",
+        FormCount: 1,
+        Form: "عَجَل",
+        
+      },
+      {
+        Surah: 20,
+        Ayah: 83,
+        WordNum: 2,
+        Meaning_En: "made you hasten",
+        Phonetic_En: "aʿjalaka",
+        FullWord: "أَعْجَلَكَ",
+        AyahText: "وَمَا أَعْجَلَكَ عَن قَوْمِكَ يَا مُوسَىٰ",
+        AyahTrans: "'What has sped thee far from thy people, Moses?'",
+        FormCount: 1,
+        Form: "أَعْجَلَ",
+        
+      },
+      {
+        Surah: 17,
+        Ayah: 11,
+        WordNum: 8,
+        Meaning_En: "ever hasty",
+        Phonetic_En: "ʿajūlan",
+        FullWord: "عَجُولًا",
+        AyahText: "وَيَدْعُ الْإِنسَانُ بِالشَّرِّ دُعَاءَهُ بِالْخَيْرِ وَكَانَ الْإِنسَانُ عَجُولًا",
+        AyahTrans: "Man prays for evil, as he prays for good; man is ever hasty.",
+        FormCount: 1,
+        Form: "عَجُول",
+        
+      },
+      {
+        Surah: 10,
+        Ayah: 11,
+        WordNum: 6,
+        Meaning_En: "He hastens for them",
+        Phonetic_En: "is'tiʿ'jālahum",
+        FullWord: "اسْتِعْجَالَهُم",
+        AyahText: "وَلَوْ يُعَجِّلُ اللَّهُ لِلنَّاسِ الشَّرَّ اسْتِعْجَالَهُم بِالْخَيْرِ لَقُضِيَ إِلَيْهِمْ أَجَلُهُمْ فَنَذَرُ الَّذِينَ لَا يَرْجُونَ لِقَاءَنَا فِي طُغْيَانِهِمْ يَعْمَهُونَ",
+        AyahTrans: "If God should hasten unto men evil as they would hasten good, their term would be already decided for them. But We leave those, who look not to encounter Us, in their insolence wandering blindly.",
+        FormCount: 1,
+        Form: "ٱسْتِعْجَال",
+        
+      },
+      {
+        Surah: 2,
+        Ayah: 203,
+        WordNum: 7,
+        Meaning_En: "hurries",
+        Phonetic_En: "taʿajjala",
+        FullWord: "تَعَجَّلَ",
+        AyahText: "وَاذْكُرُوا اللَّهَ فِي أَيَّامٍ مَّعْدُودَاتٍ فَمَن تَعَجَّلَ فِي يَوْمَيْنِ فَلَا إِثْمَ عَلَيْهِ وَمَن تَأَخَّرَ فَلَا إِثْمَ عَلَيْهِ لِمَنِ اتَّقَىٰ وَاتَّقُوا اللَّهَ وَاعْلَمُوا أَنَّكُمْ إِلَيْهِ تُحْشَرُونَ",
+        AyahTrans: "And remember God during certain days numbered. If any man hastens on in two days, that is no sin in him; and if any delays, it is not a sin in him, if he be godfearing. And fear you God, and know that unto Him you shall be mustered.",
+        FormCount: 1,
+        Form: "تَعَجَّلَ",
+        
+      },
+      
+    ],
+    
+  }
+]
