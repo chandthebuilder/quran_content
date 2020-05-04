@@ -211,7 +211,7 @@
         Phonetic_En: "yassammaʿūna",
         FullWord: "يَسَّمَّعُونَ",
         AyahText: "لَّا يَسَّمَّعُونَ إِلَى الْمَلَإِ الْأَعْلَىٰ وَيُقْذَفُونَ مِن كُلِّ جَانِبٍ",
-        AyahTrans: "they listen not to the High Council, for they are pelted from every side,",
+        AyahTrans: "[So] they may not listen to the exalted assembly [of angels] and are pelted from every side,",
         FormCount: 1,
         Form: "يَسَّمَّعُ",
         
@@ -223,8 +223,8 @@
         Meaning_En: "can make hear",
         Phonetic_En: "bimus'miʿin",
         FullWord: "بِمُسْمِعٍ",
-        AyahText: "وَمَا يَسْتَوِي الْأَحْيَاءُ وَلَا الْأَمْوَاتُ إِنَّ اللَّهَ يُسْمِعُ مَن يَشَاءُ وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ",
-        AyahTrans: "not equal are the living and the dead. God makes to hear whomsoever He will; thou canst not make those in their tombs to hear -",
+        AyahText: "إِنَّ اللَّهَ يُسْمِعُ مَن يَشَاءُ وَمَا أَنتَ بِمُسْمِعٍ مَّن فِي الْقُبُورِ...",
+        AyahTrans: "... Surely Allah makes whom He pleases hear, and you cannot make those hear who are in the graves. -",
         FormCount: 1,
         Form: "مُسْمِع",
         
@@ -236,8 +236,8 @@
         Meaning_En: "who would have listened",
         Phonetic_En: "sammāʿūna",
         FullWord: "سَمَّاعُونَ",
-        AyahText: "لَوْ خَرَجُوا فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا خِلَالَكُمْ يَبْغُونَكُمُ الْفِتْنَةَ وَفِيكُمْ سَمَّاعُونَ لَهُمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ",
-        AyahTrans: "Had they gone forth among you, they would only have increased you in trouble, and run to and fro in your midst, seeking to stir up sedition between you; and some of you would listen to them; and God knows the evildoers.",
+        AyahText: " وَفِيكُمْ سَمَّاعُونَ لَهُمْ وَاللَّهُ عَلِيمٌ بِالظَّالِمِينَ...",
+        AyahTrans: "... and some of you would listen to them; and Allah knows the harmdoers.",
         FormCount: 4,
         Form: "سَمَّاع",
         
@@ -249,8 +249,8 @@
         Meaning_En: "to be heard",
         Phonetic_En: "mus'maʿin",
         FullWord: "مُسْمَعٍ",
-        AyahText: "مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا وَاسْمَعْ غَيْرَ مُسْمَعٍ وَرَاعِنَا لَيًّا بِأَلْسِنَتِهِمْ وَطَعْنًا فِي الدِّينِ وَلَوْ أَنَّهُمْ قَالُوا سَمِعْنَا وَأَطَعْنَا وَاسْمَعْ وَانظُرْنَا لَكَانَ خَيْرًا لَّهُمْ وَأَقْوَمَ وَلَٰكِن لَّعَنَهُمُ اللَّهُ بِكُفْرِهِمْ فَلَا يُؤْمِنُونَ إِلَّا قَلِيلًا",
-        AyahTrans: "Some of the Jews pervert words from their meanings saying, 'We have heard and we disobey' and 'Hear, and be thou not given to hear' and 'Observe us,' twisting with their tongues and traducing religion. If they had said, 'We have heard and obey' and 'Hear' and 'Regard us,' it would have been better for them, and more upright; but God has cursed them for their unbelief so they believe not except a few.",
+        AyahText: "مِّنَ الَّذِينَ هَادُوا يُحَرِّفُونَ الْكَلِمَ عَن مَّوَاضِعِهِ وَيَقُولُونَ سَمِعْنَا وَعَصَيْنَا ...ا",
+        AyahTrans: "Some Jews tampered with the words (altering) their places saying: 'We have heard and we disobey' ...",
         FormCount: 1,
         Form: "مُسْمَع",
         
