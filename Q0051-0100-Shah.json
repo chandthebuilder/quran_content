@@ -990,8 +990,8 @@
         Meaning_En: "an avenger",
         Phonetic_En: "tabīʿan",
         FullWord: "تَبِيعًا",
-        AyahText: "أَمْ أَمِنتُمْ أَن يُعِيدَكُمْ فِيهِ تَارَةً أُخْرَىٰ فَيُرْسِلَ عَلَيْكُمْ قَاصِفًا مِّنَ الرِّيحِ فَيُغْرِقَكُم بِمَا كَفَرْتُمْ ثُمَّ لَا تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعًا",
-        AyahTrans: "Or do you feel secure that He will not send you back into it a second time, and loose against you a hurricane of wind and drown you for your thanklessness, then you will find no prosecutor for you against Us?",
+        AyahText: " ثُمَّ لَا تَجِدُوا لَكُمْ عَلَيْنَا بِهِ تَبِيعًا ...",
+        AyahTrans: "...  Then you would not find for yourselves against Us an avenger.",
         FormCount: 1,
         Form: "تَبِيع",
         
@@ -1003,8 +1003,8 @@
         Meaning_En: "following",
         Phonetic_En: "ittibāʿa",
         FullWord: "اتِّبَاعَ",
-        AyahText: "وَقَوْلِهِمْ إِنَّا قَتَلْنَا الْمَسِيحَ عِيسَى ابْنَ مَرْيَمَ رَسُولَ اللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمْ وَإِنَّ الَّذِينَ اخْتَلَفُوا فِيهِ لَفِي شَكٍّ مِّنْهُ مَا لَهُم بِهِ مِنْ عِلْمٍ إِلَّا اتِّبَاعَ الظَّنِّ وَمَا قَتَلُوهُ يَقِينًا",
-        AyahTrans: "and for their saying, 'We slew the Messiah, Jesus son of Mary, the Messenger of God' -- yet they did not slay him, neither crucified him, only a likeness of that was shown to them. Those who are at variance concerning him surely are in doubt regarding him; they have no knowledge of him, except the following of surmise; and they slew him not of a certainty -- no indeed;",
+        AyahText: " إِلَّا اتِّبَاعَ الظَّنِّ وَمَا قَتَلُوهُ يَقِينًا ...",
+        AyahTrans: "... except the following of assumptions and without doubt, they did not kill him.",
         FormCount: 2,
         Form: "ٱتِّبَاع",
         
@@ -1055,8 +1055,8 @@
         Meaning_En: "fight",
         Phonetic_En: "iq'tatalū",
         FullWord: "اقْتَتَلُوا",
-        AyahText: "وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا فَإِن بَغَتْ إِحْدَاهُمَا عَلَى الْأُخْرَىٰ فَقَاتِلُوا الَّتِي تَبْغِي حَتَّىٰ تَفِيءَ إِلَىٰ أَمْرِ اللَّهِ فَإِن فَاءَتْ فَأَصْلِحُوا بَيْنَهُمَا بِالْعَدْلِ وَأَقْسِطُوا إِنَّ اللَّهَ يُحِبُّ الْمُقْسِطِينَ",
-        AyahTrans: "If two parties of the believers fight, put things right between them; then, if one of them is insolent against the other, fight the insolent one till it reverts to God's commandment. If it reverts, set things right between them equitably, and be just. Surely God loves the just.",
+        AyahText: " ... وَإِن طَائِفَتَانِ مِنَ الْمُؤْمِنِينَ اقْتَتَلُوا فَأَصْلِحُوا بَيْنَهُمَا",
+        AyahTrans: "If two parties of the believers fight, put things right between them; ...",
         FormCount: 4,
         Form: "ٱقْتَتَلَ",
         
@@ -1068,8 +1068,8 @@
         Meaning_En: "for the battle",
         Phonetic_En: "lil'qitāli",
         FullWord: "لِلْقِتَالِ",
-        AyahText: "وَإِذْ غَدَوْتَ مِنْ أَهْلِكَ تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ وَاللَّهُ سَمِيعٌ عَلِيمٌ",
-        AyahTrans: "When thou wentest forth at dawn from thy people to lodge the believers in their pitches for the battle -- God is All-hearing, All-knowing --",
+        AyahText: " تُبَوِّئُ الْمُؤْمِنِينَ مَقَاعِدَ لِلْقِتَالِ وَاللَّهُ سَمِيعٌ عَلِيمٌ ...",
+        AyahTrans: "... post the believers at their stations for the battle ...",
         FormCount: 13,
         Form: "قِتَال",
         
