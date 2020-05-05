@@ -262,8 +262,8 @@
         Meaning_En: "perish",
         Phonetic_En: "l-hālikīna",
         FullWord: "الْهَالِكِينَ",
-        AyahText: "قَالُوا تَاللَّهِ تَفْتَأُ تَذْكُرُ يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
-        AyahTrans: "They said, By Allah, you will not cease remembering Joseph until you become fatally ill or become of those who perish.",
+        AyahText: "يُوسُفَ حَتَّىٰ تَكُونَ حَرَضًا أَوْ تَكُونَ مِنَ الْهَالِكِينَ",
+        AyahTrans: "Joseph until you become fatally ill or become of those who perish.",
         FormCount: 2,
         Form: "هَالِك",
         
@@ -614,7 +614,7 @@
         Phonetic_En: "ij'rāmī",
         FullWord: "إِجْرَامِي",
         AyahText: "أَمْ يَقُولُونَ افْتَرَاهُ قُلْ إِنِ افْتَرَيْتُهُ فَعَلَيَّ إِجْرَامِي وَأَنَا بَرِيءٌ مِّمَّا تُجْرِمُونَ",
-        AyahTrans: "(Or do they say, 'He has forged it'? Say: 'If I have forged it, upon me falls my sin; and I am quit of the sins you do.')",
+        AyahTrans: "(Or do they say, 'He has forged it'? Say: 'If I have forged it, upon me falls my sin')",
         FormCount: 1,
         Form: "إِجْرَام",
         
@@ -769,8 +769,8 @@
         Meaning_En: "the loss",
         Phonetic_En: "l-khus'rānu",
         FullWord: "الْخُسْرَانُ",
-        AyahText: "فَاعْبُدُوا مَا شِئْتُم مِّن دُونِهِ قُلْ إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ",
-        AyahTrans: "so serve what you will apart from Him.' Say: 'Surely the losers are they who lose themselves and their families on the Day of Resurrection; is not that the manifest loss?",
+        AyahText: "إِنَّ الْخَاسِرِينَ الَّذِينَ خَسِرُوا أَنفُسَهُمْ وَأَهْلِيهِمْ يَوْمَ الْقِيَامَةِ أَلَا ذَٰلِكَ هُوَ الْخُسْرَانُ الْمُبِينُ...",
+        AyahTrans: " 'Surely the losers are they who lose themselves and their families on the Day of Resurrection; is not that the manifest loss?",
         FormCount: 3,
         Form: "خُسْرَان",
         
@@ -808,8 +808,8 @@
         Meaning_En: "loss",
         Phonetic_En: "takhsīrin",
         FullWord: "تَخْسِيرٍ",
-        AyahText: "قَالَ يَا قَوْمِ أَرَأَيْتُمْ إِن كُنتُ عَلَىٰ بَيِّنَةٍ مِّن رَّبِّي وَآتَانِي مِنْهُ رَحْمَةً فَمَن يَنصُرُنِي مِنَ اللَّهِ إِنْ عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ",
-        AyahTrans: "He said, 'O my people, what think you? If I stand upon a clear sign from my Lord, and He has given me mercy from Him, who shall help me against God if I rebel against Him? You would do nothing for me, except increase my loss.",
+        AyahText: "إِنْ عَصَيْتُهُ فَمَا تَزِيدُونَنِي غَيْرَ تَخْسِيرٍ...",
+        AyahTrans: "...You would do nothing for me, except increase my loss.",
         FormCount: 1,
         Form: "تَخْسِير",
         
