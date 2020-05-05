@@ -1874,8 +1874,8 @@
         Meaning_En: "pride",
         Phonetic_En: "is'tik'bāran",
         FullWord: "اسْتِكْبَارًا",
-        AyahText: "وَإِنِّي كُلَّمَا دَعَوْتُهُمْ لِتَغْفِرَ لَهُمْ جَعَلُوا أَصَابِعَهُمْ فِي آذَانِهِمْ وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا",
-        AyahTrans: "And whenever I called them, that Thou mightest forgive them, they put their fingers in their ears, and wrapped them in their garments, and persisted, and waxed very proud.",
+        AyahText: "وَاسْتَغْشَوْا ثِيَابَهُمْ وَأَصَرُّوا وَاسْتَكْبَرُوا اسْتِكْبَارًا ...",
+        AyahTrans: "... covered themselves with their garments, persisted, and were arrogant with [great] arrogance.",
         FormCount: 2,
         Form: "ٱسْتِكْبَار",
         
@@ -1888,7 +1888,7 @@
         Phonetic_En: "mus'takbirīna",
         FullWord: "مُسْتَكْبِرِينَ",
         AyahText: "مُسْتَكْبِرِينَ بِهِ سَامِرًا تَهْجُرُونَ",
-        AyahTrans: "waxing proud against it, talking foolish talk by night.'",
+        AyahTrans: "behaving arrogantly, and making fun, and talking nonsense.",
         FormCount: 6,
         Form: "مُسْتَكْبِر",
         
@@ -1914,7 +1914,7 @@
         Phonetic_En: "l-mutakabirīna",
         FullWord: "الْمُتَكَبِّرِينَ",
         AyahText: "ادْخُلُوا أَبْوَابَ جَهَنَّمَ خَالِدِينَ فِيهَا فَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ",
-        AyahTrans: "Enter the gates of Gehenna, to dwell therein forever.' How evil is the lodging of those that are proud!",
+        AyahTrans: "Enter the gates of Hell to abide eternally therein, and wretched is the residence of the arrogant.",
         FormCount: 7,
         Form: "مُتَكَبِّر",
         
@@ -1927,7 +1927,7 @@
         Phonetic_En: "l-kib'riyāu",
         FullWord: "الْكِبْرِيَاءُ",
         AyahText: "وَلَهُ الْكِبْرِيَاءُ فِي السَّمَاوَاتِ وَالْأَرْضِ وَهُوَ الْعَزِيزُ الْحَكِيمُ",
-        AyahTrans: "His is the Domination an the heavens and the earth; He is the All-mighty, the All-wise.",
+        AyahTrans: "And to Him belongs greatness in the heavens and the earth, and He is the Mighty, the Wise.",
         FormCount: 2,
         Form: "كِبْرِيَاء",
         
@@ -1939,8 +1939,8 @@
         Meaning_En: "greatness",
         Phonetic_En: "kib'run",
         FullWord: "كِبْرٌ",
-        AyahText: "إِنَّ الَّذِينَ يُجَادِلُونَ فِي آيَاتِ اللَّهِ بِغَيْرِ سُلْطَانٍ أَتَاهُمْ إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَالِغِيهِ فَاسْتَعِذْ بِاللَّهِ إِنَّهُ هُوَ السَّمِيعُ الْبَصِيرُ",
-        AyahTrans: "Those who dispute concerning the signs of God, without any authority come to them, in their breasts is only pride, that they shall never attain. So seek thou refuge in God; surely He is the All-hearing, the All-seeing.",
+        AyahText: " ... إِن فِي صُدُورِهِمْ إِلَّا كِبْرٌ مَّا هُم بِبَالِغِيهِ فَاسْتَعِذْ بِاللَّهِ  ... ",
+        AyahTrans: "...there is not within their breasts except pride, [the extent of] which they cannot reach. So seek refuge in Allah... ",
         FormCount: 2,
         Form: "كِبْر",
         
@@ -1978,8 +1978,8 @@
         Meaning_En: "(with all) magnificence",
         Phonetic_En: "takbīran",
         FullWord: "تَكْبِيرًا",
-        AyahText: "وَقُلِ الْحَمْدُ لِلَّهِ الَّذِي لَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُ شَرِيكٌ فِي الْمُلْكِ وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا",
-        AyahTrans: "And say: 'Praise belongs to God, who has not taken to Him a son, and who has not any associate in the Kingdom, nor any protector out of humbleness.' And magnify Him with repeated magnificats.",
+        AyahText: " وَلَمْ يَكُن لَّهُ وَلِيٌّ مِّنَ الذُّلِّ وَكَبِّرْهُ تَكْبِيرًا ...",
+        AyahTrans: "... Nor (needs) He any to protect Him from humiliation: yea, magnify Him for His greatness and glory!",
         FormCount: 1,
         Form: "تَكْبِير",
         
@@ -1991,8 +1991,8 @@
         Meaning_En: "they greatly admired him",
         Phonetic_En: "akbarnahu",
         FullWord: "أَكْبَرْنَهُ",
-        AyahText: "فَلَمَّا سَمِعَتْ بِمَكْرِهِنَّ أَرْسَلَتْ إِلَيْهِنَّ وَأَعْتَدَتْ لَهُنَّ مُتَّكَأً وَآتَتْ كُلَّ وَاحِدَةٍ مِّنْهُنَّ سِكِّينًا وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ وَقَطَّعْنَ أَيْدِيَهُنَّ وَقُلْنَ حَاشَ لِلَّهِ مَا هَٰذَا بَشَرًا إِنْ هَٰذَا إِلَّا مَلَكٌ كَرِيمٌ",
-        AyahTrans: "When she heard their sly whispers, she sent to them, and made ready for them a repast, then she gave to each one of them a knife. 'Come forth, attend to them,' she said. And when they saw him, they so admired him that they cut their hands, saying, 'God save us! This is no mortal; he is no other but a noble angel.'",
+        AyahText: " ...  وَقَالَتِ اخْرُجْ عَلَيْهِنَّ فَلَمَّا رَأَيْنَهُ أَكْبَرْنَهُ ... ",
+        AyahTrans: " ... and said [to Joseph], Come out before them.And when they saw him, they greatly admired him  ...",
         FormCount: 1,
         Form: "أَكْبَرْ",
         
@@ -2005,7 +2005,7 @@
         Phonetic_En: "tatakabbara",
         FullWord: "تَتَكَبَّرَ",
         AyahText: "قَالَ فَاهْبِطْ مِنْهَا فَمَا يَكُونُ لَكَ أَن تَتَكَبَّرَ فِيهَا فَاخْرُجْ إِنَّكَ مِنَ الصَّاغِرِينَ",
-        AyahTrans: "Said He, 'Get thee down out of it; it is not for thee to wax proud here, so go thou forth; surely thou art among the humbled.'",
+        AyahTrans: "God said, Get down from here! This is no place for your arrogance. Get out! You are contemptible!",
         FormCount: 2,
         Form: "يَتَكَبَّرُ",
         
@@ -2017,8 +2017,8 @@
         Meaning_En: "certainly a great (test)",
         Phonetic_En: "lakabīratan",
         FullWord: "لَكَبِيرَةً",
-        AyahText: "وَكَذَٰلِكَ جَعَلْنَاكُمْ أُمَّةً وَسَطًا لِّتَكُونُوا شُهَدَاءَ عَلَى النَّاسِ وَيَكُونَ الرَّسُولُ عَلَيْكُمْ شَهِيدًا وَمَا جَعَلْنَا الْقِبْلَةَ الَّتِي كُنتَ عَلَيْهَا إِلَّا لِنَعْلَمَ مَن يَتَّبِعُ الرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيْهِ وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ وَمَا كَانَ اللَّهُ لِيُضِيعَ إِيمَانَكُمْ إِنَّ اللَّهَ بِالنَّاسِ لَرَءُوفٌ رَّحِيمٌ",
-        AyahTrans: "Thus We appointed you a midmost nation that you might be witnesses to the people, and that the Messenger might be a witness to you; and We did not appoint the direction thou wast facing, except that We might know who followed the Messenger from him who turned on his heels -- though it were a grave thing save for those whom God has guided; but God would never leave your faith to waste - truly, God is All-gentle with the people, All-compassionate.",
+        AyahText: "  ... وَإِن كَانَتْ لَكَبِيرَةً إِلَّا عَلَى الَّذِينَ هَدَى اللَّهُ  ... ",
+        AyahTrans: "...Indeed it was great (test) except for those whom Allah guided...",
         FormCount: 1,
         Form: "كَبِيرَة",
         
@@ -2070,7 +2070,7 @@
         Phonetic_En: "wanabbi'hum",
         FullWord: "وَنَبِّئْهُمْ",
         AyahText: "وَنَبِّئْهُمْ عَن ضَيْفِ إِبْرَاهِيمَ",
-        AyahTrans: "And tell them of the guests of Abraham,",
+        AyahTrans: "And inform them of the guests of Ibrahim",
         FormCount: 46,
         Form: "نَبَّأَ",
         
