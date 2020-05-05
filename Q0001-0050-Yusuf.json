@@ -359,9 +359,9 @@
         Phonetic_En: "l-rabāniyūna",
         FullWord: "الرَّبَّانِيُّونَ",
         AyahText:
-          "لَوْلَا يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالْأَحْبَارُ عَن قَوْلِهِمُ الْإِثْمَ وَأَكْلِهِمُ السُّحْتَ لَبِئْسَ مَا كَانُوا يَصْنَعُونَ",
+          "لَوْلَا يَنْهَاهُمُ الرَّبَّانِيُّونَ وَالْأَحْبَارُ عَن قَوْلِهِمُ الْإِثْمَ وَأَكْلِهِمُ السُّحْتَ ",
         AyahTrans:
-          "Why do the masters and the rabbis not forbid them to utter sin, and consume the unlawful? Evil is the thing they have been working.",
+          "Why do the masters and the rabbis not forbid them to utter sin, and consume the unlawful? ",
         FormCount: 3,
         Form: "رَبَّانِيِّن",
       },
@@ -375,7 +375,7 @@
         AyahText:
           "حُرِّمَتْ عَلَيْكُمْ أُمَّهَاتُكُمْ وَبَنَاتُكُمْ وَأَخَوَاتُكُمْ وَعَمَّاتُكُمْ وَخَالَاتُكُمْ وَبَنَاتُ الْأَخِ وَبَنَاتُ الْأُخْتِ وَأُمَّهَاتُكُمُ اللَّاتِي أَرْضَعْنَكُمْ وَأَخَوَاتُكُم مِّنَ الرَّضَاعَةِ وَأُمَّهَاتُ نِسَائِكُمْ وَرَبَائِبُكُمُ اللَّاتِي فِي حُجُورِكُم مِّن نِّسَائِكُمُ اللَّاتِي دَخَلْتُم بِهِنَّ فَإِن لَّمْ تَكُونُوا دَخَلْتُم بِهِنَّ فَلَا جُنَاحَ عَلَيْكُمْ وَحَلَائِلُ أَبْنَائِكُمُ الَّذِينَ مِنْ أَصْلَابِكُمْ وَأَن تَجْمَعُوا بَيْنَ الْأُخْتَيْنِ إِلَّا مَا قَدْ سَلَفَ إِنَّ اللَّهَ كَانَ غَفُورًا رَّحِيمًا",
         AyahTrans:
-          "Forbidden to you are your mothers and daughters, your sisters, your aunts paternal and maternal, your brother's daughters, your sister's daughters, your mothers who have given suck to you, your suckling sisters, your wives' mothers, your stepdaughters who are in your care being born of your wives you have been in to -- but if you have not yet been in to them it is no fault in you - and the spouses of your sons who are of your loins, and that you should take to you two sisters together, unless it be a thing of the past; God is All-forgiving, All-compassionate;",
+          "Prohibited to you (For marriage) are:- Your mothers, daughters, sisters; father's sisters, Mother's sisters; brother's daughters, sister's daughters; foster-mothers (Who gave you suck), foster-sisters; your wives' mothers; your step-daughters under your guardianship, born of your wives to whom ye have gone in,- no prohibition if ye have not gone in;- (Those who have been) wives of your sons proceeding from your loins; and two sisters in wedlock at one and the same time, except for what is past; for Allah is Oft-forgiving, Most Merciful;-",
         FormCount: 1,
         Form: "رَبَائِب",
       },
@@ -387,9 +387,9 @@
         Phonetic_En: "ribbiyyūna",
         FullWord: "رِبِّيُّونَ",
         AyahText:
-          "وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ فَمَا وَهَنُوا لِمَا أَصَابَهُمْ فِي سَبِيلِ اللَّهِ وَمَا ضَعُفُوا وَمَا اسْتَكَانُوا وَاللَّهُ يُحِبُّ الصَّابِرِينَ",
+          "وَكَأَيِّن مِّن نَّبِيٍّ قَاتَلَ مَعَهُ رِبِّيُّونَ كَثِيرٌ ",
         AyahTrans:
-          "Many a Prophet there has been, with whom thousands manifold have fought, and they fainted not for what smote them in God's way, neither weakened, nor did they humble themselves; and God loves the patient.",
+          "And how many a prophet [fought and] with him fought many religious scholars...",
         FormCount: 1,
         Form: "رِبِّيّ",
       },
@@ -488,7 +488,7 @@
         AyahText:
           "أَوَأَمِنَ أَهْلُ الْقُرَىٰ أَن يَأْتِيَهُم بَأْسُنَا ضُحًى وَهُمْ يَلْعَبُونَ",
         AyahTrans:
-          "Do the people of the cities feel secure Our might shall not come upon them in daylight while they are playing?",
+          "Or did the people of the cities feel secure from Our punishment coming to them...",
         FormCount: 20,
         Form: "أَمِنَ",
       },
@@ -500,9 +500,9 @@
         Phonetic_En: "l-mu'minātu",
         FullWord: "الْمُؤْمِنَاتُ",
         AyahText:
-          "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ فَإِنْ عَلِمْتُمُوهُنَّ مُؤْمِنَاتٍ فَلَا تَرْجِعُوهُنَّ إِلَى الْكُفَّارِ لَا هُنَّ حِلٌّ لَّهُمْ وَلَا هُمْ يَحِلُّونَ لَهُنَّ وَآتُوهُم مَّا أَنفَقُوا وَلَا جُنَاحَ عَلَيْكُمْ أَن تَنكِحُوهُنَّ إِذَا آتَيْتُمُوهُنَّ أُجُورَهُنَّ وَلَا تُمْسِكُوا بِعِصَمِ الْكَوَافِرِ وَاسْأَلُوا مَا أَنفَقْتُمْ وَلْيَسْأَلُوا مَا أَنفَقُوا ذَٰلِكُمْ حُكْمُ اللَّهِ يَحْكُمُ بَيْنَكُمْ وَاللَّهُ عَلِيمٌ حَكِيمٌ",
+          "يَا أَيُّهَا الَّذِينَ آمَنُوا إِذَا جَاءَكُمُ الْمُؤْمِنَاتُ مُهَاجِرَاتٍ فَامْتَحِنُوهُنَّ اللَّهُ أَعْلَمُ بِإِيمَانِهِنَّ ",
         AyahTrans:
-          "O believers, when believing women come to you as emigrants, test them. God knows very well their belief. Then, if you know them to be believers, return them not to the unbelievers. They are not permitted to the unbelievers, nor are the unbelievers permitted to them. Give the unbelievers what they have expended; and there is no fault in you to marry them when you have given them their wages. Do not hold fast to the ties of unbelieving women, and ask what you have expended, and let them ask what they have expended. That is God's judgment; He judges between you; and God is All-knowing, All-wise.",
+          "O believers, when believing women come to you as emigrants, test them. God knows very well their belief...",
         FormCount: 1,
         Form: "مُؤْمِنَة",
       },
@@ -526,9 +526,9 @@
         Phonetic_En: "l-amnu",
         FullWord: "الْأَمْنُ",
         AyahText:
-          "الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُم بِظُلْمٍ أُولَٰئِكَ لَهُمُ الْأَمْنُ وَهُم مُّهْتَدُونَ",
+          "الَّذِينَ آمَنُوا وَلَمْ يَلْبِسُوا إِيمَانَهُم بِظُلْمٍ أُولَٰئِكَ لَهُمُ الْأَمْنُ ",
         AyahTrans:
-          "Those who believe, and have not confounded their belief with evildoing -- to them belongs the true security; they are rightly guided.",
+          "Those who believe and obscure not their belief by wrongdoing, theirs is safety...",
         FormCount: 5,
         Form: "أَمْن",
       },
@@ -540,9 +540,9 @@
         Phonetic_En: "āminatan",
         FullWord: "آمِنَةً",
         AyahText:
-          "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً مُّطْمَئِنَّةً يَأْتِيهَا رِزْقُهَا رَغَدًا مِّن كُلِّ مَكَانٍ فَكَفَرَتْ بِأَنْعُمِ اللَّهِ فَأَذَاقَهَا اللَّهُ لِبَاسَ الْجُوعِ وَالْخَوْفِ بِمَا كَانُوا يَصْنَعُونَ",
+          "وَضَرَبَ اللَّهُ مَثَلًا قَرْيَةً كَانَتْ آمِنَةً ",
         AyahTrans:
-          "God has struck a similitude: a city that was secure, at rest, its provision coming to it easefully from every place, then it was unthankful for the blessings of God; so God let it taste the garment of hunger and of fear, for the things that they were working.",
+          "And Allah presents an example: a city which was safe and secure... ",
         FormCount: 1,
         Form: "آمِنَة",
       },
