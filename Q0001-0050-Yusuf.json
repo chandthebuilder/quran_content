@@ -796,9 +796,9 @@
         Phonetic_En: "maʿlūmātun",
         FullWord: "مَعْلُومَاتٌ",
         AyahText:
-          "الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ فَمَن فَرَضَ فِيهِنَّ الْحَجَّ فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِي الْحَجِّ وَمَا تَفْعَلُوا مِنْ خَيْرٍ يَعْلَمْهُ اللَّهُ وَتَزَوَّدُوا فَإِنَّ خَيْرَ الزَّادِ التَّقْوَىٰ وَاتَّقُونِ يَا أُولِي الْأَلْبَابِ",
+          "الْحَجُّ أَشْهُرٌ مَّعْلُومَاتٌ ",
         AyahTrans:
-          "The Pilgrimage is in months well-known; whoso undertakes the duty of Pilgrimage in them shall not go in to his womenfolk nor indulge in ungodliness and disputing in the Pilgrimage. Whatever good you do, God knows it. And take provision; but the best provision is godfearing, so fear you Me, men possessed of minds!",
+          "The Pilgrimage is in months well-known!",
         FormCount: 1,
         Form: "مَعْلُومَة",
       },
@@ -812,7 +812,7 @@
         AyahText:
           "يَا بَنِي إِسْرَائِيلَ اذْكُرُوا نِعْمَتِيَ الَّتِي أَنْعَمْتُ عَلَيْكُمْ وَأَنِّي فَضَّلْتُكُمْ عَلَى الْعَالَمِينَ",
         AyahTrans:
-          "Children of Israel, remember My blessing wherewith I blessed you, and that I have preferred you above all beings;",
+          " Children of Israel! Remember My favour wherewith I favoured you and how I preferred over (all) creatures.",
         FormCount: 2,
         Form: "عَالَمِ",
       },
@@ -824,9 +824,9 @@
         Phonetic_En: "wayataʿallamūna",
         FullWord: "وَيَتَعَلَّمُونَ",
         AyahText:
-          "وَاتَّبَعُوا مَا تَتْلُو الشَّيَاطِينُ عَلَىٰ مُلْكِ سُلَيْمَانَ وَمَا كَفَرَ سُلَيْمَانُ وَلَٰكِنَّ الشَّيَاطِينَ كَفَرُوا يُعَلِّمُونَ النَّاسَ السِّحْرَ وَمَا أُنزِلَ عَلَى الْمَلَكَيْنِ بِبَابِلَ هَارُوتَ وَمَارُوتَ وَمَا يُعَلِّمَانِ مِنْ أَحَدٍ حَتَّىٰ يَقُولَا إِنَّمَا نَحْنُ فِتْنَةٌ فَلَا تَكْفُرْ فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ وَمَا هُم بِضَارِّينَ بِهِ مِنْ أَحَدٍ إِلَّا بِإِذْنِ اللَّهِ وَيَتَعَلَّمُونَ مَا يَضُرُّهُمْ وَلَا يَنفَعُهُمْ وَلَقَدْ عَلِمُوا لَمَنِ اشْتَرَاهُ مَا لَهُ فِي الْآخِرَةِ مِنْ خَلَاقٍ وَلَبِئْسَ مَا شَرَوْا بِهِ أَنفُسَهُمْ لَوْ كَانُوا يَعْلَمُونَ",
+          "فَيَتَعَلَّمُونَ مِنْهُمَا مَا يُفَرِّقُونَ بِهِ بَيْنَ الْمَرْءِ وَزَوْجِهِ...",
         AyahTrans:
-          "and they follow what the Satans recited over Solomon's kingdom. Solomon disbelieved not, but the Satans disbelieved, teaching the people sorcery, and that which was sent down upon Babylon's two angels, Harut and Marut; they taught not any man, without they said, 'We are but a temptation; do not disbelieve.' From them they learned how they might divide a man and his wife, yet they did not hurt any man thereby, save by the leave of God, and they learned what hurt them, and did not profit them, knowing well that whoso buys it shall have no share in the world to come; evil then was that they sold themselves for, if they had but known.",
+          " From them they learned how they might divide a man and his wife...",
         FormCount: 2,
         Form: "يَتَعَلَّمُ",
       },
