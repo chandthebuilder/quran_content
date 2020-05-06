@@ -2082,8 +2082,8 @@
         Meaning_En: "Inform Me",
         Phonetic_En: "anbiūnī",
         FullWord: "أَنبِئُونِي",
-        AyahText: "وَعَلَّمَ آدَمَ الْأَسْمَاءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى الْمَلَائِكَةِ فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ",
-        AyahTrans: "And He taught Adam the names, all of them; then He presented them unto the angels and said, 'Now tell Me the names of these, if you speak truly.'",
+        AyahText: " فَقَالَ أَنبِئُونِي بِأَسْمَاءِ هَٰؤُلَاءِ إِن كُنتُمْ صَادِقِينَ ...",
+        AyahTrans: "... 'Now tell Me the names of these, if you speak truly.'",
         FormCount: 4,
         Form: "أَنۢبَأَ",
         
@@ -2095,8 +2095,8 @@
         Meaning_En: "the Prophethood",
         Phonetic_En: "wal-nubuwata",
         FullWord: "وَالنُّبُوَّةَ",
-        AyahText: "وَلَقَدْ آتَيْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ وَرَزَقْنَاهُم مِّنَ الطَّيِّبَاتِ وَفَضَّلْنَاهُمْ عَلَى الْعَالَمِينَ",
-        AyahTrans: "Indeed, We gave the Children of Israel the Book, the Judgment, and the Prophethood, and We provided them with good things, and We preferred them above all beings.",
+        AyahText: "... وَلَقَدْ آتَيْنَا بَنِي إِسْرَائِيلَ الْكِتَابَ وَالْحُكْمَ وَالنُّبُوَّةَ ",
+        AyahTrans: "Indeed, We gave the Children of Israel the Book, the Judgment, and the Prophethood, ...",
         FormCount: 5,
         Form: "نُبُوَّة",
         
@@ -2109,7 +2109,7 @@
         Phonetic_En: "wayastanbiūnaka",
         FullWord: "وَيَسْتَنبِئُونَكَ",
         AyahText: "وَيَسْتَنبِئُونَكَ أَحَقٌّ هُوَ قُلْ إِي وَرَبِّي إِنَّهُ لَحَقٌّ وَمَا أَنتُم بِمُعْجِزِينَ",
-        AyahTrans: "They ask thee to tell them, 'Is it true?' Say: 'Yes, by my Lord! It is true; you cannot frustrate Him.'",
+        AyahTrans: "And they ask you: Is that true? Say: Aye! by my Lord! it is most surely the truth, and you will not escape.",
         FormCount: 1,
         Form: "يَسْتَنۢبِئُ",
         
@@ -2199,8 +2199,8 @@
         Meaning_En: "I made them witness",
         Phonetic_En: "ashhadttuhum",
         FullWord: "أَشْهَدتُّهُمْ",
-        AyahText: "مَّا أَشْهَدتُّهُمْ خَلْقَ السَّمَاوَاتِ وَالْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ وَمَا كُنتُ مُتَّخِذَ الْمُضِلِّينَ عَضُدًا",
-        AyahTrans: "I made them not witnesses of the creation of the heavens and earth, neither of the creation of themselves; I would not ever take those who lead others astray to be My supporters.",
+        AyahText: " ... مَّا أَشْهَدتُّهُمْ خَلْقَ السَّمَاوَاتِ وَالْأَرْضِ وَلَا خَلْقَ أَنفُسِهِمْ ",
+        AyahTrans: "I made them not witnesses of the creation of the heavens and earth, neither of the creation of themselves; ...",
         FormCount: 7,
         Form: "أَشْهَدَ",
         
@@ -2212,8 +2212,8 @@
         Meaning_En: "witnessing",
         Phonetic_En: "mashhadi",
         FullWord: "مَشْهَدِ",
-        AyahText: "فَاخْتَلَفَ الْأَحْزَابُ مِن بَيْنِهِمْ فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ",
-        AyahTrans: "But the parties have fallen into variance among themselves; then woe to those who disbelieve for the scene of a dreadful day.",
+        AyahText: " فَوَيْلٌ لِّلَّذِينَ كَفَرُوا مِن مَّشْهَدِ يَوْمٍ عَظِيمٍ ...",
+        AyahTrans: "... so ruin is for the disbelievers from the witnessing of a Great Day.",
         FormCount: 1,
         Form: "مَشْهَد",
         
@@ -2225,8 +2225,8 @@
         Meaning_En: "call to witness",
         Phonetic_En: "fa-is'tashhidū",
         FullWord: "فَاسْتَشْهِدُوا",
-        AyahText: "وَاللَّاتِي يَأْتِينَ الْفَاحِشَةَ مِن نِّسَائِكُمْ فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ فَإِن شَهِدُوا فَأَمْسِكُوهُنَّ فِي الْبُيُوتِ حَتَّىٰ يَتَوَفَّاهُنَّ الْمَوْتُ أَوْ يَجْعَلَ اللَّهُ لَهُنَّ سَبِيلًا",
-        AyahTrans: "Such of your women as commit indecency, call four of you to witness against them; and if they witness, then detain them in their houses until death takes them or God appoints for them a way.",
+        AyahText: "  ... فَاسْتَشْهِدُوا عَلَيْهِنَّ أَرْبَعَةً مِّنكُمْ فَإِن شَهِدُوا  ...",
+        AyahTrans: "... call to witness four of you against them. And if they testify (to the truth of the allegation) ...",
         FormCount: 2,
         Form: "ٱسْتَشْهِدُ",
         
@@ -2304,7 +2304,7 @@
         Phonetic_En: "fa-intaṣir",
         FullWord: "فَانتَصِرْ",
         AyahText: "فَدَعَا رَبَّهُ أَنِّي مَغْلُوبٌ فَانتَصِرْ",
-        AyahTrans: "And so he called unto his Lord, saying, 'I am vanquished; do Thou succour me!'",
+        AyahTrans: "So he invoked his Lord,Indeed, I am overpowered, so help.",
         FormCount: 7,
         Form: "ٱنتَصَرَ",
         
@@ -2317,7 +2317,7 @@
         Phonetic_En: "muntaṣirun",
         FullWord: "مُنتَصِرٌ",
         AyahText: "أَمْ يَقُولُونَ نَحْنُ جَمِيعٌ مُّنتَصِرٌ",
-        AyahTrans: "Or do they say, 'We are a congregation that shall be succoured?'",
+        AyahTrans: "Or do they say: We are a host allied together to help each other?",
         FormCount: 4,
         Form: "مُنتَصِر",
         
@@ -2355,8 +2355,8 @@
         Meaning_En: "sought his help",
         Phonetic_En: "is'tanṣarahu",
         FullWord: "اسْتَنصَرَهُ",
-        AyahText: "فَأَصْبَحَ فِي الْمَدِينَةِ خَائِفًا يَتَرَقَّبُ فَإِذَا الَّذِي اسْتَنصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ قَالَ لَهُ مُوسَىٰ إِنَّكَ لَغَوِيٌّ مُّبِينٌ",
-        AyahTrans: "Now in the morning he was in the city, fearful and vigilant; and behold, the man who had sought his, succour on the day before cried out to him again. Moses said to him, 'Clearly thou art, a quarreller.'",
+        AyahText: "  ... فَإِذَا الَّذِي اسْتَنصَرَهُ بِالْأَمْسِ يَسْتَصْرِخُهُ  ... ",
+        AyahTrans: "... and behold, the man who had sought his, succour on the day before cried out to him again ...'",
         FormCount: 2,
         Form: "ٱسْتَنصَرَ",
         
