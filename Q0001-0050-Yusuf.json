@@ -580,9 +580,9 @@
         Phonetic_En: "mamanahu",
         FullWord: "مَأْمَنَهُ",
         AyahText:
-          "وَإِنْ أَحَدٌ مِّنَ الْمُشْرِكِينَ اسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَامَ اللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
+          "ثُمَّ أَبْلِغْهُ مَأْمَنَهُ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ",
         AyahTrans:
-          "And if any of the idolaters seeks of thee protection, grant him protection till he hears the words of God; then do thou convey him to his place of security -- that, because they are a people who do not know.",
+          " , and then escort him to safety for they are a people who do not know..",
         FormCount: 1,
         Form: "مَأْمَن",
       },
@@ -594,9 +594,9 @@
         Phonetic_En: "amanatan",
         FullWord: "أَمَنَةً",
         AyahText:
-          "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً لِّيُطَهِّرَكُم بِهِ وَيُذْهِبَ عَنكُمْ رِجْزَ الشَّيْطَانِ وَلِيَرْبِطَ عَلَىٰ قُلُوبِكُمْ وَيُثَبِّتَ بِهِ الْأَقْدَامَ",
+          "إِذْ يُغَشِّيكُمُ النُّعَاسَ أَمَنَةً مِّنْهُ وَيُنَزِّلُ عَلَيْكُم مِّنَ السَّمَاءِ مَاءً",
         AyahTrans:
-          "When He was causing slumber to overcome you as a security from Him, and sending down on you water from heaven, to purify you thereby, and to put away from you the defilement of Satan, and to strengthen your hearts, and to confirm your feet.",
+          "When He caused calm to fall on you as a security from Him, and sent down water from the sky upon you...",
         FormCount: 2,
         Form: "أَمَنَة",
       },
@@ -608,9 +608,9 @@
         Phonetic_En: "u'tumina",
         FullWord: "اؤْتُمِنَ",
         AyahText:
-          "وَإِن كُنتُمْ عَلَىٰ سَفَرٍ وَلَمْ تَجِدُوا كَاتِبًا فَرِهَانٌ مَّقْبُوضَةٌ فَإِنْ أَمِنَ بَعْضُكُم بَعْضًا فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَلَا تَكْتُمُوا الشَّهَادَةَ وَمَن يَكْتُمْهَا فَإِنَّهُ آثِمٌ قَلْبُهُ وَاللَّهُ بِمَا تَعْمَلُونَ عَلِيمٌ",
+          " فَلْيُؤَدِّ الَّذِي اؤْتُمِنَ أَمَانَتَهُ وَلْيَتَّقِ اللَّهَ رَبَّهُ وَ",
         AyahTrans:
-          "And if you are upon a journey, and you do not find a writer, then a pledge in hand. But if one of you trusts another, let him who is trusted deliver his trust, and let him fear God his Lord. And do not conceal the testimony; whoso conceals it, his heart is sinful; and God has knowledge of the things you do.",
+          "let him who is trusted deliver his trust, and let him fear God his Lord..",
         FormCount: 1,
         Form: "ٱؤْتُمِنَ",
       },
@@ -624,7 +624,7 @@
         AyahText:
           "الَّذِينَ يُؤْمِنُونَ بِالْغَيْبِ وَيُقِيمُونَ الصَّلَاةَ وَمِمَّا رَزَقْنَاهُمْ يُنفِقُونَ",
         AyahTrans:
-          "who believe in the Unseen, and perform the prayer, and expend of that We have provided them;",
+          "who believe in the Unseen, and establish worship, and spend out of what We have given them.",
         FormCount: 1,
         Form: "أَمَنَ",
       },
