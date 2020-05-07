@@ -873,8 +873,8 @@
         Meaning_En: "her load",
         Phonetic_En: "ḥamlahā",
         FullWord: "حَمْلَهَا",
-        AyahText: "...يَوْمَ تَرَوْنَهَا تَذْهَلُ كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا",
-        AyahTrans: "on the day when you behold it, every suckling woman shall neglect the child she has suckled, and every pregnant woman shall deposit her burden...",
+        AyahText: "... كُلُّ مُرْضِعَةٍ عَمَّا أَرْضَعَتْ وَتَضَعُ كُلُّ ذَاتِ حَمْلٍ حَمْلَهَا...",
+        AyahTrans: "Every suckling woman shall neglect the child she has suckled, and every pregnant woman shall deposit her burden...",
         FormCount: 7,
         Form: "حَمْل",
         
@@ -1016,8 +1016,8 @@
         Meaning_En: "its course",
         Phonetic_En: "majrahā",
         FullWord: "مَجْراهَا",
-        AyahText: "وَقَالَ ارْكَبُوا فِيهَا بِسْمِ اللَّهِ مَجْرَاهَا وَمُرْسَاهَا إِنَّ رَبِّي لَغَفُورٌ رَّحِيمٌ",
-        AyahTrans: "He said, 'Embark in it! In God's Name shall be its course and its berthing. Surely my Lord is All-forgiving, All-compassionate.'",
+        AyahText: "وَقَالَ ارْكَبُوا فِيهَا ",
+        AyahTrans: "He said, 'Embark in it! In God's Name shall be its course and its berthing...'",
         FormCount: 1,
         Form: "مَجْرى",
         
