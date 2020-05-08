@@ -2156,9 +2156,10 @@
         Phonetic_En: "arḥamu",
         FullWord: "أَرْحَمُ",
         AyahText:
-          "وَأَيُّوبَ إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
+          " إِذْ نَادَىٰ رَبَّهُ أَنِّي مَسَّنِيَ الضُّرُّ وَأَنتَ أَرْحَمُ الرَّاحِمِينَ",
         AyahTrans:
-          "And Job -- when he called unto his Lord, 'Behold, affliction has visited me, and Thou art the most merciful of the merciful.'",
+          "he called to his Lord, "Indeed, adversity has touched me, and you are the Most Merciful of the merciful.",
+
         FormCount: 4,
         Form: "أَرْحَم",
       },
@@ -2172,7 +2173,7 @@
         AyahText:
           "فَأَرَدْنَا أَن يُبْدِلَهُمَا رَبُّهُمَا خَيْرًا مِّنْهُ زَكَاةً وَأَقْرَبَ رُحْمًا",
         AyahTrans:
-          "so we desired that their Lord should give to them in exchange one better than he in purity, and nearer in tenderness.",
+          "And we intended that their Lord should change replace for them for one better in purity and nearer to mercy.",
         FormCount: 1,
         Form: "رُحْم",
       },
@@ -2196,9 +2197,9 @@
         Phonetic_En: "l-rāḥimīna",
         FullWord: "الرَّاحِمِينَ",
         AyahText:
-          "قَالَ لَا تَثْرِيبَ عَلَيْكُمُ الْيَوْمَ يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
+          " يَغْفِرُ اللَّهُ لَكُمْ وَهُوَ أَرْحَمُ الرَّاحِمِينَ",
         AyahTrans:
-          "He said, 'No reproach this day shall be on you; God will forgive you; He is the most merciful of the merciful.",
+          " God will forgive you; He is the most merciful of the merciful.",
         FormCount: 1,
         Form: "راحِم",
       },
@@ -2298,9 +2299,9 @@
         Phonetic_En: "l-rayi",
         FullWord: "الرَّأْيِ",
         AyahText:
-          "فَقَالَ الْمَلَأُ الَّذِينَ كَفَرُوا مِن قَوْمِهِ مَا نَرَاكَ إِلَّا بَشَرًا مِّثْلَنَا وَمَا نَرَاكَ اتَّبَعَكَ إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ بَلْ نَظُنُّكُمْ كَاذِبِينَ",
+          " إِلَّا الَّذِينَ هُمْ أَرَاذِلُنَا بَادِيَ الرَّأْيِ وَمَا نَرَىٰ لَكُمْ عَلَيْنَا مِن فَضْلٍ ",
         AyahTrans:
-          "Said the Council of the unbelievers of his people, 'We see thee not other than a mortal like ourselves, and we see no? any following thee but the vilest of us, inconsiderately. We do not see you have over us any superiority; no, rather we think you are liars.'",
+          "they (too) followed you without thinking. And we do not see in you any merit above us...'",
         FormCount: 2,
         Form: "رَأْى",
       },
