@@ -1858,9 +1858,9 @@
         Phonetic_En: "kullamā",
         FullWord: "كُلَّمَا",
         AyahText:
-          "وَمَن يَهْدِ اللَّهُ فَهُوَ الْمُهْتَدِ وَمَن يُضْلِلْ فَلَن تَجِدَ لَهُمْ أَوْلِيَاءَ مِن دُونِهِ وَنَحْشُرُهُمْ يَوْمَ الْقِيَامَةِ عَلَىٰ وُجُوهِهِمْ عُمْيًا وَبُكْمًا وَصُمًّا مَّأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
+          " مَّأْوَاهُمْ جَهَنَّمُ كُلَّمَا خَبَتْ زِدْنَاهُمْ سَعِيرًا",
         AyahTrans:
-          "Whomsoever God guides, he is rightly guided; and whom He leads astray -- thou wilt not find for them protectors, apart from Him. And We shall muster them on the Resurrection Day upon their faces, blind, dumb, deaf; their refuge shall be Gehenna, and whensoever it abates We shall increase for them the Blaze.",
+          "their refuge shall be Gehenna, and whensoever it abates We shall increase for them the Blaze.",
         FormCount: 1,
         Form: "مَا",
       },
@@ -1886,9 +1886,9 @@
         Phonetic_En: "l-kalālati",
         FullWord: "الْكَلَالَةِ",
         AyahText:
-          "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ إِنِ امْرُؤٌ هَلَكَ لَيْسَ لَهُ وَلَدٌ وَلَهُ أُخْتٌ فَلَهَا نِصْفُ مَا تَرَكَ وَهُوَ يَرِثُهَا إِن لَّمْ يَكُن لَّهَا وَلَدٌ فَإِن كَانَتَا اثْنَتَيْنِ فَلَهُمَا الثُّلُثَانِ مِمَّا تَرَكَ وَإِن كَانُوا إِخْوَةً رِّجَالًا وَنِسَاءً فَلِلذَّكَرِ مِثْلُ حَظِّ الْأُنثَيَيْنِ يُبَيِّنُ اللَّهُ لَكُمْ أَن تَضِلُّوا وَاللَّهُ بِكُلِّ شَيْءٍ عَلِيمٌ",
+          "يَسْتَفْتُونَكَ قُلِ اللَّهُ يُفْتِيكُمْ فِي الْكَلَالَةِ ",
         AyahTrans:
-          "They will ask thee for a pronouncement. Say: 'God pronounces to you concerning the indirect heirs. If a man perishes having no children, but he has a sister, she shall receive a half of what he leaves, and he is her heir if she has no children. If there be two sisters, they shall receive two-thirds of what he leaves; if there be brothers and sisters, the male shall receive the portion of two females. God makes clear to you, lest you go astray; God has knowledge of everything.",
+          "They will ask thee for a pronouncement. Say: 'God pronounces to you concerning the indirect heirs...,
         FormCount: 2,
         Form: "كَلَالَة",
       },
@@ -1947,9 +1947,9 @@
         Phonetic_En: "ʿadhbun",
         FullWord: "عَذْبٌ",
         AyahText:
-          "وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا",
+          "وَهُوَ الَّذِي مَرَجَ الْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ ",
         AyahTrans:
-          "And it is He who let forth the two seas, this one Sweet, grateful to taste, and this salt, bitter to the tongue, and He set between them a barrier, and a ban forbidden.",
+          "And it is He who let forth the two seas, this one Sweet, grateful to taste.",
         FormCount: 2,
         Form: "عَذْب",
       },
@@ -1963,7 +1963,7 @@
         AyahText:
           "وَمَا كَانَ اللَّهُ لِيُعَذِّبَهُمْ وَأَنتَ فِيهِمْ وَمَا كَانَ اللَّهُ مُعَذِّبَهُمْ وَهُمْ يَسْتَغْفِرُونَ",
         AyahTrans:
-          "But God would never chastise them, with thee among them; God would never chastise them as they begged forgiveness.",
+          "But Allah would not punish them while thou wast with them, nor will He punish them while they seek forgiveness.",
         FormCount: 4,
         Form: "مُعَذِّب",
       },
@@ -2080,7 +2080,7 @@
         AyahText:
           "ثُمَّ كَانَ مِنَ الَّذِينَ آمَنُوا وَتَوَاصَوْا بِالصَّبْرِ وَتَوَاصَوْا بِالْمَرْحَمَةِ",
         AyahTrans:
-          "then that he become of those who believe and counsel each other to be steadfast, and counsel each other to be merciful.",
+          "And to be of those who believe and exhort one another to perseverance and exhort one another to pity.",
         FormCount: 1,
         Form: "مَرْحَمَة",
       },
