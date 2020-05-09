@@ -2486,7 +2486,7 @@
         Phonetic_En: "l-ṣadaqāti",
         FullWord: "الصَّدَقَاتِ",
         AyahText: "يَمْحَقُ اللَّهُ الرِّبَا وَيُرْبِي الصَّدَقَاتِ وَاللَّهُ لَا يُحِبُّ كُلَّ كَفَّارٍ أَثِيمٍ",
-        AyahTrans: "God blots out usury, but freewill offerings He augments with interest. God loves not any guilty ingrate.",
+        AyahTrans: "Allah destroys usury and increases charity; and Allah does not like any ungrateful, excessive sinner.",
         FormCount: 13,
         Form: "صَدَقَة",
         
@@ -2772,7 +2772,7 @@
         Phonetic_En: "mīʿādu",
         FullWord: "مِيعَادُ",
         AyahText: "قُل لَّكُم مِّيعَادُ يَوْمٍ لَّا تَسْتَأْخِرُونَ عَنْهُ سَاعَةً وَلَا تَسْتَقْدِمُونَ",
-        AyahTrans: "Say:'You have the tryst of a day that you shall not put back by a single hour nor put it forward.'",
+        AyahTrans: "Say: You have the appointment of a day from which you cannot hold back any while, nor can you bring it on...'",
         FormCount: 6,
         Form: "مِيعَاد",
         
@@ -2810,8 +2810,8 @@
         Meaning_En: "you (had) made an appointment",
         Phonetic_En: "tawāʿadttum",
         FullWord: "تَوَاعَدتُّمْ",
-        AyahText: "...إِذۡ أَنتُم بِٱلۡعُدۡوَةِ ٱلدُّنۡيَا وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِي ٱلۡمِيعَٰدِ",
-        AyahTrans: "...when you were on the near side of the valley, and they were on the farther side, and the caravan was lower [in position] than you. If you had made an appointment [to meet],",
+        AyahText: "... وَهُم بِٱلۡعُدۡوَةِ ٱلۡقُصۡوَىٰ وَٱلرَّكۡبُ أَسۡفَلَ مِنكُمۡۚ وَلَوۡ تَوَاعَدتُّمۡ لَٱخۡتَلَفۡتُمۡ فِي ٱلۡمِيعَٰدِ ...",
+        AyahTrans: "...and they were on the farther side, and the caravan was lower than you. If you had made an appointment,...",
         FormCount: 1,
         Form: "تَوَاعَد",
         
@@ -2823,8 +2823,8 @@
         Meaning_En: "threatening",
         Phonetic_En: "tūʿidūna",
         FullWord: "تُوعِدُونَ",
-        AyahText: "وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ وَتَبْغُونَهَا عِوَجًا وَاذْكُرُوا إِذْ كُنتُمْ قَلِيلًا فَكَثَّرَكُمْ وَانظُرُوا كَيْفَ كَانَ عَاقِبَةُ الْمُفْسِدِينَ",
-        AyahTrans: "And do not sit in every path, threatening and barring from God's way those who believe in Him, desiring to make it crooked. And remember when you were few, and He multiplied you; and behold, how was the end of the workers of corruption.",
+        AyahText: "... وَلَا تَقْعُدُوا بِكُلِّ صِرَاطٍ تُوعِدُونَ وَتَصُدُّونَ عَن سَبِيلِ اللَّهِ مَنْ آمَنَ بِهِ",
+        AyahTrans: "And do not sit in every path, threatening and barring from God's way those who believe in Him,...",
         FormCount: 1,
         Form: "تُوعِدُ",
         
@@ -2902,7 +2902,7 @@
     FormCount: 51,
     AyahAyah: 35,
     AyahSurah: 20,
-    AyahTranslation: "Surely Thou seest into us.'",
+    AyahTranslation: "Indeed, You are of us ever Seeing.",
     Word: "بَصِير",
     Meaning: "All-Seer",
     WordNum: 75,
