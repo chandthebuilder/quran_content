@@ -2491,9 +2491,9 @@
         Phonetic_En: "ahdā",
         FullWord: "أَهْدَى",
         AyahText:
-          "قُلْ كُلٌّ يَعْمَلُ عَلَىٰ شَاكِلَتِهِ فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
+          " فَرَبُّكُمْ أَعْلَمُ بِمَنْ هُوَ أَهْدَىٰ سَبِيلًا",
         AyahTrans:
-          "Say: 'Every man works according to his own manner; but your Lord knows very well what man is best guided as to the way.'",
+          " But your Lord knows best who it is that is best guided on the Way.'",
         FormCount: 7,
         Form: "أَهْدَى",
       },
@@ -2505,9 +2505,9 @@
         Phonetic_En: "muh'tadin",
         FullWord: "مُهْتَدٍ",
         AyahText:
-          "وَلَقَدْ أَرْسَلْنَا نُوحًا وَإِبْرَاهِيمَ وَجَعَلْنَا فِي ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتَابَ فَمِنْهُم مُّهْتَدٍ وَكَثِيرٌ مِّنْهُمْ فَاسِقُونَ",
+          " وَجَعَلْنَا فِي ذُرِّيَّتِهِمَا النُّبُوَّةَ وَالْكِتَابَ فَمِنْهُم مُّهْتَدٍ ",
         AyahTrans:
-          "And We sent Noah, and Abraham, and We appointed the Prophecy and the Book to be among their seed; and some of them are guided, and many of them are ungodly.",
+          " We appointed the Prophecy and the Book to be among their seed; and some of them are guided...",
         FormCount: 3,
         Form: "مُهْتَد",
       },
@@ -2531,9 +2531,9 @@
         Phonetic_En: "wal-hadya",
         FullWord: "وَالْهَدْيَ",
         AyahText:
-          "جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ وَالْقَلَائِدَ ذَٰلِكَ لِتَعْلَمُوا أَنَّ اللَّهَ يَعْلَمُ مَا فِي السَّمَاوَاتِ وَمَا فِي الْأَرْضِ وَأَنَّ اللَّهَ بِكُلِّ شَيْءٍ عَلِيمٌ",
+          "جَعَلَ اللَّهُ الْكَعْبَةَ الْبَيْتَ الْحَرَامَ قِيَامًا لِّلنَّاسِ وَالشَّهْرَ الْحَرَامَ وَالْهَدْيَ ",
         AyahTrans:
-          "God has appointed the Kaaba, the Holy House, as an establishment for men, and the holy month; the offering, and the necklaces -- that, that you may know that God knows all that is in the heavens and in the earth; and that God has knowledge of everything.",
+          "God has appointed the Kaaba, the Holy House, as an establishment for men, and the holy month; the offering....",
         FormCount: 7,
         Form: "هَدْي",
       },
