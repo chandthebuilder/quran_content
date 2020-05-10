@@ -2559,9 +2559,9 @@
         Phonetic_En: "bihādī",
         FullWord: "بِهَادِي",
         AyahText:
-          "وَمَا أَنتَ بِهَادِي الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ إِلَّا مَن يُؤْمِنُ بِآيَاتِنَا فَهُم مُّسْلِمُونَ",
+          "وَمَا أَنتَ بِهَادِي الْعُمْيِ عَن ضَلَالَتِهِمْ إِن تُسْمِعُ ",
         AyahTrans:
-          "Thou shalt not guide the blind out of their error neither shalt thou make any to hear, save such as believe in Our signs, and so surrender.",
+          "Thou shalt not guide the blind out of their error neither shalt thou make any to hear...",
         FormCount: 1,
         Form: "هَادِى",
       },
@@ -2717,9 +2717,9 @@
         Phonetic_En: "laẓalūmun",
         FullWord: "لَظَلُومٌ",
         AyahText:
-          "وَآتَاكُم مِّن كُلِّ مَا سَأَلْتُمُوهُ وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا إِنَّ الْإِنسَانَ لَظَلُومٌ كَفَّارٌ",
+          " وَإِن تَعُدُّوا نِعْمَتَ اللَّهِ لَا تُحْصُوهَا إِنَّ الْإِنسَانَ لَظَلُومٌ كَفَّارٌ",
         AyahTrans:
-          "and gave you of all you asked Him. If you count God's blessing, you will never number it; surely man is sinful, unthankful!",
+          "If you count God's blessing, you will never number it; surely man is sinful, unthankful!",
         FormCount: 2,
         Form: "ظَلُوم",
       },
@@ -2731,9 +2731,9 @@
         Phonetic_En: "maẓlūman",
         FullWord: "مَظْلُومًا",
         AyahText:
-          "وَلَا تَقْتُلُوا النَّفْسَ الَّتِي حَرَّمَ اللَّهُ إِلَّا بِالْحَقِّ وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا فَلَا يُسْرِف فِّي الْقَتْلِ إِنَّهُ كَانَ مَنصُورًا",
+          "وَمَن قُتِلَ مَظْلُومًا فَقَدْ جَعَلْنَا لِوَلِيِّهِ سُلْطَانًا",
         AyahTrans:
-          "And slay not the soul God has forbidden, except by right. Whosoever is slain unjustly, We have appointed to his next-of-kin authority; but let him not exceed in slaying; he shall be helped.",
+          "Whosoever is slain unjustly, We have appointed to his next-of-kin authority;.",
         FormCount: 1,
         Form: "مَظْلُوم",
       },
@@ -2745,9 +2745,9 @@
         Phonetic_En: "ẓālimī",
         FullWord: "ظَالِمِي",
         AyahText:
-          "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ فَأَلْقَوُا السَّلَمَ مَا كُنَّا نَعْمَلُ مِن سُوءٍ بَلَىٰ إِنَّ اللَّهَ عَلِيمٌ بِمَا كُنتُمْ تَعْمَلُونَ",
+          "الَّذِينَ تَتَوَفَّاهُمُ الْمَلَائِكَةُ ظَالِمِي أَنفُسِهِمْ فَأَلْقَوُا السَّلَمَ ",
         AyahTrans:
-          "whom the angels take while still they are wronging themselves.' Then they will offer surrender: 'We were doing nothing evil. 'Nay; but surety God has knowledge of the things you did.",
+          "whom the angels take while still they are wronging themselves.' Then they will offer surrender...",
         FormCount: 2,
         Form: "ظَالِمِىٓ",
       },
@@ -2759,9 +2759,9 @@
         Phonetic_En: "aẓlama",
         FullWord: "أَظْلَمَ",
         AyahText:
-          "يَكَادُ الْبَرْقُ يَخْطَفُ أَبْصَارَهُمْ كُلَّمَا أَضَاءَ لَهُم مَّشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا وَلَوْ شَاءَ اللَّهُ لَذَهَبَ بِسَمْعِهِمْ وَأَبْصَارِهِمْ إِنَّ اللَّهَ عَلَىٰ كُلِّ شَيْءٍ قَدِيرٌ",
+          " كُلَّمَا أَضَاءَ لَهُم مَّشَوْا فِيهِ وَإِذَا أَظْلَمَ عَلَيْهِمْ قَامُوا",
         AyahTrans:
-          "the lightning wellnigh snatches away their sight; whensoever it gives them light, they walk in it, and when the darkness is over them, they halt; had God willed, He would have taken away their hearing and their sight. Truly, God is powerful over everything.",
+          "whenever it flashes for them, they walk therein, and when darkness covers them, they stand stil..",
         FormCount: 1,
         Form: "أَظْلَمَ",
       },
