@@ -3143,7 +3143,7 @@
         AyahText:
           "وَقُل رَّبِّ أَنزِلْنِي مُنزَلًا مُّبَارَكًا وَأَنتَ خَيْرُ الْمُنزِلِينَ",
         AyahTrans:
-          'And say, "\'O my Lord, do Thou harbour me in a blessed harbour, for Thou art the best of harbourers."',
+          'And say, "'O my Lord, do Thou harbour me in a blessed harbour, for Thou art the best of harbourers."',
         FormCount: 2,
         Form: "مُنزَل",
       },
@@ -3155,9 +3155,9 @@
         Phonetic_En: "munazzalun",
         FullWord: "مُنَزَّلٌ",
         AyahText:
-          "أَفَغَيْرَ اللَّهِ أَبْتَغِي حَكَمًا وَهُوَ الَّذِي أَنزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا وَالَّذِينَ آتَيْنَاهُمُ الْكِتَابَ يَعْلَمُونَ أَنَّهُ مُنَزَّلٌ مِّن رَّبِّكَ بِالْحَقِّ فَلَا تَكُونَنَّ مِنَ الْمُمْتَرِينَ",
+          "وَهُوَ الَّذِي أَنزَلَ إِلَيْكُمُ الْكِتَابَ مُفَصَّلًا",
         AyahTrans:
-          "What, shall I seek after any judge but God? For it is He who sent down to you the Book well-distinguished; and those whom We have given the Book know it is sent down from thy Lord with the truth; so be not thou of the doubters.",
+          "or it is He who sent down to you the Book well-distinguished;.",
         FormCount: 1,
         Form: "مُنَزَّل",
       },
@@ -3169,9 +3169,9 @@
         Phonetic_En: "munazziluhā",
         FullWord: "مُنَزِّلُهَا",
         AyahText:
-          "قَالَ اللَّهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ مِنكُمْ فَإِنِّي أُعَذِّبُهُ عَذَابًا لَّا أُعَذِّبُهُ أَحَدًا مِّنَ الْعَالَمِينَ",
+          "قَالَ اللَّهُ إِنِّي مُنَزِّلُهَا عَلَيْكُمْ فَمَن يَكْفُرْ بَعْدُ",
         AyahTrans:
-          "God said, 'Verily I do send it down on you; whoso of you hereafter disbelieves, verily I shall chastise him with a chastisement wherewith I chastise no other being.'",
+          "God said, 'Verily I do send it down on you; whoso of you hereafter disbelieves...'",
         FormCount: 1,
         Form: "مُنَزِّل",
       },
@@ -3317,9 +3317,9 @@
         Phonetic_En: "lildhākirīna",
         FullWord: "لِلذَّاكِرِينَ",
         AyahText:
-          "وَأَقِمِ الصَّلَاةَ طَرَفَيِ النَّهَارِ وَزُلَفًا مِّنَ اللَّيْلِ إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
+          " إِنَّ الْحَسَنَاتِ يُذْهِبْنَ السَّيِّئَاتِ ذَٰلِكَ ذِكْرَىٰ لِلذَّاكِرِينَ",
         AyahTrans:
-          "And perform the prayer at the two ends of the day and nigh of the night; surely the good deeds will drive away the evil deeds. That is a remembrance unto the mindful.",
+          "surely the good deeds will drive away the evil deeds. That is a remembrance unto the mindful. ",
         FormCount: 3,
         Form: "ذَاكِر",
       },
@@ -3331,9 +3331,9 @@
         Phonetic_En: "wa-iddakara",
         FullWord: "وَادَّكَرَ",
         AyahText:
-          "وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَنَا أُنَبِّئُكُم بِتَأْوِيلِهِ فَأَرْسِلُونِ",
+          "وَقَالَ الَّذِي نَجَا مِنْهُمَا وَادَّكَرَ بَعْدَ أُمَّةٍ أَ",
         AyahTrans:
-          "Then said the one who had been delivered, remembering after a time, 'I will myself tell you its interpretation; so send me forth.'",
+          "Then said the one who had been delivered, remembering after a time...'",
         FormCount: 1,
         Form: "ٱدَّكَرَ",
       },
@@ -3345,9 +3345,9 @@
         Phonetic_En: "watadhkīrī",
         FullWord: "وَتَذْكِيرِي",
         AyahText:
-          "وَاتْلُ عَلَيْهِمْ نَبَأَ نُوحٍ إِذْ قَالَ لِقَوْمِهِ يَا قَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِي وَتَذْكِيرِي بِآيَاتِ اللَّهِ فَعَلَى اللَّهِ تَوَكَّلْتُ فَأَجْمِعُوا أَمْرَكُمْ وَشُرَكَاءَكُمْ ثُمَّ لَا يَكُنْ أَمْرُكُمْ عَلَيْكُمْ غُمَّةً ثُمَّ اقْضُوا إِلَيَّ وَلَا تُنظِرُونِ",
+          " يَا قَوْمِ إِن كَانَ كَبُرَ عَلَيْكُم مَّقَامِي وَتَذْكِيرِي بِآيَاتِ اللَّهِ فَعَلَى اللَّهِ تَوَكَّلْتُ",
         AyahTrans:
-          "And recite to them the story of Noah when he said to his people, 'My people, if my standing here is grievous to you and my reminding you of the signs of God, in God have I put my trust; so resolve on your affair, with your associates, then let not your affair be a worry to you, but make decision unto me, and respite me not.",
+          "'My people, if my standing here is grievous to you and my reminding you of the signs of God,.",
         FormCount: 1,
         Form: "تَذْكِير",
       },
@@ -3405,9 +3405,9 @@
         Phonetic_En: "aḥaqqu",
         FullWord: "أَحَقُّ",
         AyahText:
-          "يَحْلِفُونَ بِاللَّهِ لَكُمْ لِيُرْضُوكُمْ وَاللَّهُ وَرَسُولُهُ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا مُؤْمِنِينَ",
+          " وَاللَّهُ وَرَسُولُهُ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا مُؤْمِنِينَ",
         AyahTrans:
-          "They swear to you by God, to please you; but God and His Messenger -- more right is it they should please Him, if they are believers.",
+          " but God and His Messenger -- more right is it they should please Him, if they are believers.",
         FormCount: 10,
         Form: "أَحَقّ",
       },
@@ -3433,9 +3433,9 @@
         Phonetic_En: "ḥaqīqun",
         FullWord: "حَقِيقٌ",
         AyahText:
-          "حَقِيقٌ عَلَىٰ أَن لَّا أَقُولَ عَلَى اللَّهِ إِلَّا الْحَقَّ قَدْ جِئْتُكُم بِبَيِّنَةٍ مِّن رَّبِّكُمْ فَأَرْسِلْ مَعِيَ بَنِي إِسْرَائِيلَ",
+          "حَقِيقٌ عَلَىٰ أَن لَّا أَقُولَ عَلَى اللَّهِ إِلَّا الْحَقَّ",
         AyahTrans:
-          "worthy to say nothing regarding God except the truth. I have brought a clear sign to you from your Lord; so send forth with me the Children of Israel.'",
+          "worthy to say nothing regarding God except the truth...'",
         FormCount: 1,
         Form: "حَقِيق",
       },
@@ -3447,9 +3447,9 @@
         Phonetic_En: "is'taḥaqqa",
         FullWord: "اسْتَحَقَّ",
         AyahText:
-          "فَإِنْ عُثِرَ عَلَىٰ أَنَّهُمَا اسْتَحَقَّا إِثْمًا فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ الْأَوْلَيَانِ فَيُقْسِمَانِ بِاللَّهِ لَشَهَادَتُنَا أَحَقُّ مِن شَهَادَتِهِمَا وَمَا اعْتَدَيْنَا إِنَّا إِذًا لَّمِنَ الظَّالِمِينَ",
+          " فَآخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ الَّذِينَ اسْتَحَقَّ عَلَيْهِمُ الْأَوْلَيَانِهِ",
         AyahTrans:
-          "But if it be discovered that both of them have merited the accusation of any sin, then two others shall stand in their place, these being the nearest of those most concerned, and they shall swear by God, 'Our testimony is truer than their testimony, and we have not transgressed, for then we would assuredly be among the evildoers.'",
+          " then two others shall stand in their place, these being the nearest of those most concerned..",
         FormCount: 2,
         Form: "ٱسْتَحَقَّ",
       },
@@ -3570,9 +3570,9 @@
         Phonetic_En: "makdhūbin",
         FullWord: "مَكْذُوبٍ",
         AyahText:
-          "فَعَقَرُوهَا فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
+          " فَقَالَ تَمَتَّعُوا فِي دَارِكُمْ ثَلَاثَةَ أَيَّامٍ ذَٰلِكَ وَعْدٌ غَيْرُ مَكْذُوبٍ",
         AyahTrans:
-          "But they hamstrung her; and he said, 'Take your joy in your habitation three days -- that is a promise not to be belied.'",
+           'Take your joy in your habitation three days -- that is a promise not to be belied.'",
         FormCount: 1,
         Form: "مَكْذُوب",
       },
